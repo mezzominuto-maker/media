@@ -18,9 +18,9 @@
   "titolo": "Aiuti a Kiev, Meloni rassicura",
   "fatti_chiave": [
    "13° pacchetto di aiuti militari: Giorgetti non ha ancora firmato perché a Bruxelles (Ecofin), firmerà al rientro a Roma",
-   "Meloni a Bologna (Eima): “La maggioranza ha sempre trovato una sintesi”",
+   "Meloni a Bologna (Eima): la maggioranza ha sempre trovato una sintesi — VERIFICA 19:10: frase esatta trovata solo nel corpo ANSA (una fonte), convertita in parafrasi senza virgolette",
    "Meloni: “non credo che la posizione dell'Italia cambierà”",
-   "Citazione Meloni verificata nel testo ANSA (parole pronunciate in italiano a Bologna)"
+   "Citazione Meloni confermata solo da ANSA: rimossa come virgolettato"
   ],
   "link": [
    "https://www.ansa.it/sito/notizie/politica/2026/11/10/ucraina-meloni-sempre-trovata-una-sintesi-la-posizione-dellitalia-non-cambiera_83808254-a528-4178-aee1-ade2f46fc15d.html",
@@ -59,11 +59,12 @@
   "trend": ""
  },
  {
-  "titolo": "Iran, Trump: guerra quasi finita",
+  "titolo": "Iran, Trump: guerra di fatto finita",
   "fatti_chiave": [
    "Trump dopo l'incontro con il premier del Qatar (9/11): la guerra con l'Iran è militarmente 'effectively over' (AP) — riportato senza virgolette",
    "Teheran (Rezaei, Araghchi) nega colloqui con gli Usa",
-   "CORREZIONE: la prima versione attribuiva a Trump che l'Iran (e non la guerra) fosse 'praticamente finito': errore di attribuzione, rimosso"
+   "CORREZIONE: la prima versione attribuiva a Trump che l'Iran (e non la guerra) fosse 'praticamente finito': errore di attribuzione, rimosso",
+   "VERIFICA 19:10: titolo corretto da 'quasi finita' a 'di fatto finita' (AP: 'effectively over')"
   ],
   "link": [
    "https://it.euronews.com/2026/11/10/trump-la-guerra-con-liran-e-militarmente-finita-teheran-nega-colloqui",
