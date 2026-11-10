@@ -2,7 +2,7 @@
  {
   "etichetta": "a",
   "orario": "2026-11-10T21:00:00+01:00",
-  "id": 423438986,
+  "id": 423464216,
   "uuid": "1252104769765654994",
   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=1252104769765654994",
   "info": {
@@ -17,13 +17,13 @@
     "ids": []
    },
    "media": [
-    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10/slide_01.jpg",
-    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10/slide_02.jpg",
-    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10/slide_03.jpg",
-    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10/slide_04.jpg",
-    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10/slide_05.jpg",
-    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10/slide_06.jpg",
-    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10/slide_07.jpg"
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10-v2/slide_01.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10-v2/slide_02.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10-v2/slide_03.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10-v2/slide_04.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10-v2/slide_05.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10-v2/slide_06.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10-v2/slide_07.jpg"
    ],
    "providers": [
     {
@@ -49,7 +49,7 @@
  {
   "etichetta": "b",
   "orario": "2026-11-10T19:30:00+01:00",
-  "id": 423439011,
+  "id": 423464096,
   "uuid": "2595498144152701385",
   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=2595498144152701385",
   "info": {
@@ -64,7 +64,7 @@
     "ids": []
    },
    "media": [
-    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10/video.mp4"
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10-v2/video.mp4"
    ],
    "providers": [
     {
@@ -89,7 +89,7 @@
  {
   "etichetta": "c",
   "orario": "2026-11-10T19:30:00+01:00",
-  "id": 423439028,
+  "id": 423464116,
   "uuid": "-4385487653242319282",
   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-4385487653242319282",
   "info": {
@@ -104,7 +104,7 @@
     "ids": []
    },
    "media": [
-    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10/video.mp4"
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10-v2/video.mp4"
    ],
    "providers": [
     {
@@ -131,7 +131,7 @@
  {
   "etichetta": "d",
   "orario": "2026-11-10T19:30:00+01:00",
-  "id": 423439050,
+  "id": 423464139,
   "uuid": "-1614584598689987136",
   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-1614584598689987136",
   "info": {
@@ -146,13 +146,13 @@
     "ids": []
    },
    "media": [
-    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10/slide_01.jpg",
-    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10/slide_02.jpg",
-    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10/slide_03.jpg",
-    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10/slide_04.jpg",
-    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10/slide_05.jpg",
-    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10/slide_06.jpg",
-    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10/slide_07.jpg"
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10-v2/slide_01.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10-v2/slide_02.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10-v2/slide_03.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10-v2/slide_04.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10-v2/slide_05.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10-v2/slide_06.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10-v2/slide_07.jpg"
    ],
    "providers": [
     {
@@ -180,7 +180,7 @@
  {
   "etichetta": "e",
   "orario": "2026-11-10T19:30:00+01:00",
-  "id": 423439073,
+  "id": 423464174,
   "uuid": "3374262555578548966",
   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=3374262555578548966",
   "info": {
@@ -195,7 +195,7 @@
     "ids": []
    },
    "media": [
-    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10/video.mp4"
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10-v2/video.mp4"
    ],
    "providers": [
     {
@@ -206,7 +206,7 @@
     "dateTime": "2026-11-10T19:30:00",
     "timezone": "Europe/Rome"
    },
-   "text": "Le 5 notizie di martedì 10 novembre 2026 in mezzo minuto.\n\n1. Ucraina, colloqui a tre ad Abu Dhabi – Russia, Ucraina e Usa al tavolo. Zelensky: “costruttivi”. Rubio: “la strada da fare è ancora lunga”. (Fonti: ANSA, Affaritaliani)\n2. Aiuti a Kiev, Meloni rassicura – Giorgetti firmerà il nuovo pacchetto al rientro a Roma. Meloni: “La maggioranza ha sempre trovato una sintesi”. (Fonte: ANSA)\n3. Bollette, tetto al prezzo del gas – Approvato il decreto: sopra i 58,9 euro al MWh scatta il meccanismo contro i rincari, dal 2027. (Fonti: Sky TG24, Il Sole 24 Ore)\n4. Swg, coalizioni a 0,9 punti – Centrosinistra al 44,9%, centrodestra al 44%. La Lega (5,7%) torna davanti a Vannacci (5,5%). (Fonte: Swg per TG La7)\n5. Iran, Trump: guerra quasi finita – Per Trump l’Iran “dal punto di vista militare è praticamente finito”. Teheran nega colloqui. (Fonte: Euronews)\n\nSegui per le notizie di domani.\n#mezzominuto #notizie #politica",
+   "text": "Le 5 notizie di martedì 10 novembre 2026 in mezzo minuto.\n\n1. Ucraina, colloqui a tre ad Abu Dhabi – Russia, Ucraina e Usa al tavolo. Zelensky parla di colloqui costruttivi, per Rubio la strada è ancora lunga. (Fonti: ANSA, Affaritaliani)\n2. Aiuti a Kiev, Meloni rassicura – Giorgetti firmerà il nuovo pacchetto al rientro a Roma. Meloni: “La maggioranza ha sempre trovato una sintesi”. (Fonte: ANSA)\n3. Bollette, tetto al prezzo del gas – Approvato il decreto: sopra i 58,9 euro al MWh scatta il meccanismo contro i rincari, dal 2027. (Fonti: Sky TG24, Il Sole 24 Ore)\n4. Swg, coalizioni a 0,9 punti – Centrosinistra al 44,9%, centrodestra al 44%. La Lega (5,7%) torna davanti a Vannacci (5,5%). (Fonte: Swg per TG La7)\n5. Iran, Trump: guerra quasi finita – Per Trump la guerra con l’Iran è di fatto finita sul piano militare. Teheran nega colloqui con Washington. (Fonte: Euronews)\n\nSegui per le notizie di domani.\n#mezzominuto #notizie #politica",
    "youtubeData": {
     "title": "Mezzo Minuto – le 5 notizie del 10 novembre",
     "type": "short",
@@ -225,7 +225,7 @@
  {
   "etichetta": "f",
   "orario": "2026-11-10T19:30:00+01:00",
-  "id": 423439100,
+  "id": 423464194,
   "uuid": "-60099216004135333",
   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-60099216004135333",
   "info": {
@@ -240,7 +240,7 @@
     "ids": []
    },
    "media": [
-    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10/video.mp4"
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-10-v2/video.mp4"
    ],
    "providers": [
     {
