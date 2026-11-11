@@ -1,0 +1,276 @@
+[
+ {
+  "etichetta": "a",
+  "orario": "21:00",
+  "id": 424702951,
+  "uuid": "-358367379888780527",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-358367379888780527",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-11/slide_01.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-11/slide_02.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-11/slide_03.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-11/slide_04.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-11/slide_05.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-11/slide_06.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-11/slide_07.jpg"
+   ],
+   "text": "⏱️ Le 5 notizie di mercoledì 11 novembre in mezzo minuto.\n\n1. Allarme bomba: email minatoria a circa 6.300 scuole, molte evacuate\n2. Ucraina: ad Abu Dhabi intesa su un maxi scambio di prigionieri\n3. Manovra 2027: circa 5 miliardi da micro tasse su sigarette, giochi e Tobin tax\n4. Usa: la Camera blocca l’impeachment di Hegseth\n5. Sondaggio Youtrend: il campo largo supera il centrodestra\n\nCom’è andata nella tua scuola o in quella dei tuoi figli? Scrivilo nei commenti.\n\nSegui per le notizie di domani 👉 @mezzo.minuto\n\n#mezzominuto #notizie #allarmebomba #scuola #ucraina #manovra #politica",
+   "publicationDate": {
+    "dateTime": "2026-11-11T21:00:00",
+    "timezone": "Europe/Rome"
+   },
+   "instagramData": {
+    "type": "POST"
+   },
+   "facebookData": {
+    "type": "POST"
+   }
+  }
+ },
+ {
+  "etichetta": "b",
+  "orario": "19:30",
+  "id": 424702982,
+  "uuid": "-261849975783469080",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-261849975783469080",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-11/video.mp4"
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-11T19:30:00",
+    "timezone": "Europe/Rome"
+   },
+   "instagramData": {
+    "type": "STORY"
+   },
+   "facebookData": {
+    "type": "STORY"
+   }
+  }
+ },
+ {
+  "etichetta": "c",
+  "orario": "19:30",
+  "id": 424703010,
+  "uuid": "-1097328777593405288",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-1097328777593405288",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "providers": [
+    {
+     "network": "tiktok"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-11/video.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-11/cover.jpg",
+   "text": "Allarme bomba in circa 6.300 scuole italiane, poi Ucraina, manovra, Hegseth e sondaggi. #mezzominuto #notizie #allarmebomba #ucraina #manovra #politica",
+   "publicationDate": {
+    "dateTime": "2026-11-11T19:30:00",
+    "timezone": "Europe/Rome"
+   },
+   "tiktokData": {
+    "title": "Allarme bomba nelle scuole, Ucraina e manovra: le notizie di oggi in 30 secondi",
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "disableComment": false,
+    "disableDuet": false,
+    "disableStitch": false,
+    "commercialContentThirdParty": false,
+    "commercialContentOwnBrand": false,
+    "autoAddMusic": false
+   }
+  }
+ },
+ {
+  "etichetta": "d",
+  "orario": "19:30",
+  "id": 424703021,
+  "uuid": "7594340361038221125",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=7594340361038221125",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "providers": [
+    {
+     "network": "tiktok"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-11/slide_01.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-11/slide_02.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-11/slide_03.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-11/slide_04.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-11/slide_05.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-11/slide_06.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-11/slide_07.jpg"
+   ],
+   "text": "Allarme bomba in circa 6.300 scuole italiane, poi Ucraina, manovra, Hegseth e sondaggi. #mezzominuto #notizie #allarmebomba #ucraina #manovra #politica",
+   "publicationDate": {
+    "dateTime": "2026-11-11T19:30:00",
+    "timezone": "Europe/Rome"
+   },
+   "tiktokData": {
+    "title": "Allarme bomba nelle scuole, Ucraina e manovra: le notizie di oggi in 30 secondi",
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "disableComment": false,
+    "disableDuet": false,
+    "disableStitch": false,
+    "commercialContentThirdParty": false,
+    "commercialContentOwnBrand": false,
+    "autoAddMusic": false,
+    "photoCoverIndex": 0
+   }
+  }
+ },
+ {
+  "etichetta": "e",
+  "orario": "19:30",
+  "id": 424703041,
+  "uuid": "7059133636180396252",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=7059133636180396252",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "providers": [
+    {
+     "network": "youtube"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-11/video.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-11/cover.jpg",
+   "text": "Email con allarme bomba inviata a circa 6.300 scuole italiane, molte evacuate.\n\n1. Allarme bomba in circa 6.300 scuole – Fonti: Reuters, Sky TG24, Il Messaggero\n2. Ucraina, ad Abu Dhabi intesa su maxi scambio di prigionieri – Fonti: Euronews, ANSA\n3. Manovra 2027, circa 5 miliardi da micro tasse – Fonti: Sky TG24, Teleborsa\n4. Usa, la Camera blocca l’impeachment di Hegseth – Fonti: CNN, NPR, Sky TG24\n5. Sondaggio Youtrend: campo largo avanti – Fonti: Sky TG24, L’Espresso\n\n#shorts #notizie #politica",
+   "publicationDate": {
+    "dateTime": "2026-11-11T19:30:00",
+    "timezone": "Europe/Rome"
+   },
+   "youtubeData": {
+    "title": "Allarme bomba nelle scuole, Ucraina e manovra: le notizie di oggi in 30 secondi",
+    "type": "short",
+    "privacy": "public",
+    "tags": [
+     "allarme bomba scuole",
+     "ucraina",
+     "manovra 2027",
+     "hegseth",
+     "sondaggi",
+     "notizie",
+     "politica",
+     "attualità",
+     "mezzo minuto"
+    ],
+    "category": "NEWS_POLITICS",
+    "madeForKids": false
+   }
+  }
+ },
+ {
+  "etichetta": "f",
+  "orario": "19:30",
+  "id": 424703061,
+  "uuid": "-2906659053401584192",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-2906659053401584192",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-11/video.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-11/cover.jpg",
+   "text": "⏱️ Le 5 notizie di mercoledì 11 novembre in mezzo minuto.\n\n1. Allarme bomba: email minatoria a circa 6.300 scuole, molte evacuate\n2. Ucraina: ad Abu Dhabi intesa su un maxi scambio di prigionieri\n3. Manovra 2027: circa 5 miliardi da micro tasse su sigarette, giochi e Tobin tax\n4. Usa: la Camera blocca l’impeachment di Hegseth\n5. Sondaggio Youtrend: il campo largo supera il centrodestra\n\nCom’è andata nella tua scuola o in quella dei tuoi figli? Scrivilo nei commenti.\n\nSegui per le notizie di domani 👉 @mezzo.minuto\n\n#mezzominuto #notizie #allarmebomba #scuola #ucraina #manovra #politica",
+   "publicationDate": {
+    "dateTime": "2026-11-11T19:30:00",
+    "timezone": "Europe/Rome"
+   },
+   "instagramData": {
+    "type": "REEL",
+    "showReelOnFeed": true
+   },
+   "facebookData": {
+    "type": "REEL",
+    "title": "Allarme bomba nelle scuole, Ucraina e manovra: le notizie di oggi in 30 secondi"
+   }
+  }
+ }
+]
