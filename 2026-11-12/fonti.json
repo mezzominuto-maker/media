@@ -1,0 +1,72 @@
+[
+ {
+  "titolo": "Allarmi bomba, Meloni chiama le opposizioni",
+  "fatti_chiave": [
+   "Nuove mail con allarmi bomba nelle scuole (6mila scuole coinvolte secondo Il Sole 24 Ore/Fanpage)",
+   "Meloni convoca i leader di opposizione a Palazzo Chigi e fa appello all'unità",
+   "Schlein: 'Disponibili a collaborare ma nessuna delega in bianco'",
+   "Conte: 'Proposte le faccia il governo'"
+  ],
+  "link": [
+   "https://ansa.it/sito/notizie/politica/2026/11/12/schlein-disponibili-a-collaborare-su-allarmi-bomba-ma-nessuna-delega-in-bianco_4e46172b-9520-4b00-ba9a-adde4baf9218.html",
+   "https://www.ilsole24ore.com/art/allarme-bomba-decine-scuole-italia-mail-anonima-AJg85ZCC",
+   "https://tg24.sky.it/politica/2026/11/12/allarmi-bomba-scuole-riunione-governo-palazzo-chigi",
+   "https://www.ilgiornale.it/news/interni/allarmi-bomba-concluso-lincontro-con-le-opposizioni-conte-proposte-le-faccia-il-governo-schlein-disponibili-a-collaborare-ma-no-a-deleghe-in-bianco-calenda-bene-la-riunione-renzi-critico/"
+  ],
+  "trend": "possibile legame con 'scuole chiuse 12 novembre' (200K+), che però riguarda anche il maltempo; notizia in apertura su quasi tutte le testate"
+ },
+ {
+  "titolo": "Putin agli inviati Usa: no truppe europee",
+  "fatti_chiave": [
+   "Witkoff e Kushner incontrano Putin al Cremlino",
+   "Putin: inaccettabile la presenza di soldati stranieri in Ucraina; se l'Europa invierà truppe dopo la pace la guerra riprenderà"
+  ],
+  "link": [
+   "https://www.ilmessaggero.it/mondo/putin_guerra_oggi_pace_ucraina_cosa_ha_detto_vertice_cremlino-9885801.html",
+   "https://www.lapresse.it/esteri/2026/11/12/ucraina-zelensky-sui-negoziati-ad-abu-dhabi-leuropa-deve-essere-parte-integrante-putin-le-truppe-straniere-saranno-un-obiettivo-legittimo/",
+   "https://www.leggo.it/esteri/news/12_novembre_2026_guerra_ucraina_oggi_ultime_notizie-9885365.html"
+  ],
+  "trend": ""
+ },
+ {
+  "titolo": "Manovra, Giorgetti: “prudenza sui conti”",
+  "fatti_chiave": [
+   "Giorgetti in audizione davanti alle commissioni Bilancio",
+   "'La prudenza sui conti è condizione per avere spazi per difficoltà'",
+   "Coperture principalmente da giochi e prodotti da fumo"
+  ],
+  "link": [
+   "https://www.ansa.it/sito/notizie/topnews/2026/11/12/giorgetti-la-prudenza-sui-conti-e-condizione-per-avere-spazi-per-difficolta_7c46b99a-3b75-4074-a984-5d7c43899b30.html",
+   "https://www.corrieredellacalabria.it/2026/11/12/manovra-giorgetti-ascoltato-dalla-commissione-bilancio-camera/",
+   "https://italiangamingnews.it/2026/11/12/manovra-2027-giorgetti-le-coperture-riguardano-principalmente-giochi-e-prodotti-da-fumo/"
+  ],
+  "trend": "tabacco 5K+; inps perequazione pensioni 2027 10K+"
+ },
+ {
+  "titolo": "Mississippi, seggio al Senato ai democratici",
+  "fatti_chiave": [
+   "Il democratico Scott Colom vince il seggio al Senato del Mississippi",
+   "Sconfitta la senatrice repubblicana Cindy Hyde-Smith; seggio strappato ai repubblicani"
+  ],
+  "link": [
+   "https://www.cbsnews.com/news/mississippi-2026-senate-scott-colom-cindy-hyde-smith/",
+   "https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi",
+   "https://time.com/article/2026/11/12/mississippi-senate-race-scott-colom-cindy-hyde-smith-2026-midterm-elections/"
+  ],
+  "trend": ""
+ },
+ {
+  "titolo": "Israele, Eisenkot sfida Netanyahu",
+  "fatti_chiave": [
+   "Eisenkot incaricato da Herzog di formare il governo",
+   "Oggi incontro Netanyahu-Eisenkot per un aggiornamento di sicurezza",
+   "Protezione civile di Gaza: raid israeliano su un ospedale, 6 morti"
+  ],
+  "link": [
+   "https://www.ansa.it/sito/notizie/mondo/2026/11/12/protezione-civile-gaza-raid-israeliano-uccide-6-persone-in-un-ospedale_30554bb9-dc24-4e02-86b4-049e6a5420bf.html",
+   "https://www.agi.it/estero/news/2026-11-08/israele-eisenkot-premier-chi-e-39932604/",
+   "https://www.ilpost.it/2026/11/11/israele-parlamento-eisenkot-netanyahu/"
+  ],
+  "trend": "benjamin netanyahu 5K+"
+ }
+]
