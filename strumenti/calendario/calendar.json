@@ -1,0 +1,656 @@
+{
+ "updated": "14 novembre, 15:25",
+ "note": "Giornata tipo da venerdì 13: reel alle 12:00, notizie del giorno alle 19:30 (verifica alle 19:00; video su IG/FB/TikTok/YouTube + storie), carosello delle notizie alle 20:00 (Instagram e Facebook), secondo reel alle 21:00. Mai due reel della stessa fonte nello stesso giorno. Per modificare o annullare un post: tasto «Apri in Metricool» dentro ogni reel.",
+ "days": [
+  {
+   "label": "Mercoledì 11",
+   "sub": "novembre",
+   "slots": [
+    {
+     "time": "12:00",
+     "kind": "reel",
+     "status": "ok",
+     "title": "«Basta stage gratis»: la proposta di Boschi",
+     "meta": "Fonte: Collettiva · Cgil",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "clip": "clips/stage.mp4",
+     "when": "Mercoledì 11 novembre · 12:00",
+     "caption": "",
+     "planner": [
+      {
+       "label": "IG + FB",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-6414806811782003925"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=6262874091162714155"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-4386472285596464471"
+      }
+     ]
+    },
+    {
+     "time": "17:30",
+     "kind": "reel",
+     "status": "ok",
+     "title": "Capezzone: «Al governo, ma non al potere»",
+     "meta": "Fonte: Sette Vite, il podcast di Hoara Borselli · TEST: corta (33 s) su TikTok e Instagram, lunga (57 s) su YouTube e Facebook",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "clip": "clips/governo.mp4",
+     "when": "Mercoledì 11 novembre · 17:30",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram (corta)",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-4596593470876988108"
+      },
+      {
+       "label": "Facebook (lunga)",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=2455863373744259528"
+      },
+      {
+       "label": "TikTok (corta)",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-1238897510476394951"
+      },
+      {
+       "label": "YouTube (lunga)",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-6492742482117832784"
+      }
+     ]
+    },
+    {
+     "time": "19:30",
+     "kind": "news",
+     "status": "auto",
+     "title": "Le notizie del giorno (video + storie)",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ]
+    },
+    {
+     "time": "21:00",
+     "kind": "news",
+     "status": "auto",
+     "title": "Carosello notizie del giorno",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok"
+     ]
+    }
+   ],
+   "date": "2026-11-11"
+  },
+  {
+   "label": "Giovedì 12",
+   "sub": "novembre",
+   "slots": [
+    {
+     "time": "12:00",
+     "kind": "reel",
+     "status": "ok",
+     "title": "Allarmi bomba nelle scuole: «Basta cialtronaggine»",
+     "meta": "Forza: A · Fonte: Camera dei Deputati · notizia del giorno (11/11) · Facebook: invito a seguire la pagina + domanda nel primo commento · TEST: su TikTok e Instagram «Basta cialtronaggine» in apertura (2 s), poi l’intervento completo",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "clip": "clips/ricciardi_hook.mp4",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=7272633002974857734"
+      },
+      {
+       "label": "Facebook",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=616217512158711042"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-5356897518778498737"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=7081667336287306498"
+      }
+     ],
+     "when": "Giovedì 12 novembre · 12:00"
+    },
+    {
+     "time": "17:30",
+     "kind": "reel",
+     "status": "ok",
+     "title": "Attacco hacker mentre atterrava Zelensky",
+     "meta": "Forza: A- · Fonte: intervista a Tajani su LCI, dal canale YouTube della Farnesina · TEST: su TikTok e Instagram «Abbiamo subito un attacco hacker…» in apertura (2 s), poi il reel completo",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "clip": "clips/tajB_hook.mp4",
+     "when": "Giovedì 12 novembre · 17:30",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=8054344975566653040"
+      },
+      {
+       "label": "Facebook",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-4733345766241775774"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=316934695689276524"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=1913602149149068269"
+      }
+     ]
+    },
+    {
+     "time": "19:30",
+     "kind": "news",
+     "status": "auto",
+     "title": "Le notizie del giorno (video + storie)",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ]
+    },
+    {
+     "time": "21:00",
+     "kind": "news",
+     "status": "auto",
+     "title": "Carosello notizie del giorno",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok"
+     ]
+    }
+   ],
+   "date": "2026-11-12"
+  },
+  {
+   "label": "Venerdì 13",
+   "sub": "novembre",
+   "slots": [
+    {
+     "time": "12:00",
+     "kind": "reel",
+     "status": "ok",
+     "title": "Renzi sì o no? La risposta di Berlinguer",
+     "meta": "Forza: A- · Fonte: Accordi e disaccordi · Nove · Facebook: invito a seguire la pagina + domanda nel primo commento · Apertura con la frase forte · TEST: schermo intero",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "clip": "clips/ap_berlinguer.mp4",
+     "when": "Venerdì 13 novembre · 12:00",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-2325700565971220215"
+      },
+      {
+       "label": "Facebook",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=4657098376861732383"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-6286128321473527587"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-3054034516542600986"
+      }
+     ]
+    },
+    {
+     "time": "19:30",
+     "kind": "news",
+     "status": "auto",
+     "title": "Le notizie del giorno (video + storie)",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ]
+    },
+    {
+     "time": "20:00",
+     "kind": "news",
+     "status": "auto",
+     "title": "Carosello notizie del giorno",
+     "where": [
+      "Instagram",
+      "Facebook"
+     ]
+    },
+    {
+     "time": "21:00",
+     "kind": "reel",
+     "status": "ok",
+     "title": "Putin al G20 accanto a Meloni? Tajani: «Perché no»",
+     "meta": "Forza: A- · Fonte: intervista a Tajani su LCI, dal canale YouTube della Farnesina · Apertura con la frase forte (su TikTok senza, per confronto) · TEST: schermo intero",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "clip": "clips/ap_tajani_putin.mp4",
+     "when": "Venerdì 13 novembre · 21:00",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-4726119780648729060"
+      },
+      {
+       "label": "Facebook",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-775547935637027039"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=7962514357072317341"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=2522397777077093933"
+      }
+     ]
+    }
+   ],
+   "date": "2026-11-13"
+  },
+  {
+   "label": "Sabato 14",
+   "sub": "novembre",
+   "slots": [
+    {
+     "time": "13:15",
+     "kind": "reel",
+     "status": "ok",
+     "title": "Patrimoniale? Boschi: «Prima l’evasione»",
+     "meta": "Forza: B · Fonte: Collettiva · Cgil · Facebook: invito a seguire la pagina + domanda nel primo commento · Apertura con la frase forte · Schermo intero con sfumatura, volto centrato, 5 hashtag · Ripubblicato alle 13:15 (versione corretta)",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "clip": "clips/std_patrimoniale.mp4",
+     "when": "Sabato 14 novembre · 13:15",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=403843766549823749"
+      },
+      {
+       "label": "Facebook",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=861160511233740605"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=1813402789049683954"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=8759699041184468403"
+      }
+     ]
+    },
+    {
+     "time": "19:30",
+     "kind": "news",
+     "status": "auto",
+     "title": "Le notizie del giorno (video + storie)",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ]
+    },
+    {
+     "time": "20:00",
+     "kind": "news",
+     "status": "auto",
+     "title": "Carosello notizie del giorno",
+     "where": [
+      "Instagram",
+      "Facebook"
+     ]
+    },
+    {
+     "time": "21:00",
+     "kind": "reel",
+     "status": "ok",
+     "title": "Più fondi alle paritarie, meno alla pubblica?",
+     "meta": "Forza: B- · Fonte: Camera dei Deputati · Facebook: invito a seguire la pagina + domanda nel primo commento · Apertura con la frase forte · Schermo intero con sfumatura, volto centrato, 5 hashtag",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "clip": "clips/std_paritarie.mp4",
+     "when": "Sabato 14 novembre · 21:00",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=8442000830452354851"
+      },
+      {
+       "label": "Facebook",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-7827380291419551803"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-158548141359019959"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=1587202016081627527"
+      }
+     ]
+    }
+   ],
+   "date": "2026-11-14"
+  },
+  {
+   "label": "Domenica 15",
+   "sub": "novembre",
+   "slots": [
+    {
+     "time": "12:00",
+     "kind": "reel",
+     "status": "ok",
+     "title": "Classi pollaio: «il numero medio non basta»",
+     "meta": "Forza: C+ · Fonte: Camera dei Deputati · Facebook: invito a seguire la pagina + domanda nel primo commento · Apertura con la frase forte · Schermo intero con sfumatura, volto centrato, 5 hashtag",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "clip": "clips/std_pollaio.mp4",
+     "when": "Domenica 15 novembre · 12:00",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-6626720725601661728"
+      },
+      {
+       "label": "Facebook",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=3374195959840525155"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=412699348303036893"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-4504936152780291317"
+      }
+     ]
+    },
+    {
+     "time": "19:30",
+     "kind": "news",
+     "status": "auto",
+     "title": "Le notizie del giorno (video + storie)",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ]
+    },
+    {
+     "time": "20:00",
+     "kind": "news",
+     "status": "auto",
+     "title": "Carosello notizie del giorno",
+     "where": [
+      "Instagram",
+      "Facebook"
+     ]
+    },
+    {
+     "time": "21:00",
+     "kind": "reel",
+     "status": "ok",
+     "title": "Fondi ai servizi segreti raddoppiati?",
+     "meta": "Forza: B- · Fonte: Otto e mezzo · La7 · Facebook: invito a seguire la pagina + domanda nel primo commento · Apertura con la frase forte · Schermo intero con sfumatura, volto centrato, 5 hashtag",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "clip": "clips/std_servizi.mp4",
+     "when": "Domenica 15 novembre · 21:00",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=2764877918067050334"
+      },
+      {
+       "label": "Facebook",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=7840968635719175150"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=2558487931095828308"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-7944348567124488834"
+      }
+     ]
+    }
+   ],
+   "date": "2026-11-15"
+  },
+  {
+   "label": "Lunedì 16",
+   "sub": "novembre",
+   "date": "2026-11-16",
+   "slots": [
+    {
+     "time": "12:00",
+     "kind": "reel",
+     "status": "ok",
+     "title": "Le promesse di Renzi: la sua risposta",
+     "meta": "Forza: C+ · Fonte: Otto e mezzo · La7 · Facebook: invito a seguire la pagina + domanda nel primo commento · Apertura con la frase forte · Schermo intero con sfumatura, volto centrato, 5 hashtag",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "clip": "clips/std_promesse.mp4",
+     "when": "Lunedì 16 novembre · 12:00",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-2434537068214402494"
+      },
+      {
+       "label": "Facebook",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=5829745728227132940"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-6835204361634037109"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-7889855861555051467"
+      }
+     ]
+    },
+    {
+     "time": "19:30",
+     "kind": "news",
+     "status": "auto",
+     "title": "Le notizie del giorno (video + storie)",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ]
+    },
+    {
+     "time": "20:00",
+     "kind": "news",
+     "status": "auto",
+     "title": "Carosello notizie del giorno",
+     "where": [
+      "Instagram",
+      "Facebook"
+     ]
+    },
+    {
+     "time": "21:00",
+     "kind": "reel",
+     "status": "ok",
+     "title": "Kamala Harris? «Mai una frase da ricordare»",
+     "meta": "Forza: C · Fonte: Accordi e disaccordi · Nove · su Instagram come REEL DI PROVA (solo non follower) · Facebook: invito a seguire la pagina + domanda nel primo commento · Apertura con la frase forte · Schermo intero con sfumatura, volto centrato, 5 hashtag",
+     "where": [
+      "Instagram (prova)",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "clip": "clips/std_kamala.mp4",
+     "when": "Lunedì 16 novembre · 21:00",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=3093492379704248950"
+      },
+      {
+       "label": "Facebook",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=7450165535658692411"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=4674778700228611806"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=9119735580749876367"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Martedì 17",
+   "sub": "novembre",
+   "date": "2026-11-17",
+   "slots": [
+    {
+     "time": "12:00",
+     "kind": "reel",
+     "status": "ok",
+     "title": "«Dalla Francia ci guardano con invidia»",
+     "meta": "Forza: C · Fonte: intervista a Tajani su LCI, dal canale YouTube della Farnesina · Apertura con la frase forte · Schermo intero con sfumatura, volto centrato, 5 hashtag",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "clip": "clips/std_tajani_francia.mp4",
+     "when": "Martedì 17 novembre · 12:00",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-1979040114153797306"
+      },
+      {
+       "label": "Facebook",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-3559214714335048184"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-2238831405071973494"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-2727330959889641640"
+      }
+     ]
+    },
+    {
+     "time": "19:30",
+     "kind": "news",
+     "status": "auto",
+     "title": "Le notizie del giorno (video + storie)",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ]
+    },
+    {
+     "time": "20:00",
+     "kind": "news",
+     "status": "auto",
+     "title": "Carosello notizie del giorno",
+     "where": [
+      "Instagram",
+      "Facebook"
+     ]
+    },
+    {
+     "time": "21:00",
+     "kind": "reel",
+     "status": "free",
+     "title": "Libero — in attesa delle tue clip",
+     "where": []
+    }
+   ]
+  }
+ ]
+}
