@@ -1,5 +1,5 @@
 {
- "updated": "14 novembre, 15:25",
+ "updated": "14 novembre, 18:05",
  "note": "Giornata tipo da venerdì 13: reel alle 12:00, notizie del giorno alle 19:30 (verifica alle 19:00; video su IG/FB/TikTok/YouTube + storie), carosello delle notizie alle 20:00 (Instagram e Facebook), secondo reel alle 21:00. Mai due reel della stessa fonte nello stesso giorno. Per modificare o annullare un post: tasto «Apri in Metricool» dentro ogni reel.",
  "days": [
   {
@@ -391,6 +391,104 @@
   {
    "label": "Domenica 15",
    "sub": "novembre",
+   "date": "2026-11-15",
+   "slots": [
+    {
+     "time": "12:00",
+     "kind": "reel",
+     "status": "ok",
+     "title": "Bonus affitto ai genitori separati: boom di domande",
+     "meta": "Forza: B · Fonte: Sette Vite · Facebook: invito a seguire la pagina + domanda nel primo commento · Apertura con la frase forte · Schermo intero con sfumatura, 5 hashtag",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "clip": "clips/std_salvini.mp4",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-3446213485592819595"
+      },
+      {
+       "label": "Facebook",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=3473139660752896868"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=9002309971195547204"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-6113187722251187366"
+      }
+     ],
+     "when": "Domenica 15 novembre · 12:00"
+    },
+    {
+     "time": "19:30",
+     "kind": "news",
+     "status": "auto",
+     "title": "Le notizie del giorno (video + storie)",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ]
+    },
+    {
+     "time": "20:00",
+     "kind": "news",
+     "status": "auto",
+     "title": "Carosello notizie del giorno",
+     "where": [
+      "Instagram",
+      "Facebook"
+     ]
+    },
+    {
+     "time": "21:00",
+     "kind": "reel",
+     "status": "ok",
+     "title": "Reddito di cittadinanza: «Avete cambiato nome»",
+     "meta": "Forza: B+ · Fonte: Forum Piccola Industria · Confindustria · Facebook: invito a seguire la pagina + domanda nel primo commento · Apertura con la frase forte · Schermo intero con sfumatura, 5 hashtag",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "clip": "clips/std_reddito.mp4",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=7019973053922692088"
+      },
+      {
+       "label": "Facebook",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=203735081596306437"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=3663813168286942950"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-1968947973245812329"
+      }
+     ],
+     "when": "Domenica 15 novembre · 21:00"
+    }
+   ]
+  },
+  {
+   "label": "Lunedì 16",
+   "sub": "novembre",
+   "date": "2026-11-16",
    "slots": [
     {
      "time": "12:00",
@@ -405,7 +503,7 @@
       "YouTube"
      ],
      "clip": "clips/std_pollaio.mp4",
-     "when": "Domenica 15 novembre · 12:00",
+     "when": "Lunedì 16 novembre · 12:00",
      "caption": "",
      "planner": [
       {
@@ -452,6 +550,47 @@
      "time": "21:00",
      "kind": "reel",
      "status": "ok",
+     "title": "Resistenza: Vannacci si riconosce nei suoi valori?",
+     "meta": "Forza: B · Fonte: Piazzapulita · La7 · Facebook: invito a seguire la pagina + domanda nel primo commento · Apertura con la frase forte · Schermo intero con sfumatura, 5 hashtag",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "clip": "clips/std_resistenza.mp4",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=4120242949568744227"
+      },
+      {
+       "label": "Facebook",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-7060308630081026744"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=1444987072284479004"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=766155107007876673"
+      }
+     ],
+     "when": "Lunedì 16 novembre · 21:00"
+    }
+   ]
+  },
+  {
+   "label": "Martedì 17",
+   "sub": "novembre",
+   "date": "2026-11-17",
+   "slots": [
+    {
+     "time": "12:00",
+     "kind": "reel",
+     "status": "ok",
      "title": "Fondi ai servizi segreti raddoppiati?",
      "meta": "Forza: B- · Fonte: Otto e mezzo · La7 · Facebook: invito a seguire la pagina + domanda nel primo commento · Apertura con la frase forte · Schermo intero con sfumatura, volto centrato, 5 hashtag",
      "where": [
@@ -461,7 +600,7 @@
       "YouTube"
      ],
      "clip": "clips/std_servizi.mp4",
-     "when": "Domenica 15 novembre · 21:00",
+     "when": "Martedì 17 novembre · 12:00",
      "caption": "",
      "planner": [
       {
@@ -481,14 +620,69 @@
        "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-7944348567124488834"
       }
      ]
+    },
+    {
+     "time": "19:30",
+     "kind": "news",
+     "status": "auto",
+     "title": "Le notizie del giorno (video + storie)",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ]
+    },
+    {
+     "time": "20:00",
+     "kind": "news",
+     "status": "auto",
+     "title": "Carosello notizie del giorno",
+     "where": [
+      "Instagram",
+      "Facebook"
+     ]
+    },
+    {
+     "time": "21:00",
+     "kind": "reel",
+     "status": "ok",
+     "title": "«Manganellata educativa»: Vannacci difende Ziello",
+     "meta": "Forza: B- · Fonte: Piazzapulita · La7 · Facebook: invito a seguire la pagina + domanda nel primo commento · Apertura con la frase forte · Schermo intero con sfumatura, 5 hashtag",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "clip": "clips/std_manganellata.mp4",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-8398215450364066864"
+      },
+      {
+       "label": "Facebook",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=8193845616869460325"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=8449175564040619449"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=6877671836041890155"
+      }
+     ],
+     "when": "Martedì 17 novembre · 21:00"
     }
-   ],
-   "date": "2026-11-15"
+   ]
   },
   {
-   "label": "Lunedì 16",
+   "label": "Mercoledì 18",
    "sub": "novembre",
-   "date": "2026-11-16",
+   "date": "2026-11-18",
    "slots": [
     {
      "time": "12:00",
@@ -503,7 +697,7 @@
       "YouTube"
      ],
      "clip": "clips/std_promesse.mp4",
-     "when": "Lunedì 16 novembre · 12:00",
+     "when": "Mercoledì 18 novembre · 12:00",
      "caption": "",
      "planner": [
       {
@@ -559,7 +753,7 @@
       "YouTube"
      ],
      "clip": "clips/std_kamala.mp4",
-     "when": "Lunedì 16 novembre · 21:00",
+     "when": "Mercoledì 18 novembre · 21:00",
      "caption": "",
      "planner": [
       {
@@ -583,9 +777,9 @@
    ]
   },
   {
-   "label": "Martedì 17",
+   "label": "Giovedì 19",
    "sub": "novembre",
-   "date": "2026-11-17",
+   "date": "2026-11-19",
    "slots": [
     {
      "time": "12:00",
@@ -600,7 +794,7 @@
       "YouTube"
      ],
      "clip": "clips/std_tajani_francia.mp4",
-     "when": "Martedì 17 novembre · 12:00",
+     "when": "Giovedì 19 novembre · 12:00",
      "caption": "",
      "planner": [
       {
@@ -647,8 +841,7 @@
      "time": "21:00",
      "kind": "reel",
      "status": "free",
-     "title": "Libero — in attesa delle tue clip",
-     "where": []
+     "title": "Libero — in attesa delle tue clip"
     }
    ]
   }
