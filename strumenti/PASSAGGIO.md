@@ -33,6 +33,7 @@ Leggi tutto questo file prima di lavorare. Rispondi sempre in italiano e in modo
 - **Caroselli:** la didascalia del carosello Instagram deve essere sempre diversa da quella del reel.
 
 ## Nuovo formato «Il Contesto» (rubrica, in prova)
+- **Nome della rubrica:** «Il Contesto». In alto nel video: MEZZO MINUTO · IL CONTESTO. Cartellino finale: «Il Contesto · capire le notizie». La didascalia inizia con «🔎 Il Contesto». Temi: politica italiana, esteri ed economia.
 - **Formato:** video di 60-80 secondi che spiega una notizia con contesto e storia. Voce AI generata dall'utente con ElevenLabs (voce «Raf – Casual Narrator»), grafiche animate nei colori del marchio (blu notte e giallo), sottotitoli parola per parola, la domanda finale nei commenti.
 - **Primo video:** «Il quarto condono edilizio?», file in strumenti/spiegato/condono/.
   - render.py disegna i fotogrammi; align.py allinea le parole alla voce leggendo le pause.
