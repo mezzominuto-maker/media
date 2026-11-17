@@ -13,7 +13,8 @@ Leggi tutto questo file prima di lavorare. Rispondi sempre in italiano e in modo
   - Lo si rigenera con strumenti/calendario/gen.py a partire da calendar.json.
 - **Attività programmate:**
   - «Mezzo Minuto giornaliero», ogni giorno alle 18:07: notiziario alle 19:30 e caroselli alle 20:00;
-  - verifica alle 19:00.
+  - verifica alle 19:00;
+  - «Il Contesto – proposte del giorno», ogni giorno alle 18:32: 3 argomenti di politica/economia con il testo completo per ElevenLabs, salvati in strumenti/spiegato/proposte/<data>.md. L'utente sceglie, manda la voce in una chat, si fa il video e dopo l'OK si programma per il giorno dopo alle 17:30. Quando il format funziona: valutare ElevenLabs Starter + API per automatizzare la voce.
 
 ## Regole fisse dei reel dei dibattiti
 - **Apertura:** frase forte di 2-4 secondi, poi il reel INTERO. Il parlato non si taglia mai e l'apertura viene dallo STESSO file sorgente.
