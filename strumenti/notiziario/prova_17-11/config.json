@@ -1,0 +1,147 @@
+{
+ "date_label": "Martedì 17 novembre",
+ "news": [
+  [
+   "MONDO",
+   "Crolla un’arcata del ponte di Crimea",
+   "Kiev colpisce il ponte di Kerch, secondo attacco in 24 ore. Mosca convoca una riunione d’emergenza.",
+   "Fonti: Il Messaggero, Fanpage, Open"
+  ],
+  [
+   "ECONOMIA",
+   "Manovra, priorità alle pensioni",
+   "Vertice di maggioranza: in cima adeguamento delle pensioni e sanità. Alle 18 scade il termine per gli emendamenti.",
+   "Fonti: ANSA, Sky TG24"
+  ],
+  [
+   "USA",
+   "Trump in Asia, poi vede Xi e Putin",
+   "A Manila il vertice Asean e l’incontro con India, Giappone e Australia. Poi in Cina il summit con Xi e Putin.",
+   "Fonti: ANSA, AGI"
+  ],
+  [
+   "SONDAGGI",
+   "Campo largo avanti, Vannacci al 5,8%",
+   "Swg per La7: centrosinistra al 44,9%, centrodestra al 43,6%. FdI al 28,6%, Pd al 20,7%.",
+   "Fonti: Swg per La7, Il Giornale d’Italia"
+  ],
+  [
+   "ECONOMIA",
+   "Deutsche Bank, fuga di 15 milioni di file",
+   "Un’inchiesta giornalistica rivela documenti riservati della banca tedesca. Il titolo cala in Borsa.",
+   "Fonti: AGI, Sky TG24"
+  ]
+ ],
+ "evidenza": [
+  "ponte Crimea",
+  "pensioni",
+  "Xi Putin",
+  "Vannacci 5,8%",
+  "15 milioni"
+ ],
+ "cuts": [
+  0,
+  6.41,
+  11.75,
+  17.07,
+  22.41,
+  27.75
+ ],
+ "durata": 31.5,
+ "clip_dir": "/home/claude/clipn",
+ "shots": [
+  [
+   [
+    "crimea.jpg",
+    0,
+    0.5,
+    0.5
+   ],
+   [
+    "pxf30800585.jpg",
+    0,
+    0.5,
+    0.6
+   ]
+  ],
+  [
+   [
+    "/home/claude/media/strumenti/spiegato/condono/foto/montecitorio.jpg",
+    0,
+    0.5,
+    0.35
+   ],
+   [
+    "px6624500.mp4",
+    1.0,
+    0.5,
+    0.5
+   ]
+  ],
+  [
+   [
+    "pxf4987889.jpg",
+    0,
+    0.55,
+    0.6
+   ],
+   [
+    "pxf27038627.jpg",
+    0,
+    0.5,
+    0.6
+   ]
+  ],
+  [
+   [
+    "/home/claude/media/strumenti/spiegato/condono/foto/aula.jpg",
+    0,
+    0.5,
+    0.5
+   ]
+  ],
+  [
+   [
+    "px19780830.mp4",
+    0.0,
+    0.55,
+    0.5,
+    {
+     "luce": 1.7
+    }
+   ],
+   [
+    "px3945008.mp4",
+    3.0,
+    0.5,
+    0.5
+   ]
+  ]
+ ],
+ "sondaggio": {
+  "notizia": 3,
+  "titolo": "SONDAGGIO SWG PER LA7 · 16 NOVEMBRE",
+  "barre": [
+   [
+    "Centrosinistra",
+    44.9
+   ],
+   [
+    "Centrodestra",
+    43.6
+   ],
+   [
+    "FdI",
+    28.6
+   ],
+   [
+    "Pd",
+    20.7
+   ],
+   [
+    "Vannacci",
+    5.8
+   ]
+  ]
+ }
+}
