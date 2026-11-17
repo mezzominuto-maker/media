@@ -41,3 +41,47 @@ Leggi tutto questo file prima di lavorare. Rispondi sempre in italiano e in modo
 - **Musica:** Free To Use. In descrizione va SEMPRE la citazione: «Music from Free To Use – Rebellion by Johny Grimes – freetouse.com/music».
 - **Etichetta AI:** da impostare su ogni social.
 - **Da fare:** versione 3 con immagini reali (case abusive, ruspa, Camera, Campania; foto dei politici solo se fornite dall'utente).
+
+## Stato al 17 novembre 2026, ore 16:40
+
+### Reel programmati su Metricool (tutti e 4 i social)
+| Giorno | 12:00 | 21:00 |
+|---|---|---|
+| Mar 17 | Servizi segreti (Renzi) | Manganellata (Vannacci) |
+| Mer 18 | Schlein, multinazionali | Conte, bollette |
+| Gio 19 | Renzi, promesse | Saviano, caso Delmastro |
+| Ven 20 | Tajani–Francia | Schlein, salari |
+| Sab 21 | Grimaldi a Giorgetti | Kamala (prova su IG) |
+| Dom 22 | Schlein, energia | LIBERO |
+
+Didascalie dei reel 18-22: strumenti/caps_reel_18-22.json. Gli id aggiornati si recuperano con getScheduledPosts.
+
+### Rubrica «Il Contesto»
+- **Video:** strumenti/spiegato/condono/condono_v2_ilcontesto.mp4 (75 secondi), già approvato nello stile.
+- **Il formato in breve:**
+  - voce ElevenLabs a 1,12x;
+  - grafiche animate con scatti, zoom, colpi di camera e sfondo a righe che cambia colore per tema;
+  - sottotitoli parola per parola;
+  - barra di avanzamento in alto;
+  - fruscio a ogni cambio scena e tonfo sui momenti forti.
+- **Richieste dell'utente:** più ritmo e immagini reali.
+- **PROSSIMO PASSO:** con internet attivo, scaricare foto e video gratuiti con licenza libera (Pexels, Pixabay, Wikimedia Commons; NON foto di politici prese dal web) di case abusive, cantieri, ruspe e demolizioni, Montecitorio/Camera, paesaggi della Campania. Inserirli nelle scene con zoom e movimento, poi rifare la versione 3 e mandarla all'utente. Citare le fonti delle immagini se la licenza lo chiede.
+- **Pubblicazione** (dopo l'OK dell'utente):
+  - slot proposto alle 17:30 sui 4 social;
+  - didascalia che inizia con «🔎 Il Contesto»;
+  - citazione della musica;
+  - etichetta AI (instagramData.isAiGenerated, tiktokData.isAigc, youtubeData.isAiGeneratedContent).
+- **Metodo per i prossimi video:**
+  1. scegliere il tema più discusso (Google Trends e prime pagine);
+  2. copione di 200-220 parole con fonti, da approvare;
+  3. l'utente genera la voce con ElevenLabs e la manda;
+  4. montaggio con render.py adattato, bozza e OK.
+
+### Altro
+- **Monetizzazione Facebook:** l'utente ha inviato il modulo di interesse (categoria «Sito web di notizie e media»). Si attende l'invito.
+- **Instagram:** il 15 e il 16 novembre ha limitato l'attività dell'account per didascalie uguali tra carosello e reel; ora sono sempre diverse.
+- **Idea in valutazione:** un terzo reel alle 17:30 solo su TikTok e YouTube. Non ancora deciso.
+- **Live su TikTok:** sbloccate, ma l'utente per ora non le vuole fare.
+- **Da ricordare:**
+  - la copertina YouTube del notiziario a volte va impostata a mano;
+  - le clip di Otto e mezzo hanno un rischio di Content ID.
