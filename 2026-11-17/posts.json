@@ -1,0 +1,341 @@
+[
+ {
+  "etichetta": "a",
+  "orario": "20:00",
+  "id": 431760625,
+  "uuid": "-4204949438928239387",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-4204949438928239387",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-17T20:00:00",
+    "timezone": "Europe/Rome"
+   },
+   "providers": [
+    {
+     "network": "instagram"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/slide_01.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/slide_02.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/slide_03.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/slide_04.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/slide_05.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/slide_06.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/slide_07.jpg"
+   ],
+   "text": "📌 Le notizie di martedì 17 novembre in 7 slide: scorri e salva.\n\n🌉 Kerch: secondo attacco in 24 ore, Mosca convoca una riunione d’emergenza\n💶 Pensioni e sanità in cima, alle 18 scade il termine per gli emendamenti\n🇺🇸 A Manila il vertice Asean e l’incontro con India, Giappone e Australia\n📊 Swg per La7: centrosinistra al 44,9%, centrodestra al 43,6%\n🏦 Inchiesta giornalistica sui file riservati, il titolo cala in Borsa\n\nCosa ti aspetti dalla manovra sulle pensioni?\n\nOgni sera alle 19:30 le notizie in 30 secondi 👉 @mezzo.minuto\n\n#mezzominuto #notizie #politica #sondaggi #trump #deutschebank #kerch",
+   "instagramData": {
+    "type": "POST"
+   }
+  }
+ },
+ {
+  "etichetta": "b",
+  "orario": "19:30",
+  "id": 431760356,
+  "uuid": "8606388146295949334",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=8606388146295949334",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-17T19:30:00",
+    "timezone": "Europe/Rome"
+   },
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/video.mp4"
+   ],
+   "instagramData": {
+    "type": "STORY"
+   },
+   "facebookData": {
+    "type": "STORY"
+   }
+  }
+ },
+ {
+  "etichetta": "c",
+  "orario": "19:30",
+  "id": 431760405,
+  "uuid": "-5121620424868870330",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-5121620424868870330",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-17T19:30:00",
+    "timezone": "Europe/Rome"
+   },
+   "providers": [
+    {
+     "network": "tiktok"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/video.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/cover.jpg",
+   "text": "Crolla un’arcata del ponte di Crimea: le 5 notizie di oggi in 30 secondi. Poi manovra, Trump, sondaggi e Deutsche Bank.\n\n#mezzominuto #notizie #politica #ucraina #crimea #manovra #pensioni",
+   "tiktokData": {
+    "title": "Ponte di Crimea, pensioni e Trump: le notizie di oggi in 30 secondi",
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "disableComment": false,
+    "disableDuet": false,
+    "disableStitch": false,
+    "commercialContentThirdParty": false,
+    "commercialContentOwnBrand": false,
+    "autoAddMusic": false
+   }
+  }
+ },
+ {
+  "etichetta": "d",
+  "orario": "19:30",
+  "id": 431760481,
+  "uuid": "4467882348273815441",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=4467882348273815441",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-17T19:30:00",
+    "timezone": "Europe/Rome"
+   },
+   "providers": [
+    {
+     "network": "tiktok"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/slide_01.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/slide_02.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/slide_03.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/slide_04.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/slide_05.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/slide_06.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/slide_07.jpg"
+   ],
+   "text": "Ponte di Crimea, pensioni, Trump con Xi e Putin, sondaggio Swg e Deutsche Bank: le notizie di oggi in 7 slide.\n\n#mezzominuto #notizie #politica #ucraina #crimea #manovra #pensioni",
+   "tiktokData": {
+    "title": "Ponte di Crimea, pensioni e Trump: le notizie di oggi in 30 secondi",
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "disableComment": false,
+    "disableDuet": false,
+    "disableStitch": false,
+    "commercialContentThirdParty": false,
+    "commercialContentOwnBrand": false,
+    "autoAddMusic": false,
+    "photoCoverIndex": 0
+   }
+  }
+ },
+ {
+  "etichetta": "e",
+  "orario": "19:30",
+  "id": 431760510,
+  "uuid": "21093633503086710",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=21093633503086710",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-17T19:30:00",
+    "timezone": "Europe/Rome"
+   },
+   "providers": [
+    {
+     "network": "youtube"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/video.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/cover.jpg",
+   "text": "Crolla un’arcata del ponte di Crimea dopo l’attacco di Kiev.\n\n1. Ponte di Kerch colpito, Mosca convoca riunione d’emergenza (Il Messaggero, Fanpage, Open)\n2. Manovra: priorità a pensioni e sanità (ANSA, Sky TG24)\n3. Trump a Manila, poi summit con Xi e Putin (ANSA, AGI)\n4. Swg per La7: csx 44,9%, cdx 43,6%, Vannacci 5,8% (Il Giornale d’Italia)\n5. Deutsche Bank, fuga di 15 milioni di documenti (AGI, Sky TG24)\n\n#shorts #notizie #politica",
+   "youtubeData": {
+    "title": "Ponte di Crimea, pensioni e Trump: le notizie di oggi in 30 secondi",
+    "type": "short",
+    "privacy": "public",
+    "tags": [
+     "ponte di crimea",
+     "manovra",
+     "pensioni",
+     "trump",
+     "sondaggi",
+     "notizie",
+     "politica",
+     "attualità",
+     "mezzo minuto"
+    ],
+    "category": "NEWS_POLITICS",
+    "madeForKids": false
+   }
+  }
+ },
+ {
+  "etichetta": "f",
+  "orario": "19:30",
+  "id": 431759671,
+  "uuid": "4292960609767276997",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=4292960609767276997",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-17T19:30:00",
+    "timezone": "Europe/Rome"
+   },
+   "providers": [
+    {
+     "network": "instagram"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/video.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/cover.jpg",
+   "text": "⏱️ Le 5 notizie di martedì 17 novembre in mezzo minuto.\n\n1. Crolla un’arcata del ponte di Crimea dopo l’attacco di Kiev\n2. Manovra: vertice di maggioranza, priorità alle pensioni\n3. Trump in Asia, poi il summit con Xi e Putin\n4. Sondaggio Swg: campo largo avanti, Vannacci al 5,8%\n5. Deutsche Bank, fuga di 15 milioni di documenti\n\nSecondo te cosa cambierà dopo il colpo al ponte di Crimea?\n\nSegui per le notizie di domani 👉 @mezzo.minuto\n\n#mezzominuto #notizie #politica #ucraina #crimea #manovra #pensioni",
+   "instagramData": {
+    "type": "REEL",
+    "showReelOnFeed": true
+   }
+  }
+ },
+ {
+  "etichetta": "g",
+  "orario": "20:00",
+  "id": 431760990,
+  "uuid": "-7890450018806512439",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-7890450018806512439",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "Secondo te cosa cambierà dopo il colpo al ponte di Crimea? Scrivilo qui sotto 👇",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-17T20:00:00",
+    "timezone": "Europe/Rome"
+   },
+   "providers": [
+    {
+     "network": "facebook"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/slide_01.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/slide_02.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/slide_03.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/slide_04.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/slide_05.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/slide_06.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/slide_07.jpg"
+   ],
+   "text": "⏱️ Le notizie di oggi in mezzo minuto:\n\n1. Crolla un’arcata del ponte di Crimea\n2. Manovra, priorità pensioni\n3. Trump verso Xi e Putin\n4. Sondaggio Swg, campo largo avanti\n5. Deutsche Bank, fuga di file\n\n👉 Segui Mezzo Minuto per le notizie di domani.\n\n#mezzominuto #notizie #politica #ucraina #crimea #manovra #pensioni",
+   "facebookData": {
+    "type": "POST"
+   }
+  }
+ },
+ {
+  "etichetta": "h",
+  "orario": "19:30",
+  "id": 431761203,
+  "uuid": "1472335012733470258",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=1472335012733470258",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "Secondo te cosa cambierà dopo il colpo al ponte di Crimea? Scrivilo qui sotto 👇",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-17T19:30:00",
+    "timezone": "Europe/Rome"
+   },
+   "providers": [
+    {
+     "network": "facebook"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/video.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-17/cover.jpg",
+   "text": "⏱️ Le notizie di oggi in mezzo minuto:\n\n1. Crolla un’arcata del ponte di Crimea\n2. Manovra, priorità pensioni\n3. Trump verso Xi e Putin\n4. Sondaggio Swg, campo largo avanti\n5. Deutsche Bank, fuga di file\n\n👉 Segui Mezzo Minuto per le notizie di domani.\n\n#mezzominuto #notizie #politica #ucraina #crimea #manovra #pensioni",
+   "facebookData": {
+    "type": "REEL",
+    "title": "Ponte di Crimea, pensioni e Trump: le notizie di oggi in 30 secondi"
+   }
+  }
+ }
+]
