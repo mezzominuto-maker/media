@@ -12,8 +12,8 @@ Leggi tutto questo file prima di lavorare. Rispondi sempre in italiano e in modo
 - **Calendario:** artefatto b58d0948-5703-4dd1-8732-ca27467b2f1c.
   - Lo si rigenera con strumenti/calendario/gen.py a partire da calendar.json.
 - **Attività programmate:**
-  - «Mezzo Minuto giornaliero», ogni giorno alle 18:07: notiziario alle 19:30 e caroselli alle 20:00;
-  - verifica alle 19:00;
+  - «Mezzo Minuto giornaliero», ogni giorno alle 18:07: notiziario alle 19:30 e caroselli alle 20:00. DAL 18/11 NUOVA MODALITÀ: immagini/video Pexels per ogni notizia, musica «Background News» (Pixabay), titoli animati; carosello = slide 1 e 7 del kit + slide 2-6 nuove; copertina sempre del kit. Strumenti e regole: strumenti/notiziario/LEGGIMI_NOTIZIARIO.md (crea.py, scarica.py);
+  - verifica alle 19:00: fatti E coerenza delle immagini (rifà video/slide con crea.py in <cartella>-v2 se serve);
   - «Il Contesto – proposte del giorno», ogni giorno alle 18:32: 3 argomenti di politica/economia con il testo completo per ElevenLabs, salvati in strumenti/spiegato/proposte/<data>.md. L'utente sceglie, manda la voce in una chat, si fa il video e dopo l'OK si programma per il giorno dopo alle 17:30. Quando il format funziona: valutare ElevenLabs Starter + API per automatizzare la voce.
 
 ## Regole fisse dei reel dei dibattiti
@@ -39,7 +39,7 @@ Leggi tutto questo file prima di lavorare. Rispondi sempre in italiano e in modo
 - **Primo video:** «Il quarto condono edilizio?», file in strumenti/spiegato/condono/.
   - render.py disegna i fotogrammi; align.py allinea le parole alla voce leggendo le pause.
   - Versione 2: voce accelerata a 1,12x con atempo, musica «Rebellion» di Johny Grimes a volume circa 0,065 sotto la voce.
-- **Musica:** Free To Use. In descrizione va SEMPRE la citazione: «Music from Free To Use – Rebellion by Johny Grimes – freetouse.com/music».
+- **Musica:** citare in descrizione solo i brani Free To Use (es. Winery); i brani Pixabay non vanno citati (vedi spiegato/musica/BRANI.md).
 - **Etichetta AI:** da impostare su ogni social.
 - **Versione 3 (17/11, in attesa di OK):** condono_v3_ilcontesto.mp4, render_v3.py + foto/scene.json, 10 foto Wikimedia Commons in foto/ (crediti e riga per la descrizione in foto/CREDITI.md). Musica: «Winery» di Aylex (winery.mp3) a volume 0,25 con ducking leggero sotto la voce, mix con spiegato/condono/mix_v3.sh. Citazione v3: «Music from Free To Use – Winery by Aylex – freetouse.com/music».
 
