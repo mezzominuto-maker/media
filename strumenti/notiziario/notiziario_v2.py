@@ -10,12 +10,16 @@ import json, math, sys, os, subprocess, numpy as np
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
 W, H, FPS = 1080, 1920, 30
-FD = "/home/claude/media/strumenti/fonts/"
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))   # cartella strumenti/
+FD = os.path.join(ROOT, "fonts") + "/"
 NAVY = (13, 18, 33); CREAM = (240, 236, 226); AMBER = (255, 196, 61); GOLD = (208, 192, 150); GREY = (165, 172, 195)
 CAT = {"MONDO": (70, 130, 220), "ECONOMIA": (40, 170, 120), "USA": (210, 70, 80), "ITALIA": (60, 150, 90), "SONDAGGI": (150, 100, 210)}
 BLK = "InterDisplay-Black.otf"; XB = "Inter-ExtraBold.otf"; BD = "Inter-Bold.otf"; SB = "Inter-SemiBold.otf"; MD = "Inter-Medium.otf"
 cfg = json.load(open(sys.argv[1]))
-CUTS = cfg["cuts"]; DUR = cfg["durata"]; CLIP = cfg["clip_dir"]
+# tempi fissi della musica del notiziario (136 BPM, accenti ogni battuta): 3 battute per notizia
+cfg.setdefault("cuts", [0, 6.41, 11.75, 17.07, 22.41, 27.75]); cfg.setdefault("durata", 31.5)
+CUTS = cfg["cuts"]; DUR = cfg["durata"]
+CLIP = cfg.get("clip_dir") or os.path.dirname(os.path.abspath(sys.argv[1]))
 _fc = {}
 def F(n, s):
     if (n, s) not in _fc: _fc[(n, s)] = ImageFont.truetype(FD + n, s)
@@ -70,7 +74,7 @@ SHOTS = shots_flat()
 def broll(t):
     for a, b, s in SHOTS:
         if a - 1e-3 <= t < b:
-            fn, start, fx, fy = s[:4]; u = cl((t - a) / max(0.1, b - a)); path = os.path.join(CLIP, fn) if not fn.startswith("/") else fn
+            fn, start, fx, fy = s[:4]; u = cl((t - a) / max(0.1, b - a)); path = fn if fn.startswith("/") else (os.path.join(ROOT, fn[5:]) if fn.startswith("repo:") else os.path.join(CLIP, fn))
             if fn.endswith(".mp4"):
                 arr = RD.get(path, start, fx, int(round((t - a) * FPS)))
                 im = Image.fromarray(grade(arr.astype(np.float32), 0.8 * (s[4] if len(s) > 4 else {}).get("luce", 1.0))); z = 1 + 0.06 * u; cw = im.width / z
@@ -148,7 +152,7 @@ def chip(c, s, col, x, y, a):
     d.rounded_rectangle([0, 0, int(tw) + 43, 61], 31, fill=col + (int(255 * a),)); d.text((22, 31), s, font=f, fill=(255, 255, 255, int(255 * a)), anchor="lm")
     c.alpha_composite(L, (int(x), int(y - 31))); return x + tw + 56
 
-logo = Image.open("/home/claude/media/strumenti/logo_mark.png").convert("RGBA"); logo = logo.resize((int(logo.width * 58 / logo.height), 58))
+logo = Image.open(os.path.join(ROOT, "logo_mark.png")).convert("RGBA"); logo = logo.resize((int(logo.width * 58 / logo.height), 58))
 def header(c, t, k):
     c.alpha_composite(logo, (60, 110))
     put(c, tl("MEZZO MINUTO", BLK, 34, GOLD), 120, 140)
@@ -160,14 +164,14 @@ def header(c, t, k):
             fr = 1 if i < k else cl((t - CUTS[i]) / (CUTS[i + 1] - CUTS[i]))
             d.rounded_rectangle([x0, 70, x0 + gw * fr, 78], 4, fill=AMBER)
 
-def poll(c, t, t0, out, bars):
-    y = 575; mx = max(b[1] for b in bars); pa = eo(prog(t, t0, 0.3)) * (1 - prog(t, out, .15))
-    P = Image.new("RGBA", (W, H), (0, 0, 0, 0)); ImageDraw.Draw(P).rounded_rectangle([40, y - 90, W - 40, y + 5 * 118 + 5], 28, fill=NAVY + (int(205 * pa),)); c.alpha_composite(P)
+def poll(c, t, t0, out, bars, y=575, step=118):
+    mx = max(b[1] for b in bars); pa = eo(prog(t, t0, 0.3)) * (1 - prog(t, out, .15))
+    P = Image.new("RGBA", c.size, (0, 0, 0, 0)); ImageDraw.Draw(P).rounded_rectangle([40, y - 90, W - 40, y + len(bars) * step + 5], 28, fill=NAVY + (int(205 * pa),)); c.alpha_composite(P)
     put(c, tl(cfg["sondaggio"]["titolo"], BD, 30, GREY), 70, y - 50, 1, eo(prog(t, t0, 0.3)) * (1 - prog(t, out, .15)))
     for i, (lab, v) in enumerate(bars):
         tt = t0 + 0.25 + i * 0.32; p = eo(prog(t, tt, 0.55)); a = eo(prog(t, tt, 0.2)) * (1 - prog(t, out, .15))
         if a <= 0: continue
-        yy = y + i * 118; L = Image.new("RGBA", (W, 100), (0, 0, 0, 0)); dd = ImageDraw.Draw(L)
+        yy = y + i * step; L = Image.new("RGBA", (W, 100), (0, 0, 0, 0)); dd = ImageDraw.Draw(L)
         dd.text((70, 22), lab, font=F(BD, 36), fill=CREAM + (int(255 * a),), anchor="lm")
         bw = (W - 330) * v / mx * p
         col = AMBER if i < 2 else (120, 135, 175)
@@ -218,8 +222,49 @@ def frame(t):
     if t > DUR - 0.5: c = Image.blend(c, Image.new("RGBA", (W, H), NAVY + (255,)), cl((t - (DUR - 0.5)) / 0.5))
     return c.convert("RGB")
 
+# ---------- slide del carosello (4:5) ----------
+SH2 = 1350
+sh2 = np.zeros((SH2, W, 1), np.float32)
+for i, yv in enumerate(np.linspace(0, 1, SH2)):
+    sh2[i] = 0.12 + 0.6 * max(0, 1 - yv / 0.2) ** 1.6 + 0.95 * max(0, (yv - 0.38) / 0.62) ** 1.15
+shade2 = Image.fromarray(np.dstack([np.broadcast_to(np.array(NAVY, np.uint8), (SH2, W, 3)), (np.clip(sh2, 0, 0.96) * 255).astype(np.uint8)]), "RGBA")
+def slide_bg(k):
+    s = cfg["shots"][k][0]; fn = s[0]
+    path = fn if fn.startswith("/") else (os.path.join(ROOT, fn[5:]) if fn.startswith("repo:") else os.path.join(CLIP, fn))
+    if fn.endswith(".mp4"):
+        tmp = "/tmp/_slide_frame.png"
+        subprocess.run(["ffmpeg", "-v", "error", "-y", "-ss", str(s[1] + 1.0), "-i", path, "-frames:v", "1", tmp], check=True)
+        im = Image.open(tmp).convert("RGB"); fx, fy = s[2], 0.5
+    else:
+        im = Image.open(path).convert("RGB"); fx, fy = s[2], s[3]
+    sc = max(W / im.width, SH2 / im.height); im = im.resize((int(im.width * sc) + 1, int(im.height * sc) + 1), Image.LANCZOS)
+    x = int((im.width - W) * fx); y = int((im.height - SH2) * fy)
+    a = grade(np.asarray(im.crop((x, y, x + W, y + SH2))).astype(np.float32), 0.85 * ((s[4] if len(s) > 4 else {}).get("luce", 1.0)))
+    o = Image.fromarray(a).convert("RGBA"); o.alpha_composite(shade2); return o
+def slide(k, out):
+    global H
+    cat, title, text, src = cfg["news"][k]; n = len(cfg["news"]); T = 99.0
+    c = slide_bg(k); d = ImageDraw.Draw(c)
+    c.alpha_composite(logo, (60, 60)); put(c, tl("MEZZO MINUTO", BLK, 34, GOLD), 120, 90)
+    put(c, tl(cfg["date_label"].upper(), BD, 24, GREY), W - 60, 90, anchor="rm")
+    for i in range(n):
+        x0 = W - 60 - (n - i) * 34 + 10; d.ellipse([x0, 130, x0 + 16, 146], fill=AMBER if i == k else (255, 255, 255, 90))
+    put(c, tl(f"{k + 1:02d}", BLK, 150, AMBER), 62, 240, 1, 1)
+    chip(c, cat, CAT.get(cat, (90, 90, 120)), 70, 360, 1)
+    if cfg.get("sondaggio") and cfg["sondaggio"]["notizia"] == k:
+        yb = headline(c, title, cfg["evidenza"][k], T, 0, 430, 1e9)
+        poll(c, T, 0, 1e9, cfg["sondaggio"]["barre"], y=yb + 120, step=100)
+        put(c, tl(src, MD, 28, GREY), 58, SH2 - 50, 1, 1)
+    else:
+        yb = headline(c, title, cfg["evidenza"][k], T, 0, 800, 1e9)
+        yb = body(c, text, T, 0, yb + 30, 1e9)
+        put(c, tl(src, MD, 28, GREY), 58, min(SH2 - 45, yb + 30), 1, 1)
+    c.convert("RGB").save(out, quality=92)
+
 if __name__ == "__main__":
-    if sys.argv[2] == "still":
+    if sys.argv[2] == "slide":
+        for k in range(len(cfg["news"])): slide(k, os.path.join(sys.argv[3], f"slide_{k + 2:02d}.jpg"))
+    elif sys.argv[2] == "still":
         os.makedirs("r", exist_ok=True)
         for ts in sys.argv[3:]: frame(float(ts)).save(f"r/n_{ts}.png")
     else:
