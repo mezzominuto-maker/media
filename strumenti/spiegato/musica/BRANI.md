@@ -30,4 +30,4 @@ Voce 1,12x +6,5 dB, musica a volume 1,0 (già normalizzata) con sidechain legger
 
 ## Crediti in descrizione
 - Winery: obbligatorio «🎵 Music from Free To Use – Winery by Aylex – freetouse.com/music».
-- Epic Classical Strings: probabilmente Pixabay (nome file tipico), dove la citazione non è obbligatoria; per correttezza: «🎵 Musica: Epic Classical Strings – dayznyanlinnhtet (Pixabay)». Da confermare con l'utente.
+- Epic Classical Strings: da Pixabay (confermato dall'utente il 17/11): NON serve citarli in descrizione.
