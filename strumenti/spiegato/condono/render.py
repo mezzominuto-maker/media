@@ -131,7 +131,7 @@ logo=Image.open("/home/claude/media/strumenti/logo_mark.png").convert("RGBA"); l
 def header(c,t):
     c.alpha_composite(logo,(60,120))
     put(c,tlayer("MEZZO MINUTO",BLK,34,GOLD),118,152,anchor="lm")
-    put(c,tlayer("UN MINUTO E MEZZO",XB,26,AMBER),W-60,152,anchor="rm")
+    put(c,tlayer("IL CONTESTO",XB,26,AMBER),W-60,152,anchor="rm")
     with OV(c) as d:
         d.rectangle([0,0,W,10],fill=(255,255,255,40)); d.rectangle([0,0,int(W*min(1,t/81.3)),10],fill=AMBER)
 def source(c,s,t,t0,t1):
@@ -278,7 +278,7 @@ def scene(c,t):
         p=eo(prog(t,81.35,0.4))
         L=logo.resize((int(logo.width*3),192)); put(c,L,W/2,640,0.8+0.2*p,p)
         text(c,"MEZZO MINUTO",BLK,96,GOLD,W/2,820,t,81.5,0.35,"up")
-        text(c,"Un minuto e mezzo · la politica spiegata",SB,46,CREAM,W/2,920,t,81.8,0.35,"up")
+        text(c,"Il Contesto · capire le notizie",SB,46,CREAM,W/2,920,t,81.8,0.35,"up")
         text(c,"SEGUI LA PAGINA",BLK,64,AMBER,W/2,1080,t,82.2,0.3,"pop")
         text(c,"Fonti: Italia Oggi · AGI · QN · Il Fatto Quotidiano · Il Politico",MD,28,GREY,W/2,1250,t,82.4,0.4,"up")
 def frame(tr):

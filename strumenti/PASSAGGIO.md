@@ -32,7 +32,7 @@ Leggi tutto questo file prima di lavorare. Rispondi sempre in italiano e in modo
   - l'ordine si decide in base al potenziale. Facebook è il social prioritario.
 - **Caroselli:** la didascalia del carosello Instagram deve essere sempre diversa da quella del reel.
 
-## Nuovo formato «Un minuto e mezzo» (rubrica, in prova)
+## Nuovo formato «Il Contesto» (rubrica, in prova)
 - **Formato:** video di 60-80 secondi che spiega una notizia con contesto e storia. Voce AI generata dall'utente con ElevenLabs (voce «Raf – Casual Narrator»), grafiche animate nei colori del marchio (blu notte e giallo), sottotitoli parola per parola, la domanda finale nei commenti.
 - **Primo video:** «Il quarto condono edilizio?», file in strumenti/spiegato/condono/.
   - render.py disegna i fotogrammi; align.py allinea le parole alla voce leggendo le pause.
