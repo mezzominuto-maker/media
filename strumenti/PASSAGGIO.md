@@ -40,7 +40,7 @@ Leggi tutto questo file prima di lavorare. Rispondi sempre in italiano e in modo
   - Versione 2: voce accelerata a 1,12x con atempo, musica «Rebellion» di Johny Grimes a volume circa 0,065 sotto la voce.
 - **Musica:** Free To Use. In descrizione va SEMPRE la citazione: «Music from Free To Use – Rebellion by Johny Grimes – freetouse.com/music».
 - **Etichetta AI:** da impostare su ogni social.
-- **Da fare:** versione 3 con immagini reali (case abusive, ruspa, Camera, Campania; foto dei politici solo se fornite dall'utente).
+- **Versione 3 (17/11, in attesa di OK):** condono_v3_ilcontesto.mp4, render_v3.py + foto/scene.json, 10 foto Wikimedia Commons in foto/ (crediti e riga per la descrizione in foto/CREDITI.md). Musica: «Winery» di Aylex (winery.mp3) a volume 0,25 con ducking leggero sotto la voce, mix con spiegato/condono/mix_v3.sh. Citazione v3: «Music from Free To Use – Winery by Aylex – freetouse.com/music».
 
 ## Stato al 17 novembre 2026, ore 16:40
 
@@ -65,7 +65,9 @@ Didascalie dei reel 18-22: strumenti/caps_reel_18-22.json. Gli id aggiornati si 
   - barra di avanzamento in alto;
   - fruscio a ogni cambio scena e tonfo sui momenti forti.
 - **Richieste dell'utente:** più ritmo e immagini reali.
-- **PROSSIMO PASSO:** con internet attivo, scaricare foto e video gratuiti con licenza libera (Pexels, Pixabay, Wikimedia Commons; NON foto di politici prese dal web) di case abusive, cantieri, ruspe e demolizioni, Montecitorio/Camera, paesaggi della Campania. Inserirli nelle scene con zoom e movimento, poi rifare la versione 3 e mandarla all'utente. Citare le fonti delle immagini se la licenza lo chiede.
+- **Copertina della rubrica (modello unico):** strumenti/spiegato/copertina.py. Foto in alto sfumata nel blu, pillola gialla «🔎 IL CONTESTO», occhiello, titolo con parole gialle tra *asterischi*, sottotitolo, «Capire le notizie». Il testo resta nella fascia 4:5 della griglia (--anteprima salva il ritaglio). Cartellino finale del video: «Il Contesto · Capire le notizie» (C maiuscola). Copertina del condono: condono/v4/copertina.jpg, approvato il video v4 il 17/11.
+- **Versione 4 (17/11 sera, in attesa di OK):** testo nuovo più corto (voce ElevenLabs in v4/voce.mp3), 60 s, clip vere da Pexels scaricate senza chiave API (foto: images.pexels.com/photos/ID/pexels-photo-ID.jpeg; video: videos.pexels.com/video-files/ID/ID-hd_1080_1920_25fps.mp4, risoluzione e fps da indovinare), stacchi a ogni frase, contatori, schede, effetti sonori sintetizzati. File: condono_v4_ilcontesto.mp4, render_v4.py, cartella v4/ (CREDITI.md con la riga per la descrizione). Il dominio pexels.com e pixabay.com sono nell'elenco dei siti permessi; le pagine dei siti però hanno il blocco anti-robot, si cerca con la ricerca web.
+- **PROSSIMO PASSO:** OK dell'utente sulla v3, poi pubblicazione (crediti foto in descrizione). ~~Fatto il 17/11:~~ con internet attivo, scaricare foto e video gratuiti con licenza libera (Pexels, Pixabay, Wikimedia Commons; NON foto di politici prese dal web) di case abusive, cantieri, ruspe e demolizioni, Montecitorio/Camera, paesaggi della Campania. Inserirli nelle scene con zoom e movimento, poi rifare la versione 3 e mandarla all'utente. Citare le fonti delle immagini se la licenza lo chiede.
 - **Pubblicazione** (dopo l'OK dell'utente):
   - slot proposto alle 17:30 sui 4 social;
   - didascalia che inizia con «🔎 Il Contesto»;
