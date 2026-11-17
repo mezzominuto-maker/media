@@ -718,6 +718,40 @@
      ]
     },
     {
+     "time": "17:30",
+     "kind": "reel",
+     "status": "ok",
+     "title": "🔎 Il Contesto: «Condono edilizio, di nuovo?»",
+     "meta": "Rubrica Il Contesto · video spiegato di 60 s con copertina della rubrica",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "when": "Mercoledì 18 novembre · 17:30",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-3878371438400352805"
+      },
+      {
+       "label": "Facebook",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-3391707101039148481"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=5750442658837120559"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=5684302869708361009"
+      }
+     ],
+     "clip": "clips/contesto_condono.mp4"
+    },
+    {
      "time": "19:30",
      "kind": "news",
      "status": "auto",
