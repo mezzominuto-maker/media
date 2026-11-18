@@ -1,0 +1,118 @@
+{
+ "date_label": "Mercoledì 18 novembre",
+ "news": [
+  [
+   "USA",
+   "Trump, Xi e Putin a cena in Cina",
+   "Al vertice Apec di Shenzhen Xi accoglie Trump in aeroporto. Cena a tre con Putin prima del summit trilaterale.",
+   "Fonti: CNN, CNBC, Il Mattino"
+  ],
+  [
+   "ECONOMIA",
+   "Manovra, record di emendamenti",
+   "Circa 6.600 proposte di modifica, record della legislatura. Tra quelle della maggioranza c’è il condono edilizio.",
+   "Fonti: Adnkronos, ANSA"
+  ],
+  [
+   "MONDO",
+   "Ue, nuovo prestito di 45 miliardi a Kiev",
+   "La Commissione europea propone un nuovo prestito all’Ucraina finanziato con eurobond. Zelensky ringrazia.",
+   "Fonti: Il Sole 24 Ore, Euronews, ANSA"
+  ],
+  [
+   "ITALIA",
+   "Guerra ibrida, 6 miliardi alla Difesa",
+   "Il ministro Crosetto annuncia risorse per 6 miliardi nei prossimi anni contro la guerra ibrida.",
+   "Fonte: ANSA"
+  ],
+  [
+   "ECONOMIA",
+   "Salvini: fondo pensioni non si tocca",
+   "Il leader della Lega esclude di usare risorse del fondo pensioni per la sanità: «Non se ne parla».",
+   "Fonte: ANSA"
+  ]
+ ],
+ "evidenza": [
+  "Xi e Putin",
+  "record",
+  "45 miliardi",
+  "6 miliardi",
+  "fondo pensioni"
+ ],
+ "clip_dir": "/tmp/mm/clip",
+ "shots": [
+  [
+   [
+    "pxf34947074.jpg",
+    0,
+    0.5,
+    0.5
+   ],
+   [
+    "pxf28635300.jpg",
+    0,
+    0.6,
+    0.4
+   ]
+  ],
+  [
+   [
+    "repo:spiegato/condono/foto/montecitorio.jpg",
+    0,
+    0.5,
+    0.35
+   ],
+   [
+    "px4836687.mp4",
+    4.0,
+    0.5,
+    0.5
+   ]
+  ],
+  [
+   [
+    "pxf11756413.jpg",
+    0,
+    0.65,
+    0.45
+   ],
+   [
+    "px10956356.mp4",
+    1.0,
+    0.45,
+    0.4
+   ]
+  ],
+  [
+   [
+    "pxf5480781.jpg",
+    0,
+    0.5,
+    0.5
+   ],
+   [
+    "px6963744.mp4",
+    1.0,
+    0.6,
+    0.5
+   ]
+  ],
+  [
+   [
+    "pxf20407406.jpg",
+    0,
+    0.5,
+    0.5,
+    {
+     "luce": 1.3
+    }
+   ],
+   [
+    "px6624500.mp4",
+    1.0,
+    0.5,
+    0.5
+   ]
+  ]
+ ]
+}

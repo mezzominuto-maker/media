@@ -1,0 +1,72 @@
+[
+ [
+  {
+   "file": "pxf34947074.jpg",
+   "tipo": "foto:34947074",
+   "link": "https://www.pexels.com/photo/34947074/",
+   "soggetto": "Shenzhen di notte con ruota panoramica"
+  },
+  {
+   "file": "pxf28635300.jpg",
+   "tipo": "foto:28635300",
+   "link": "https://www.pexels.com/photo/28635300/",
+   "soggetto": "bandiera cinese a Shenzhen"
+  }
+ ],
+ [
+  {
+   "file": "repo:spiegato/condono/foto/montecitorio.jpg",
+   "tipo": "repo",
+   "link": "Wikimedia Commons",
+   "soggetto": "Montecitorio di notte"
+  },
+  {
+   "file": "px4836687.mp4",
+   "tipo": "video:4836687:30:v",
+   "link": "https://www.pexels.com/video/4836687/",
+   "soggetto": "banconote da 50 euro"
+  }
+ ],
+ [
+  {
+   "file": "pxf11756413.jpg",
+   "tipo": "foto:11756413",
+   "link": "https://www.pexels.com/photo/11756413/",
+   "soggetto": "Kiev, piazza Maidan con bandiera ucraina"
+  },
+  {
+   "file": "px10956356.mp4",
+   "tipo": "video:10956356:30",
+   "link": "https://www.pexels.com/video/10956356/",
+   "soggetto": "bandiera dell'Ue al vento"
+  }
+ ],
+ [
+  {
+   "file": "pxf5480781.jpg",
+   "tipo": "foto:5480781",
+   "link": "https://www.pexels.com/photo/5480781/",
+   "soggetto": "sala server / data center"
+  },
+  {
+   "file": "px6963744.mp4",
+   "tipo": "video:6963744:25",
+   "link": "https://www.pexels.com/video/6963744/",
+   "soggetto": "codice informatico su schermo"
+  }
+ ],
+ [
+  {
+   "file": "pxf20407406.jpg",
+   "tipo": "foto:20407406",
+   "link": "https://www.pexels.com/photo/20407406/",
+   "soggetto": "mani di anziano con monete"
+  },
+  {
+   "file": "px6624500.mp4",
+   "tipo": "video:6624500:24:v",
+   "link": "https://www.pexels.com/video/6624500/",
+   "soggetto": "mani di anziani intrecciate"
+  }
+ ]
+]
