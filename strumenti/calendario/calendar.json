@@ -1,5 +1,5 @@
 {
- "updated": "17 novembre, 00:50",
+ "updated": "18 novembre, 23:55",
  "note": "Giornata tipo da venerdì 13: reel alle 12:00, notizie del giorno alle 19:30 (verifica alle 19:00; video su IG/FB/TikTok/YouTube + storie), carosello delle notizie alle 20:00 (Instagram e Facebook), secondo reel alle 21:00. Mai due reel della stessa fonte nello stesso giorno. Per modificare o annullare un post: tasto «Apri in Metricool» dentro ogni reel.",
  "days": [
   {
@@ -807,7 +807,8 @@
       }
      ]
     }
-   ]
+   ],
+   "date": "2026-11-18"
   },
   {
    "label": "Giovedì 19",
@@ -937,7 +938,8 @@
       }
      ]
     }
-   ]
+   ],
+   "date": "2026-11-19"
   },
   {
    "label": "Venerdì 20",
@@ -1033,7 +1035,8 @@
       }
      ]
     }
-   ]
+   ],
+   "date": "2026-11-20"
   },
   {
    "label": "Sabato 21",
@@ -1129,7 +1132,8 @@
       }
      ]
     }
-   ]
+   ],
+   "date": "2026-11-21"
   },
   {
    "label": "Domenica 22",
@@ -1197,7 +1201,8 @@
      "status": "free",
      "title": "Libero — in attesa delle tue clip"
     }
-   ]
+   ],
+   "date": "2026-11-22"
   }
  ]
 }
