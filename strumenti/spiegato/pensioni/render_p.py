@@ -55,22 +55,22 @@ SHOTS=[
  (S(21),S(28),'p',FOTO+'aula.jpg',0.5,0.5),
  (S(28),S(31),None),
  (S(31),S(39),'v','px5642863.mp4',2.0,0.5),
- (S(39),S(53),'v','px6981614.mp4',3.0,0.5),
- (S(53),S(70),'v','px7955150.mp4',0.5,0.5),
- (S(70),S(73),None),
- (S(73),S(88),'v','px12982743.mp4',0.5,0.5),
- (S(88),S(97),'v','px8814707.mp4',0.5,0.5),
- (S(97),S(104),'v','px855388.mp4',1.0,0.5),
- (S(104),S(115),'p',FOTO+'montecitorio.jpg',0.5,0.3),
- (S(115),S(126),'v','px855388.mp4',6.0,0.5),
- (S(126),S(141),'v','px15459705.mp4',1.0,0.5),
- (S(141),S(154),'v','px8479282.mp4',1.0,0.5),
- (S(154),S(170),'p',FOTO+'aula.jpg',0.5,0.5),
- (S(170),999,None)]
+ (S(39),S(45),'v','px6981614.mp4',3.0,0.5),
+ (S(45),S(65),'v','px7955150.mp4',0.5,0.5),
+ (S(65),S(68),None),
+ (S(68),S(84),'v','px12982743.mp4',0.5,0.5),
+ (S(84),S(92),'v','px855388.mp4',1.0,0.5),
+ (S(92),S(103),'v','px8814707.mp4',0.5,0.5),
+ (S(103),S(111),'p',FOTO+'montecitorio.jpg',0.5,0.3),
+ (S(111),S(124),'v','px855388.mp4',3.5,0.5),
+ (S(124),S(139),'v','px15459705.mp4',1.0,0.5),
+ (S(139),S(152),'v','px8479282.mp4',1.0,0.5),
+ (S(152),S(165),'p',FOTO+'aula.jpg',0.5,0.5),
+ (S(165),999,None)]
 BOUND=[s[0] for s in SHOTS[1:]]+[VEND]
-IMPACT=[S(4)+0.05,S(8)+0.05,S(12),S(30),S(36),S(55),S(64),S(72),S(83),S(95),S(102)+0.3,S(106),S(118),S(126),S(141),S(156),S(170)]
+IMPACT=[S(4)+0.05,S(8)+0.05,S(12),S(30),S(36),S(50),S(59),S(67),S(79),S(90)+0.3,S(101),S(105),S(116),S(124),S(139),S(154),S(165)]
 TINT={i:(30,40,90) for i in range(len(BOUND)+2)}
-TINT.update({2:(110,40,20),5:(60,48,18),9:(60,48,18),11:(110,25,25),15:(30,80,60),16:(110,25,25)})
+TINT.update({2:(110,40,20),5:(60,48,18),9:(60,48,18),12:(110,25,25),15:(30,80,60),16:(110,25,25)})
 GZ=1.12  # margine per lo zoom lento
 def grade(a,k=0.66):
     g=a.mean(axis=2,keepdims=True); a=a*0.72+g*0.28
@@ -289,85 +289,85 @@ def scene(c,t):
         text(c,"ANNI",BLK,90,CREAM,W/2,950,t,S(30)+0.4,0.25,"up",out=o)
         text(c,"pensione di vecchiaia",SB,58,CREAM,W/2,1060,t,S(33),0.25,"up",out=o)
         chip(c,1200,"FERMA DAL 2019",t,S(36),(170,120,20),out=o,fs=56)
-    elif t<S(53):
-        o=S(53)-0.08
-        text(c,"SEGUE LA",XB,64,CREAM,W/2,520,t,S(39)+0.1,0.22,"up",out=o)
-        text(c,"SPERANZA",BLK,140,AMBER,W/2,660,t,S(42),0.25,"zoom",out=o)
-        text(c,"DI VITA",BLK,110,CREAM,W/2,800,t,S(43),0.25,"up",out=o)
-        card(c,980,"SI VIVE DI PIÙ  ↑",t,S(45),AMBER,out=o)
-        card(c,1130,"SI LAVORA DI PIÙ  ↑",t,S(49),AMBER,out=o)
-    elif t<S(70):
-        o=S(70)-0.08
-        text(c,"ETÀ DELLA PENSIONE",XB,58,CREAM,W/2,470,t,S(53),0.22,"up",out=o)
-        for k,(yr,t0,lab,col) in enumerate([("OGGI",S(53),"67 anni",CREAM),("2027",S(54),"67 anni + 1 mese",AMBER),("2028",S(63),"67 anni + 3 mesi",AMBER)]):
+    elif t<S(45):
+        o=S(45)-0.08
+        text(c,"MA SEGUE LA",XB,64,CREAM,W/2,560,t,S(39)+0.05,0.22,"up",out=o)
+        text(c,"SPERANZA",BLK,150,AMBER,W/2,720,t,S(42),0.25,"zoom",out=o)
+        text(c,"DI VITA",BLK,120,CREAM,W/2,870,t,S(43),0.25,"up",out=o)
+    elif t<S(65):
+        o=S(65)-0.08
+        text(c,"CON LE REGOLE ATTUALI",XB,56,CREAM,W/2,470,t,S(45),0.22,"up",out=o)
+        for k,(yr,t0,lab,col) in enumerate([("OGGI",S(45)+0.2,"67 anni",CREAM),("2027",S(49),"67 anni + 1 mese",AMBER),("2028",S(58),"67 anni + 3 mesi",AMBER)]):
             y=650+k*190
             rrect(c,(110,y-75,970,y+75),24,(13,18,33,215),t,t0,0.25,out=o)
             text(c,yr,BLK,80,col,280,y,t,t0,0.25,"pop",out=o)
             text(c,lab,BD,54,CREAM,670,y,t,t0+0.15,0.25,"up",out=o)
-        source(c,"Requisiti INPS 2027-2028",t,S(54),o)
-    elif t<S(73):
-        text(c,"SECONDO NUMERO",XB,64,CREAM,W/2,560,t,S(70),0.22,"up")
-        counter(c,67,64,t,S(72)-0.3,0.7,800,360,AMBER,99999)
-    elif t<S(88):
-        o=S(88)-0.08
-        chip(c,500,"SALVINI PROMETTE",t,S(73),NEU,out=o,fs=56)
-        text(c,"DAL 2027",BLK,110,CREAM,W/2,680,t,S(76),0.25,"up",out=o)
-        text(c,"IN PENSIONE A",BLK,80,CREAM,W/2,810,t,S(80),0.25,"up",out=o)
-        text(c,"64 ANNI",BLK,170,AMBER,W/2,970,t,S(83),0.25,"zoom",out=o)
-        text(c,"QUOTA 64 · VOLONTARIA",XB,58,CREAM,W/2,1160,t,S(85),0.25,"pop",out=o)
-        source(c,"Dichiarazioni di Matteo Salvini, 17-18 novembre",t,S(73)+0.3,o)
-    elif t<S(97):
-        o=S(97)-0.08
-        text(c,"NEL TESTO",XB,70,CREAM,W/2,520,t,S(89),0.22,"up",out=o)
-        text(c,"DELLA MANOVRA",XB,70,CREAM,W/2,610,t,S(91),0.22,"up",out=o)
-        text(c,"QUOTA 64",BLK,160,AMBER,W/2,800,t,S(93),0.25,"zoom",out=o)
-        stamp(c,"NON C'È",RED,W/2,1020,t,S(95),size=130,angle=-7,out=o)
-    elif t<S(104):
-        o=S(104)-0.08
-        text(c,"SOLO UN FONDO DA",XB,64,CREAM,W/2,520,t,S(97),0.22,"up",out=o)
-        counter(c,0,850,t,S(102)-0.5,1.0,740,260,AMBER,o)
-        text(c,"MILIONI €",BLK,110,CREAM,W/2,950,t,S(103),0.25,"pop",out=o)
-        source(c,"Fonti: QuiFinanza, Today",t,S(98),o)
-    elif t<S(115):
-        o=S(115)-0.08
-        chip(c,520,"LEGA",t,S(106),NEU,out=o,fs=60)
-        text(c,"RIMANDA LE REGOLE",BLK,86,CREAM,W/2,700,t,S(107),0.25,"up",out=o)
-        text(c,"A UNA LEGGE",BLK,120,AMBER,W/2,850,t,S(110),0.25,"zoom",out=o)
-        text(c,"A PARTE",BLK,120,AMBER,W/2,990,t,S(113),0.25,"zoom",out=o)
-    elif t<S(126):
-        o=S(126)-0.08
-        text(c,"E CHIEDE",XB,64,CREAM,W/2,500,t,S(115),0.22,"up",out=o)
-        card(c,680,"STOP ALL'AUMENTO DELL'ETÀ",t,S(118),AMBER,out=o,font_size=44)
-        text(c,"PAGATO CON",XB,64,CREAM,W/2,860,t,S(121),0.22,"up",out=o)
-        text(c,"PIÙ TASSE",BLK,130,AMBER,W/2,1000,t,S(122),0.25,"zoom",out=o)
-        text(c,"ALLE BANCHE",BLK,100,CREAM,W/2,1140,t,S(124),0.25,"up",out=o)
-    elif t<S(141):
-        o=S(141)-0.08
-        rrect(c,(90,560,990,1170),36,(20,90,55,215),t,S(126),0.3,out=o)
-        text(c,"PER LO STOP",BLK,96,CREAM,W/2,660,t,S(126)+0.1,0.25,"pop",out=o)
-        text(c,"chi lavora",SB,62,CREAM,W/2,820,t,S(132),0.25,"up",out=o)
-        text(c,"da una vita",SB,62,CREAM,W/2,900,t,S(134),0.25,"up",out=o)
-        text(c,"NON PUÒ",BLK,90,AMBER,W/2,1010,t,S(137),0.25,"pop",out=o)
-        text(c,"ASPETTARE",BLK,90,AMBER,W/2,1110,t,S(139),0.25,"pop",out=o)
-    elif t<S(154):
-        o=S(154)-0.08
-        rrect(c,(90,560,990,1170),36,(120,30,35,215),t,S(141),0.3,out=o)
-        text(c,"CONTRO",BLK,96,CREAM,W/2,660,t,S(141)+0.1,0.25,"pop",out=o)
-        text(c,"ogni anticipo",SB,62,CREAM,W/2,820,t,S(146),0.25,"up",out=o)
-        text(c,"COSTA",BLK,110,AMBER,W/2,930,t,S(148),0.25,"pop",out=o)
-        text(c,"e pesa sui conti pubblici",SB,58,CREAM,W/2,1070,t,S(150),0.25,"up",out=o)
-    elif t<S(170):
-        o=S(170)-0.08
-        text(c,"ENTRO IL",XB,64,CREAM,W/2,500,t,S(154),0.22,"up",out=o)
-        text(c,"26 NOVEMBRE",BLK,130,AMBER,W/2,640,t,S(156),0.25,"zoom",out=o)
-        text(c,"si scelgono le modifiche",SB,56,CREAM,W/2,780,t,S(158),0.25,"up",out=o)
-        card(c,960,"MANOVRA ENTRO FINE ANNO",t,S(163),AMBER,out=o,font_size=48,icon="check")
-        source(c,"Calendario commissione Bilancio della Camera",t,S(154)+0.3,o)
+        source(c,"Requisiti INPS 2027-2028",t,S(49),o)
+    elif t<S(68):
+        text(c,"SECONDO NUMERO",XB,64,CREAM,W/2,560,t,S(65),0.22,"up")
+        counter(c,67,64,t,S(67)-0.3,0.7,800,360,AMBER,99999)
+    elif t<S(84):
+        o=S(84)-0.08
+        chip(c,500,"MATTEO SALVINI",t,S(68),NEU,out=o,fs=56)
+        text(c,"«DAL 2027",BLK,100,CREAM,W/2,670,t,S(71),0.25,"up",out=o)
+        text(c,"CHI VUOLE VA IN PENSIONE A",XB,56,CREAM,W/2,790,t,S(73),0.25,"up",out=o)
+        text(c,"64 ANNI»",BLK,170,AMBER,W/2,950,t,S(79),0.25,"zoom",out=o)
+        text(c,"QUOTA 64 · «SPERIMENTALE E VOLONTARIA»",XB,40,CREAM,W/2,1140,t,S(81),0.25,"pop",out=o)
+        source(c,"Matteo Salvini, 18 novembre · Adnkronos, Alanews",t,S(68)+0.3,o)
+    elif t<S(92):
+        o=S(92)-0.08
+        text(c,"SECONDO SALVINI",XB,60,CREAM,W/2,500,t,S(84),0.22,"up",out=o)
+        text(c,"I FONDI CI SONO",BLK,96,CREAM,W/2,620,t,S(86),0.22,"up",out=o)
+        counter(c,0,850,t,S(90)-0.5,1.0,820,260,AMBER,o)
+        text(c,"MILIONI €",BLK,110,CREAM,W/2,1030,t,S(91),0.25,"pop",out=o)
+    elif t<S(103):
+        o=S(103)-0.08
+        text(c,"NEL TESTO",XB,70,CREAM,W/2,500,t,S(93),0.22,"up",out=o)
+        text(c,"DELLA MANOVRA",XB,70,CREAM,W/2,590,t,S(95),0.22,"up",out=o)
+        chip(c,700,"PER ORA",t,S(97),(170,120,20),out=o,fs=50)
+        text(c,"QUOTA 64",BLK,160,AMBER,W/2,860,t,S(99),0.25,"zoom",out=o)
+        stamp(c,"NON C'È",RED,W/2,1070,t,S(101),size=130,angle=-7,out=o)
+        source(c,"Fonti: QuiFinanza, Today, Il Giornale",t,S(93),o)
+    elif t<S(111):
+        o=S(111)-0.08
+        text(c,"LE REGOLE",BLK,110,CREAM,W/2,600,t,S(103),0.25,"up",out=o)
+        text(c,"ARRIVEREBBERO",BLK,104,AMBER,W/2,740,t,S(105),0.25,"zoom",out=o)
+        text(c,"CON UNA LEGGE",BLK,96,CREAM,W/2,890,t,S(106),0.25,"up",out=o)
+        text(c,"A PARTE",BLK,120,AMBER,W/2,1030,t,S(109),0.25,"zoom",out=o)
+    elif t<S(124):
+        o=S(124)-0.08
+        chip(c,500,"LEGA",t,S(111),NEU,out=o,fs=60)
+        text(c,"CHIEDE ANCHE",XB,64,CREAM,W/2,650,t,S(113),0.22,"up",out=o)
+        card(c,800,"STOP ALL'AUMENTO DELL'ETÀ",t,S(116),AMBER,out=o,font_size=44)
+        text(c,"TASSANDO DI PIÙ",BLK,100,AMBER,W/2,990,t,S(119),0.25,"zoom",out=o)
+        text(c,"LE BANCHE",BLK,110,CREAM,W/2,1130,t,S(122),0.25,"up",out=o)
+    elif t<S(139):
+        o=S(139)-0.08
+        rrect(c,(90,560,990,1170),36,(20,90,55,215),t,S(124),0.3,out=o)
+        text(c,"PER LO STOP",BLK,96,CREAM,W/2,660,t,S(124)+0.1,0.25,"pop",out=o)
+        text(c,"chi lavora",SB,62,CREAM,W/2,820,t,S(130),0.25,"up",out=o)
+        text(c,"da una vita",SB,62,CREAM,W/2,900,t,S(132),0.25,"up",out=o)
+        text(c,"NON PUÒ",BLK,90,AMBER,W/2,1010,t,S(135),0.25,"pop",out=o)
+        text(c,"ASPETTARE",BLK,90,AMBER,W/2,1110,t,S(137),0.25,"pop",out=o)
+    elif t<S(152):
+        o=S(152)-0.08
+        rrect(c,(90,560,990,1170),36,(120,30,35,215),t,S(139),0.3,out=o)
+        text(c,"CONTRO",BLK,96,CREAM,W/2,660,t,S(139)+0.1,0.25,"pop",out=o)
+        text(c,"ogni anticipo",SB,62,CREAM,W/2,820,t,S(144),0.25,"up",out=o)
+        text(c,"COSTA",BLK,110,AMBER,W/2,930,t,S(146),0.25,"pop",out=o)
+        text(c,"e peserebbe sui conti pubblici",SB,54,CREAM,W/2,1070,t,S(147),0.25,"up",out=o)
+    elif t<S(165):
+        o=S(165)-0.08
+        text(c,"ENTRO IL",XB,64,CREAM,W/2,500,t,S(152),0.22,"up",out=o)
+        text(c,"26 NOVEMBRE",BLK,130,AMBER,W/2,640,t,S(154),0.25,"zoom",out=o)
+        text(c,"si scelgono le modifiche",SB,56,CREAM,W/2,780,t,S(156),0.25,"up",out=o)
+        card(c,960,"POTREBBE ANCORA CAMBIARE",t,S(161),AMBER,out=o,font_size=48)
+        source(c,"Calendario commissione Bilancio della Camera",t,S(152)+0.3,o)
     elif t<VEND:
-        text(c,"TU COSA",BLK,130,CREAM,W/2,600,t,S(170),0.22,"pop")
-        text(c,"NE PENSI?",BLK,130,AMBER,W/2,750,t,S(172),0.22,"pop")
-        text(c,"SCRIVILO NEI COMMENTI",XB,54,CREAM,W/2,960,t,S(174),0.3,"up")
-        p=prog(t,S(174)+0.2,0.3)
+        text(c,"TU COSA",BLK,130,CREAM,W/2,600,t,S(165),0.22,"pop")
+        text(c,"NE PENSI?",BLK,130,AMBER,W/2,750,t,S(167),0.22,"pop")
+        text(c,"SCRIVILO NEI COMMENTI",XB,54,CREAM,W/2,960,t,S(169),0.3,"up")
+        p=prog(t,S(169)+0.2,0.3)
         if p>0:
             yb=1060+12*math.sin(t*9); a=int(255*eo(p))
             with OV(c) as d: d.polygon([(W/2-50,yb),(W/2+50,yb),(W/2,yb+60)],fill=AMBER+(a,))
@@ -377,7 +377,7 @@ def scene(c,t):
         text(c,"MEZZO MINUTO",BLK,96,GOLD,W/2,820,t,VEND+0.15,0.35,"up")
         text(c,"Il Contesto · Capire le notizie",SB,46,CREAM,W/2,920,t,VEND+0.4,0.35,"up")
         text(c,"SEGUI LA PAGINA",BLK,64,AMBER,W/2,1080,t,VEND+0.8,0.3,"pop")
-        text(c,"Fonti: INPS · Today · QuiFinanza · Milano Finanza · LaPresse",MD,28,GREY,W/2,1250,t,VEND+1.0,0.4,"up")
+        text(c,"Fonti: INPS · Adnkronos · Today · QuiFinanza · Il Giornale",MD,28,GREY,W/2,1250,t,VEND+1.0,0.4,"up")
         text(c,"Video e foto: Pexels · Wikimedia Commons (crediti in descrizione)",MD,26,GREY,W/2,1300,t,VEND+1.1,0.4,"up")
 
 def frame(tr):
@@ -424,8 +424,8 @@ def sfx(out):
     W_=whoosh(); Hh=hit(); Tk=tick()
     for b in BOUND[:-1]: add(b/SP-0.12,W_,0.16)
     for i in IMPACT: add(i/SP,Hh,0.32)
-    add(S(12)/SP-1.0,riser(1.0),0.5); add(S(95)/SP-0.9,riser(0.9),0.4)
-    for t0,d in [(S(30)-0.3,0.9),(S(72)-0.3,0.7),(S(102)-0.5,1.0)]:
+    add(S(12)/SP-1.0,riser(1.0),0.5); add(S(101)/SP-0.9,riser(0.9),0.4)
+    for t0,d in [(S(30)-0.3,0.9),(S(67)-0.3,0.7),(S(90)-0.5,1.0)]:
         for k in range(10): add((t0+k*d/10)/SP,Tk,0.12)
     add(VEND/SP,Hh,0.35)
     a=np.clip(a,-1,1); import wave
