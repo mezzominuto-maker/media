@@ -81,6 +81,13 @@ Didascalie dei reel 18-22: strumenti/caps_reel_18-22.json. Gli id aggiornati si 
   3. l'utente genera la voce con ElevenLabs e la manda;
   4. montaggio con render.py adattato, bozza e OK.
 
+
+### Il Contesto – secondo video: pensioni (18/11 sera)
+- «Pensione a 64 o a 67 anni?»: PROGRAMMATO giovedì 19/11 alle 17:30 su IG, FB, TikTok, YouTube (uuid IG 6905948456809612096, FB -4657113323266882123, TikTok 6342134572808422020, YouTube 7927338401068632058), copertina su IG/FB/TikTok, etichetta AI, musica Winery. Aggiunto al calendario.
+- File in strumenti/spiegato/pensioni/: render_p.py (scaletta agganciata alle parole con S(i), si riallinea da sola con words.json), align.py (scarta i tratti spuriosi <0,15 s), stima_tempi.py (bozza senza voce), voce.mp3, CREDITI.md, copertina.jpg, pensioni_ilcontesto.mp4.
+- Regole nuove chieste dall'utente: le citazioni vanno verificate parola per parola su almeno due fonti (qui Adnkronos e Alanews, 18/11) e messe tra virgolette; sui temi ancora in discussione si usa il condizionale («salirebbe», «arriverebbero», «potrebbe ancora cambiare»).
+- Attività serale «Il Contesto – proposte»: prima esecuzione il 18/11 (strumenti/spiegato/proposte/2026-11-18.md). Limite: la ricerca web restituisce solo i titoli; per leggere gli articoli servirebbe autorizzare le testate in WebFetch.
+
 ### Altro
 - **Monetizzazione Facebook:** l'utente ha inviato il modulo di interesse (categoria «Sito web di notizie e media»). Si attende l'invito.
 - **Instagram:** il 15 e il 16 novembre ha limitato l'attività dell'account per didascalie uguali tra carosello e reel; ora sono sempre diverse.

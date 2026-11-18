@@ -848,6 +848,40 @@
      ]
     },
     {
+     "time": "17:30",
+     "kind": "reel",
+     "status": "ok",
+     "title": "🔎 Il Contesto: «Pensione a 64 o a 67 anni?»",
+     "meta": "Rubrica Il Contesto · video spiegato di 61 s con copertina della rubrica · musica Winery",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "when": "Giovedì 19 novembre · 17:30",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=6905948456809612096"
+      },
+      {
+       "label": "Facebook",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-4657113323266882123"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=6342134572808422020"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=7927338401068632058"
+      }
+     ],
+     "clip": "clips/contesto_pensioni.mp4"
+    },
+    {
      "time": "19:30",
      "kind": "news",
      "status": "auto",
