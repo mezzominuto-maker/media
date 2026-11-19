@@ -1,0 +1,72 @@
+[
+ [
+  {
+   "file": "pxf34947074.jpg",
+   "tipo": "foto:34947074",
+   "link": "https://www.pexels.com/photo/34947074/",
+   "soggetto": "Shenzhen di notte con ruota panoramica"
+  },
+  {
+   "file": "pxf28635300.jpg",
+   "tipo": "foto:28635300",
+   "link": "https://www.pexels.com/photo/28635300/",
+   "soggetto": "bandiera cinese"
+  }
+ ],
+ [
+  {
+   "file": "pxf36159720.jpg",
+   "tipo": "foto:36159720",
+   "link": "https://www.pexels.com/photo/36159720/",
+   "soggetto": "aula scolastica vuota"
+  },
+  {
+   "file": "px6090545.mp4",
+   "tipo": "video:6090545:30",
+   "link": "https://www.pexels.com/video/6090545/",
+   "soggetto": "fermata dei bus in città"
+  }
+ ],
+ [
+  {
+   "file": "pxf7129624.jpg",
+   "tipo": "foto:7129624",
+   "link": "https://www.pexels.com/photo/7129624/",
+   "soggetto": "libro digitale su tablet"
+  },
+  {
+   "file": "pxf3060654.jpg",
+   "tipo": "foto:3060654",
+   "link": "https://www.pexels.com/photo/3060654/",
+   "soggetto": "lettura di un e-book su tablet"
+  }
+ ],
+ [
+  {
+   "file": "pxf33678872.jpg",
+   "tipo": "foto:33678872",
+   "link": "https://www.pexels.com/photo/33678872/",
+   "soggetto": "martelletto del giudice con bandiera tricolore"
+  },
+  {
+   "file": "pxf37726687.jpg",
+   "tipo": "foto:37726687",
+   "link": "https://www.pexels.com/photo/37726687/",
+   "soggetto": "martelletto del giudice"
+  }
+ ],
+ [
+  {
+   "file": "repo:spiegato/condono/foto/aula.jpg",
+   "tipo": "repo",
+   "link": "Wikimedia Commons",
+   "soggetto": "Aula della Camera"
+  },
+  {
+   "file": "repo:spiegato/condono/foto/montecitorio.jpg",
+   "tipo": "repo",
+   "link": "Wikimedia Commons",
+   "soggetto": "Montecitorio di notte"
+  }
+ ]
+]
