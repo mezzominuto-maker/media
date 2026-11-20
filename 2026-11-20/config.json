@@ -1,0 +1,115 @@
+{
+ "date_label": "Venerdì 20 novembre",
+ "news": [
+  [
+   "MONDO",
+   "Missili e un drone caduti in Polonia",
+   "Due missili e un drone caduti nella notte durante il raid russo sull’Ucraina. Tusk: “Provocazione intenzionale”.",
+   "Fonti: ANSA, Open"
+  ],
+  [
+   "ITALIA",
+   "Sciopero Cgil, cortei in tutta Italia",
+   "Per la Cgil un milione e mezzo in piazza e adesione al 60%. Il sindacato: “La manovra va cambiata”.",
+   "Fonti: ANSA, Cgil, Sky TG24"
+  ],
+  [
+   "USA",
+   "Trump: “Putin vuole la fine della guerra”",
+   "Il messaggio agli europei dopo il vertice a tre con Xi e Putin in Cina.",
+   "Fonti: ANSA, LaPresse"
+  ],
+  [
+   "ECONOMIA",
+   "Manovra, nodo pensioni e sanità",
+   "La maggioranza cerca le risorse per rivalutazione delle pensioni e sanità. Cirielli: “Alla fine si troverà un accordo”.",
+   "Fonti: ANSA, Affaritaliani"
+  ],
+  [
+   "SONDAGGI",
+   "Campo largo al 45%, FdI primo partito",
+   "Per YouTrend-Sky TG24 il campo largo stacca il centrodestra di 4,2 punti. FdI al 27,2%.",
+   "Fonti: Il Foglio, YouTrend per Sky TG24"
+  ]
+ ],
+ "evidenza": [
+  "Polonia",
+  "Sciopero Cgil",
+  "fine della guerra",
+  "pensioni e sanità",
+  "Campo largo"
+ ],
+ "clip_dir": "/tmp/mm/clip",
+ "shots": [
+  [
+   [
+    "pxf18261869.jpg",
+    0,
+    0.5,
+    0.5
+   ],
+   [
+    "pxf17733791.jpg",
+    0,
+    0.5,
+    0.5
+   ]
+  ],
+  [
+   [
+    "pxf19376772.jpg",
+    0,
+    0.5,
+    0.6
+   ],
+   [
+    "px4840567.mp4",
+    1.0,
+    0.5,
+    0.6
+   ]
+  ],
+  [
+   [
+    "pxf129112.jpg",
+    0,
+    0.5,
+    0.45
+   ],
+   [
+    "px17907934.mp4",
+    1.0,
+    0.45,
+    0.5
+   ]
+  ],
+  [
+   [
+    "repo:spiegato/condono/foto/montecitorio.jpg",
+    0,
+    0.5,
+    0.5
+   ],
+   [
+    "px855388.mp4",
+    1.0,
+    0.5,
+    0.5
+   ]
+  ],
+  [
+   [
+    "repo:spiegato/condono/foto/aula.jpg",
+    0,
+    0.5,
+    0.5
+   ],
+   [
+    "pxf4736435.jpg",
+    0,
+    0.4,
+    0.4
+   ]
+  ]
+ ]
+}
