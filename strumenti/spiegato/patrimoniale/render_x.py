@@ -53,26 +53,26 @@ SHOTS=[
  (S(13),S(22),None),
  (S(22),S(32),'v','px8317973.mp4',2.0,0.5),
  (S(32),S(50),'v','px5286281.mp4',1.0,0.5),
- (S(50),S(61),'v','px4836836.mp4',1.0,0.5),
- (S(61),S(68),'v','px7169073.mp4',2.0,0.5),
- (S(68),S(81),None),
- (S(81),S(88),None),
- (S(88),S(94),'v','px2248532.mp4',1.0,0.5),
- (S(94),S(101),'v','px6962695.mp4',1.0,0.5),
- (S(101),S(111),'v','px5068847.mp4',2.0,0.5),
- (S(111),S(120),'v','px7206450.mp4',2.0,0.5),
- (S(120),S(124),None),
- (S(124),S(133),'p',FOTO+'aula.jpg',0.5,0.5),
- (S(133),S(149),None),
- (S(149),S(164),None),
- (S(164),S(170),'v','px16580831.mp4',1.0,0.5),
- (S(170),S(178),'v','px17551136.mp4',1.0,0.5),
- (S(178),S(185),'v','px13107027.mp4',1.0,0.5),
- (S(185),S(198),'p',FOTO+'montecitorio.jpg',0.5,0.3),
- (S(198),S(208),None),
- (S(208),999,None)]
+ (S(50),S(59),'v','px5286281.mp4',9.0,0.5),
+ (S(59),S(66),'v','px7169073.mp4',2.0,0.5),
+ (S(66),S(79),None),
+ (S(79),S(86),None),
+ (S(86),S(92),'v','px2248532.mp4',1.0,0.5),
+ (S(92),S(99),'v','px6962695.mp4',1.0,0.5),
+ (S(99),S(109),'v','px5068847.mp4',2.0,0.5),
+ (S(109),S(118),'v','px7206450.mp4',2.0,0.5),
+ (S(118),S(122),None),
+ (S(122),S(131),'p',FOTO+'aula.jpg',0.5,0.5),
+ (S(131),S(147),None),
+ (S(147),S(162),None),
+ (S(162),S(168),'v','px16580831.mp4',1.0,0.5),
+ (S(168),S(176),'v','px17551136.mp4',1.0,0.5),
+ (S(176),S(183),'v','px13107027.mp4',1.0,0.5),
+ (S(183),S(196),'p',FOTO+'montecitorio.jpg',0.5,0.3),
+ (S(196),S(206),None),
+ (S(206),999,None)]
 BOUND=[s[0] for s in SHOTS[1:]]+[VEND]
-IMPACT=[S(5),S(11),S(15),S(19)+0.1,S(29),S(30),S(31),S(38),S(59),S(71),S(78),S(86),S(104),S(105),S(107),S(114),S(128),S(137),S(141),S(148),S(169),S(175),S(180),S(191),S(195),S(203),S(208)]
+IMPACT=[S(5),S(11),S(15),S(19)+0.1,S(29),S(30),S(31),S(38),S(57),S(69),S(76),S(84),S(102),S(103),S(105),S(112),S(126),S(135),S(139),S(146),S(167),S(173),S(178),S(189),S(193),S(201),S(206)]
 TINT={i:(30,40,90) for i in range(len(BOUND)+2)}
 TINT.update({1:(110,25,25),2:(60,48,18),7:(60,48,18),8:(110,40,20),13:(60,48,18),15:(110,25,25)})
 GZ=1.12  # margine per lo zoom lento
@@ -301,115 +301,115 @@ def scene(c,t):
         text(c,"tra le richieste",SB,58,CREAM,W/2,930,t,S(45),0.25,"up",out=o)
         card(c,1060,"LA PATRIMONIALE",t,S(43),AMBER,out=o,font_size=60)
         source(c,"Sciopero generale Cgil, 20 novembre · ANSA",t,S(32)+0.3,o)
-    elif t<S(61):
-        o=S(61)-0.08
+    elif t<S(59):
+        o=S(59)-0.08
         chip(c,480,"MAURIZIO LANDINI · CGIL",t,S(50),NEU,out=o,fs=48)
-        text(c,"POTREBBE VALERE CIRCA",XB,56,CREAM,W/2,640,t,S(56),0.25,"up",out=o)
-        counter(c,0,25,t,S(59)-0.4,0.8,850,330,AMBER,o)
-        text(c,"MILIARDI €",BLK,110,CREAM,W/2,1070,t,S(60),0.25,"pop",out=o)
-        source(c,"Proposta Cgil · Il Sole 24 Ore, La Nuova Sardegna",t,S(56),o)
-    elif t<S(68):
-        o=S(68)-0.08
-        text(c,"PERCHÉ",BLK,150,AMBER,W/2,640,t,S(61),0.22,"zoom",out=o)
-        text(c,"SE NE PARLA?",BLK,110,CREAM,W/2,800,t,S(62),0.25,"up",out=o)
-        text(c,"GUARDA QUESTO NUMERO",XB,56,CREAM,W/2,960,t,S(65),0.25,"up",out=o)
-    elif t<S(81):
-        o=S(81)-0.08
-        text(c,"IN ITALIA IL",XB,64,CREAM,W/2,470,t,S(68),0.22,"up",out=o)
-        counter(c,0,5,t,S(71)-0.3,0.5,650,300,AMBER,o,suffix="%")
-        text(c,"DELLE FAMIGLIE PIÙ RICCHE",BLK,64,CREAM,W/2,840,t,S(72),0.25,"up",out=o)
-        text(c,"POSSIEDE",XB,60,CREAM,W/2,960,t,S(76),0.22,"up",out=o)
-        bar(c,1070,0.47,t,S(77),1.0,o,"DELLA RICCHEZZA")
-        source(c,"Stime 46-48% · Il Sole 24 Ore, Oxfam 2026",t,S(78),o)
-    elif t<S(88):
-        text(c,"MA",BLK,110,CREAM,W/2,560,t,S(81),0.22,"up")
-        text(c,"ATTENZIONE",BLK,140,AMBER,W/2,710,t,S(82),0.25,"zoom")
-        text(c,"QUALCOSA DI SIMILE",XB,64,CREAM,W/2,880,t,S(83),0.25,"up")
-        stamp(c,"ESISTE GIÀ",RED,W/2,1060,t,S(86),size=110,angle=-6)
-    elif t<S(101):
-        o=S(101)-0.08
-        text(c,"GIÀ OGGI IN ITALIA",XB,60,CREAM,W/2,500,t,S(88),0.22,"up",out=o)
-        card(c,680,"IMU · SECONDE CASE",t,S(88)+0.1,AMBER,out=o,font_size=58)
-        card(c,840,"BOLLO · RISPARMI",t,S(94),AMBER,out=o,font_size=58)
-        text(c,"IMPOSTE SUL",XB,64,CREAM,W/2,1020,t,S(97),0.25,"up",out=o)
-        text(c,"PATRIMONIO",BLK,110,AMBER,W/2,1140,t,S(99),0.25,"zoom",out=o)
-        source(c,"Studio Cgia · Sky TG24, QuiFinanza",t,S(88)+0.3,o)
-    elif t<S(111):
-        o=S(111)-0.08
-        text(c,"E IN EUROPA?",BLK,110,CREAM,W/2,500,t,S(101),0.22,"up",out=o)
+        text(c,"L'HA RILANCIATA",BLK,104,CREAM,W/2,680,t,S(54),0.25,"up",out=o)
+        text(c,"PROPRIO",XB,70,CREAM,W/2,830,t,S(56),0.25,"up",out=o)
+        text(c,"DALLA PIAZZA",BLK,130,AMBER,W/2,980,t,S(57),0.25,"zoom",out=o)
+        source(c,"Sciopero del 20 novembre · ItaliaOggi, La Sicilia",t,S(50)+0.3,o)
+    elif t<S(66):
+        o=S(66)-0.08
+        text(c,"PERCHÉ",BLK,150,AMBER,W/2,640,t,S(59),0.22,"zoom",out=o)
+        text(c,"SE NE PARLA?",BLK,110,CREAM,W/2,800,t,S(60),0.25,"up",out=o)
+        text(c,"GUARDA QUESTO NUMERO",XB,56,CREAM,W/2,960,t,S(63),0.25,"up",out=o)
+    elif t<S(79):
+        o=S(79)-0.08
+        text(c,"IN ITALIA IL",XB,64,CREAM,W/2,470,t,S(66),0.22,"up",out=o)
+        counter(c,0,5,t,S(69)-0.3,0.5,650,300,AMBER,o,suffix="%")
+        text(c,"DELLE FAMIGLIE PIÙ RICCHE",BLK,64,CREAM,W/2,840,t,S(70),0.25,"up",out=o)
+        text(c,"POSSIEDE",XB,60,CREAM,W/2,960,t,S(74),0.22,"up",out=o)
+        bar(c,1070,0.47,t,S(75),1.0,o,"DELLA RICCHEZZA")
+        source(c,"Stime 46-48% · Il Sole 24 Ore, Oxfam 2026",t,S(76),o)
+    elif t<S(86):
+        text(c,"MA",BLK,110,CREAM,W/2,560,t,S(79),0.22,"up")
+        text(c,"ATTENZIONE",BLK,140,AMBER,W/2,710,t,S(80),0.25,"zoom")
+        text(c,"QUALCOSA DI SIMILE",XB,64,CREAM,W/2,880,t,S(81),0.25,"up")
+        stamp(c,"ESISTE GIÀ",RED,W/2,1060,t,S(84),size=110,angle=-6)
+    elif t<S(99):
+        o=S(99)-0.08
+        text(c,"GIÀ OGGI IN ITALIA",XB,60,CREAM,W/2,500,t,S(86),0.22,"up",out=o)
+        card(c,680,"IMU · SECONDE CASE",t,S(86)+0.1,AMBER,out=o,font_size=58)
+        card(c,840,"BOLLO · RISPARMI",t,S(92),AMBER,out=o,font_size=58)
+        text(c,"IMPOSTE SUL",XB,64,CREAM,W/2,1020,t,S(95),0.25,"up",out=o)
+        text(c,"PATRIMONIO",BLK,110,AMBER,W/2,1140,t,S(97),0.25,"zoom",out=o)
+        source(c,"Studio Cgia · Sky TG24, QuiFinanza",t,S(86)+0.3,o)
+    elif t<S(109):
+        o=S(109)-0.08
+        text(c,"E IN EUROPA?",BLK,110,CREAM,W/2,500,t,S(99),0.22,"up",out=o)
         for k,(lab,i) in enumerate([("SPAGNA",104),("SVIZZERA",105),("NORVEGIA",107)]):
             card(c,700+k*150,lab,t,S(i),GREEN,out=o,font_size=60,icon="check")
-        text(c,"HANNO UNA PATRIMONIALE",XB,52,CREAM,W/2,1160,t,S(108),0.25,"up",out=o)
-        source(c,"Sky TG24, Open",t,S(101)+0.3,o)
-    elif t<S(120):
-        o=S(120)-0.08
-        text(c,"FRANCIA",BLK,140,CREAM,W/2,560,t,S(111),0.22,"up",out=o)
-        text(c,"2018",BLK,200,AMBER,W/2,760,t,S(114),0.25,"zoom",out=o)
-        text(c,"ridotta ai soli",SB,62,CREAM,W/2,940,t,S(116),0.25,"up",out=o)
-        text(c,"IMMOBILI",BLK,130,AMBER,W/2,1070,t,S(119),0.25,"zoom",out=o)
-        source(c,"ISF abolita, sostituita dall'IFI immobiliare",t,S(111)+0.3,o)
-    elif t<S(124):
-        text(c,"ORA",BLK,120,CREAM,W/2,600,t,S(120),0.22,"up")
-        text(c,"IL DETTAGLIO",BLK,120,AMBER,W/2,750,t,S(121),0.22,"zoom")
-        text(c,"NUOVO",BLK,120,CREAM,W/2,900,t,S(123),0.22,"up")
-    elif t<S(133):
-        o=S(133)-0.08
-        text(c,"LE OPPOSIZIONI",BLK,96,CREAM,W/2,520,t,S(124),0.22,"up",out=o)
-        counter(c,0,18,t,S(128)-0.3,0.5,740,300,AMBER,o)
-        text(c,"EMENDAMENTI COMUNI",BLK,76,CREAM,W/2,940,t,S(129),0.25,"up",out=o)
-        text(c,"alla manovra",SB,58,CREAM,W/2,1050,t,S(131),0.25,"up",out=o)
-        source(c,"ANSA, Il Fatto Quotidiano, 17 novembre",t,S(124)+0.3,o)
-    elif t<S(149):
-        o=S(149)-0.08
-        text(c,"SULLA PATRIMONIALE",XB,60,CREAM,W/2,470,t,S(133),0.22,"up",out=o)
-        text(c,"SI DIVIDONO",BLK,130,AMBER,W/2,600,t,S(136),0.25,"zoom",out=o)
-        chip(c,800,"ALLEANZA VERDI E SINISTRA",t,S(138),NEU,out=o,fs=46)
-        text(c,"LA VUOLE",BLK,90,GREEN,W/2,920,t,S(142),0.25,"pop",out=o)
-        chip(c,1070,"MOVIMENTO 5 STELLE",t,S(144),NEU,out=o,fs=46)
-        text(c,"FRENA",BLK,90,RED,W/2,1190,t,S(148),0.25,"pop",out=o)
-        source(c,"AGI, Alanews, 18 novembre",t,S(133)+0.3,o)
-    elif t<S(164):
-        o=S(164)-0.08
-        chip(c,480,"GIORGIA MELONI",t,S(149),NEU,out=o,fs=56)
-        text(c,"«NOI LAVORIAMO",BLK,92,CREAM,W/2,640,t,S(153),0.25,"up",out=o)
-        text(c,"PER ABBASSARE LE TASSE,",BLK,70,AMBER,W/2,760,t,S(155),0.25,"up",out=o)
-        text(c,"LA SINISTRA LITIGA",BLK,84,CREAM,W/2,900,t,S(159),0.25,"up",out=o)
-        text(c,"SULLA PATRIMONIALE»",BLK,80,AMBER,W/2,1020,t,S(162),0.25,"zoom",out=o)
-        source(c,"Giorgia Meloni, 18 novembre · ANSA, Italpress",t,S(149)+0.3,o)
-    elif t<S(170):
-        o=S(170)-0.08
-        rrect(c,(90,600,990,1100),36,(20,90,55,215),t,S(164),0.3,out=o)
-        text(c,"A FAVORE",BLK,96,CREAM,W/2,700,t,S(164)+0.1,0.25,"pop",out=o)
-        text(c,"è una questione di",SB,58,CREAM,W/2,850,t,S(167),0.25,"up",out=o)
-        text(c,"EQUITÀ",BLK,140,AMBER,W/2,980,t,S(169),0.25,"zoom",out=o)
-    elif t<S(185):
-        o=S(185)-0.08
-        rrect(c,(90,560,990,1220),36,(120,30,35,215),t,S(170),0.3,out=o)
-        text(c,"CONTRO",BLK,96,CREAM,W/2,660,t,S(170)+0.1,0.25,"pop",out=o)
-        text(c,"FUGA",BLK,130,AMBER,W/2,820,t,S(175),0.25,"zoom",out=o)
-        text(c,"DEI CAPITALI",BLK,80,CREAM,W/2,940,t,S(176),0.25,"up",out=o)
-        text(c,"un colpo a chi",SB,58,CREAM,W/2,1060,t,S(179),0.25,"up",out=o)
-        text(c,"HA RISPARMIATO",BLK,80,AMBER,W/2,1150,t,S(182),0.25,"pop",out=o)
-    elif t<S(198):
-        o=S(198)-0.08
-        text(c,"NELLA MANOVRA",BLK,96,CREAM,W/2,520,t,S(185),0.22,"up",out=o)
-        text(c,"DEL GOVERNO",XB,64,CREAM,W/2,640,t,S(187),0.22,"up",out=o)
-        stamp(c,"NON C'È",RED,W/2,820,t,S(191),size=130,angle=-7,out=o)
-        chip(c,1040,"MAGGIORANZA",t,S(194),NEU,out=o,fs=56)
-        text(c,"CONTRARIA",BLK,110,AMBER,W/2,1180,t,S(196),0.25,"zoom",out=o)
-        source(c,"ANSA, Il Giornale d'Italia, Alanews",t,S(185)+0.3,o)
-    elif t<S(208):
-        o=S(208)-0.08
-        text(c,"LA SFIDA SI SPOSTA SUL",XB,58,CREAM,W/2,560,t,S(198),0.22,"up",out=o)
-        text(c,"PROGRAMMA",BLK,128,AMBER,W/2,720,t,S(203),0.25,"zoom",out=o)
-        text(c,"PER LE PROSSIME",BLK,84,CREAM,W/2,880,t,S(204),0.25,"up",out=o)
-        text(c,"ELEZIONI",BLK,130,AMBER,W/2,1020,t,S(207),0.25,"zoom",out=o)
-        source(c,"Proposta AVS per il programma · Il Fatto Quotidiano, Fanpage",t,S(198)+0.3,o)
+        text(c,"HANNO UNA PATRIMONIALE",XB,52,CREAM,W/2,1160,t,S(106),0.25,"up",out=o)
+        source(c,"Sky TG24, Open",t,S(99)+0.3,o)
+    elif t<S(118):
+        o=S(118)-0.08
+        text(c,"FRANCIA",BLK,140,CREAM,W/2,560,t,S(109),0.22,"up",out=o)
+        text(c,"2018",BLK,200,AMBER,W/2,760,t,S(112),0.25,"zoom",out=o)
+        text(c,"ridotta ai soli",SB,62,CREAM,W/2,940,t,S(114),0.25,"up",out=o)
+        text(c,"IMMOBILI",BLK,130,AMBER,W/2,1070,t,S(117),0.25,"zoom",out=o)
+        source(c,"ISF abolita, sostituita dall'IFI immobiliare",t,S(109)+0.3,o)
+    elif t<S(122):
+        text(c,"ORA",BLK,120,CREAM,W/2,600,t,S(118),0.22,"up")
+        text(c,"IL DETTAGLIO",BLK,120,AMBER,W/2,750,t,S(119),0.22,"zoom")
+        text(c,"NUOVO",BLK,120,CREAM,W/2,900,t,S(121),0.22,"up")
+    elif t<S(131):
+        o=S(131)-0.08
+        text(c,"LE OPPOSIZIONI",BLK,96,CREAM,W/2,520,t,S(122),0.22,"up",out=o)
+        counter(c,0,18,t,S(126)-0.3,0.5,740,300,AMBER,o)
+        text(c,"EMENDAMENTI COMUNI",BLK,76,CREAM,W/2,940,t,S(127),0.25,"up",out=o)
+        text(c,"alla manovra",SB,58,CREAM,W/2,1050,t,S(129),0.25,"up",out=o)
+        source(c,"ANSA, Il Fatto Quotidiano, 17 novembre",t,S(122)+0.3,o)
+    elif t<S(147):
+        o=S(147)-0.08
+        text(c,"SULLA PATRIMONIALE",XB,60,CREAM,W/2,470,t,S(131),0.22,"up",out=o)
+        text(c,"SI DIVIDONO",BLK,130,AMBER,W/2,600,t,S(134),0.25,"zoom",out=o)
+        chip(c,800,"ALLEANZA VERDI E SINISTRA",t,S(136),NEU,out=o,fs=46)
+        text(c,"LA VUOLE",BLK,90,GREEN,W/2,920,t,S(140),0.25,"pop",out=o)
+        chip(c,1070,"MOVIMENTO 5 STELLE",t,S(142),NEU,out=o,fs=46)
+        text(c,"FRENA",BLK,90,RED,W/2,1190,t,S(146),0.25,"pop",out=o)
+        source(c,"AGI, Alanews, 18 novembre",t,S(131)+0.3,o)
+    elif t<S(162):
+        o=S(162)-0.08
+        chip(c,480,"GIORGIA MELONI",t,S(147),NEU,out=o,fs=56)
+        text(c,"«NOI LAVORIAMO",BLK,92,CREAM,W/2,640,t,S(151),0.25,"up",out=o)
+        text(c,"PER ABBASSARE LE TASSE,",BLK,70,AMBER,W/2,760,t,S(153),0.25,"up",out=o)
+        text(c,"LA SINISTRA LITIGA",BLK,84,CREAM,W/2,900,t,S(157),0.25,"up",out=o)
+        text(c,"SULLA PATRIMONIALE»",BLK,80,AMBER,W/2,1020,t,S(160),0.25,"zoom",out=o)
+        source(c,"Giorgia Meloni, 18 novembre · ANSA, Italpress",t,S(147)+0.3,o)
+    elif t<S(168):
+        o=S(168)-0.08
+        rrect(c,(90,600,990,1100),36,(20,90,55,215),t,S(162),0.3,out=o)
+        text(c,"A FAVORE",BLK,96,CREAM,W/2,700,t,S(162)+0.1,0.25,"pop",out=o)
+        text(c,"è una questione di",SB,58,CREAM,W/2,850,t,S(165),0.25,"up",out=o)
+        text(c,"EQUITÀ",BLK,140,AMBER,W/2,980,t,S(167),0.25,"zoom",out=o)
+    elif t<S(183):
+        o=S(183)-0.08
+        rrect(c,(90,560,990,1220),36,(120,30,35,215),t,S(168),0.3,out=o)
+        text(c,"CONTRO",BLK,96,CREAM,W/2,660,t,S(168)+0.1,0.25,"pop",out=o)
+        text(c,"FUGA",BLK,130,AMBER,W/2,820,t,S(173),0.25,"zoom",out=o)
+        text(c,"DEI CAPITALI",BLK,80,CREAM,W/2,940,t,S(174),0.25,"up",out=o)
+        text(c,"un colpo a chi",SB,58,CREAM,W/2,1060,t,S(177),0.25,"up",out=o)
+        text(c,"HA RISPARMIATO",BLK,80,AMBER,W/2,1150,t,S(180),0.25,"pop",out=o)
+    elif t<S(196):
+        o=S(196)-0.08
+        text(c,"NELLA MANOVRA",BLK,96,CREAM,W/2,520,t,S(183),0.22,"up",out=o)
+        text(c,"DEL GOVERNO",XB,64,CREAM,W/2,640,t,S(185),0.22,"up",out=o)
+        stamp(c,"NON C'È",RED,W/2,820,t,S(189),size=130,angle=-7,out=o)
+        chip(c,1040,"MAGGIORANZA",t,S(192),NEU,out=o,fs=56)
+        text(c,"CONTRARIA",BLK,110,AMBER,W/2,1180,t,S(194),0.25,"zoom",out=o)
+        source(c,"ANSA, Il Giornale d'Italia, Alanews",t,S(183)+0.3,o)
+    elif t<S(206):
+        o=S(206)-0.08
+        text(c,"LA SFIDA SI SPOSTA SUL",XB,58,CREAM,W/2,560,t,S(196),0.22,"up",out=o)
+        text(c,"PROGRAMMA",BLK,128,AMBER,W/2,720,t,S(201),0.25,"zoom",out=o)
+        text(c,"PER LE PROSSIME",BLK,84,CREAM,W/2,880,t,S(202),0.25,"up",out=o)
+        text(c,"ELEZIONI",BLK,130,AMBER,W/2,1020,t,S(205),0.25,"zoom",out=o)
+        source(c,"Proposta AVS per il programma · Il Fatto Quotidiano, Fanpage",t,S(196)+0.3,o)
     elif t<VEND:
-        text(c,"TU COSA",BLK,130,CREAM,W/2,600,t,S(208),0.22,"pop")
-        text(c,"NE PENSI?",BLK,130,AMBER,W/2,750,t,S(210),0.22,"pop")
-        text(c,"SCRIVILO NEI COMMENTI",XB,54,CREAM,W/2,960,t,S(212),0.3,"up")
-        p=prog(t,S(212)+0.2,0.3)
+        text(c,"TU COSA",BLK,130,CREAM,W/2,600,t,S(206),0.22,"pop")
+        text(c,"NE PENSI?",BLK,130,AMBER,W/2,750,t,S(208),0.22,"pop")
+        text(c,"SCRIVILO NEI COMMENTI",XB,54,CREAM,W/2,960,t,S(210),0.3,"up")
+        p=prog(t,S(210)+0.2,0.3)
         if p>0:
             yb=1060+12*math.sin(t*9); a=int(255*eo(p))
             with OV(c) as d: d.polygon([(W/2-50,yb),(W/2+50,yb),(W/2,yb+60)],fill=AMBER+(a,))
@@ -466,8 +466,8 @@ def sfx(out):
     W_=whoosh(); Hh=hit(); Tk=tick()
     for b in BOUND[:-1]: add(b/SP-0.12,W_,0.16)
     for i in IMPACT: add(i/SP,Hh,0.32)
-    add(S(11)/SP-1.0,riser(1.0),0.5); add(S(86)/SP-0.9,riser(0.9),0.4); add(S(136)/SP-0.9,riser(0.9),0.4)
-    for t0,d in [(S(59)-0.4,0.8),(S(71)-0.3,0.5),(S(128)-0.3,0.5)]:
+    add(S(11)/SP-1.0,riser(1.0),0.5); add(S(84)/SP-0.9,riser(0.9),0.4); add(S(134)/SP-0.9,riser(0.9),0.4)
+    for t0,d in [(S(69)-0.3,0.5),(S(126)-0.3,0.5)]:
         for k in range(10): add((t0+k*d/10)/SP,Tk,0.12)
     add(VEND/SP,Hh,0.35)
     a=np.clip(a,-1,1); import wave

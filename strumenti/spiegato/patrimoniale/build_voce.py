@@ -4,10 +4,13 @@ def seg(f,a,b): return f"[{f}]atrim={a}:{b},asetpts=PTS-STARTPTS"
 inp=["voce_v1.mp3","voce_finale.mp3"]; parts=[]
 M=os.path.exists("voce_meloni.mp3")
 if M: inp.append("voce_meloni.mp3")
+L=os.path.exists("voce_landini.mp3")
+if L: inp.append("voce_landini.mp3")
+LI=len(inp)-1
 def sil(d): return f"anullsrc=r=44100:cl=mono,atrim=0:{d}"
 # originale fino a prima di «E Giorgia Meloni risponde» (58.57) / fino a prima di «La manovra va approvata» (69.72)
 if M:
-    parts+= [seg(0,0,58.45), seg(2,0,"DUR_M"), sil(0.3), seg(0,63.5,69.55)]
+    parts+= ([seg(0,0,19.17), seg(LI,0,3.87), sil(0.3), seg(0,23.92,58.45)] if L else [seg(0,0,58.45)]) + [seg(2,0,"DUR_M"), sil(0.3), seg(0,63.5,69.55)]
 else:
     parts+= [seg(0,0,69.55)]
 parts+= [seg(1,0,7.98), sil(0.3), seg(0,71.85,74.45)]
