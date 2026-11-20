@@ -85,7 +85,9 @@ Didascalie dei reel 18-22: strumenti/caps_reel_18-22.json. Gli id aggiornati si 
 ### Regola del 20/11: fatti E contesto verificati («Il Contesto»)
 - Non basta che ogni frase sia vera da sola: deve essere vera nel contesto. Prima di chiudere un testo verificare dove e da chi si decide davvero la questione (manovra, legge a parte, programma elettorale, Ue...), la data di ogni citazione («risponde», «dice» solo se recente) e che gli accostamenti non suggeriscano legami falsi.
 - Caso patrimoniale (20/11): la chiusa «la manovra va approvata entro fine anno» faceva credere che la patrimoniale si decidesse in manovra (non c'è, maggioranza contraria, AVS la vuole nel programma elettorale); la citazione di Meloni era di giugno. Corretti con due nuove frasi registrate dall'utente e montate in voce.mp3 (build_voce.py).
-- La regola è stata aggiunta anche al prompt dell'attività «Il Contesto – proposte del giorno».
+- Caso Landini (20/11): il 20/11 in piazza ha rilanciato la patrimoniale con cifre diverse (1,5%, 20 miliardi, una sola fonte) dai 25 miliardi nel testo: tolta la cifra.
+- Regola dell'utente: le domande critiche («ma oggi ha detto qualcosa?», «si può fare davvero lì?») le deve fare l'autore da solo, prima di consegnare testo e bozza, e scriverle con le risposte nel file delle proposte.
+- Le regole sono state aggiunte al prompt dell'attività «Il Contesto – proposte del giorno» e alla skill «mezzo-minuto-il-contesto» (SKILL.md aggiornato mandato all'utente il 20/11 da salvare).
 
 ### Il Contesto – secondo video: pensioni (18/11 sera)
 - «Pensione a 64 o a 67 anni?»: PROGRAMMATO giovedì 19/11 alle 17:30 su IG, FB, TikTok, YouTube (uuid IG 6905948456809612096, FB -4657113323266882123, TikTok 6342134572808422020, YouTube 7927338401068632058), copertina su IG/FB/TikTok, etichetta AI, musica Winery. Aggiunto al calendario.
