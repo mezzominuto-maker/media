@@ -1,5 +1,5 @@
 {
- "updated": "18 novembre, 23:55",
+ "updated": "20 novembre, 23:05",
  "note": "Giornata tipo da venerdì 13: reel alle 12:00, notizie del giorno alle 19:30 (verifica alle 19:00; video su IG/FB/TikTok/YouTube + storie), carosello delle notizie alle 20:00 (Instagram e Facebook), secondo reel alle 21:00. Mai due reel della stessa fonte nello stesso giorno. Per modificare o annullare un post: tasto «Apri in Metricool» dentro ogni reel.",
  "days": [
   {
@@ -1075,6 +1075,40 @@
        "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=7371800584098694991"
       }
      ]
+    },
+    {
+     "time": "17:30",
+     "kind": "reel",
+     "status": "ok",
+     "title": "🔎 Il Contesto: «Chi ha più soldi deve pagare di più?»",
+     "meta": "Rubrica Il Contesto · patrimoniale · video spiegato di 75 s con copertina della rubrica · musica Epic Classical Strings",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "when": "Sabato 21 novembre · 17:30",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-5494171512366608698"
+      },
+      {
+       "label": "Facebook",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=1337628520539048794"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-8692843028317845548"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-6139121205942925617"
+      }
+     ],
+     "clip": "clips/contesto_patrimoniale.mp4"
     },
     {
      "time": "19:30",

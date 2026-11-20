@@ -89,6 +89,10 @@ Didascalie dei reel 18-22: strumenti/caps_reel_18-22.json. Gli id aggiornati si 
 - Regola dell'utente: le domande critiche («ma oggi ha detto qualcosa?», «si può fare davvero lì?») le deve fare l'autore da solo, prima di consegnare testo e bozza, e scriverle con le risposte nel file delle proposte.
 - Le regole sono state aggiunte al prompt dell'attività «Il Contesto – proposte del giorno» e alla skill «mezzo-minuto-il-contesto» (SKILL.md aggiornato mandato all'utente il 20/11 da salvare).
 
+### Il Contesto – terzo video: patrimoniale (20/11 sera)
+- «Chi ha più soldi deve pagare di più?»: PROGRAMMATO sabato 21/11 alle 17:30 su IG, FB, TikTok, YouTube (uuid IG -5494171512366608698, FB 1337628520539048794, TikTok -8692843028317845548, YouTube -6139121205942925617), copertina su IG/FB/TikTok, etichetta AI, musica Epic Classical Strings short (Pixabay, non citata). Durata 75 s. Aggiunto al calendario (clips/contesto_patrimoniale.mp4).
+- File in strumenti/spiegato/patrimoniale/: render_x.py, align.py, build_voce.py (voce_v1.mp3 + frasi corrette voce_landini/voce_meloni/voce_finale → voce.mp3), CREDITI.md, copertina.jpg, patrimoniale_ilcontesto.mp4.
+
 ### Il Contesto – secondo video: pensioni (18/11 sera)
 - «Pensione a 64 o a 67 anni?»: PROGRAMMATO giovedì 19/11 alle 17:30 su IG, FB, TikTok, YouTube (uuid IG 6905948456809612096, FB -4657113323266882123, TikTok 6342134572808422020, YouTube 7927338401068632058), copertina su IG/FB/TikTok, etichetta AI, musica Winery. Aggiunto al calendario.
 - File in strumenti/spiegato/pensioni/: render_p.py (scaletta agganciata alle parole con S(i), si riallinea da sola con words.json), align.py (scarta i tratti spuriosi <0,15 s), stima_tempi.py (bozza senza voce), voce.mp3, CREDITI.md, copertina.jpg, pensioni_ilcontesto.mp4.
