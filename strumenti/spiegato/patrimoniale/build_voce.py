@@ -13,7 +13,7 @@ else:
 parts+= [seg(1,0,7.98), sil(0.3), seg(0,71.85,74.45)]
 if M:
     d=float(subprocess.run(["ffprobe","-v","error","-show_entries","format=duration","-of","csv=p=0","voce_meloni.mp3"],capture_output=True,text=True).stdout)
-    parts=[p.replace("DUR_M",str(d)) for p in parts]
+    parts=[p.replace("DUR_M",str(min(d,6.32))) for p in parts]
 fc=";".join(f"{p},aresample=44100,aformat=channel_layouts=mono[p{i}]" for i,p in enumerate(parts))+";"+"".join(f"[p{i}]" for i in range(len(parts)))+f"concat=n={len(parts)}:v=0:a=1[o]"
 cmd=["ffmpeg","-v","error","-y"]
 for f in inp: cmd+=["-i",f]

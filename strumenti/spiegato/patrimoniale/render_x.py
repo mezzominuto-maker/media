@@ -64,15 +64,15 @@ SHOTS=[
  (S(120),S(124),None),
  (S(124),S(133),'p',FOTO+'aula.jpg',0.5,0.5),
  (S(133),S(149),None),
- (S(149),S(161),'p',FOTO+'montecitorio.jpg',0.5,0.4),
- (S(161),S(167),'v','px16580831.mp4',1.0,0.5),
- (S(167),S(175),'v','px17551136.mp4',1.0,0.5),
- (S(175),S(182),'v','px13107027.mp4',1.0,0.5),
- (S(182),S(195),'p',FOTO+'montecitorio.jpg',0.5,0.3),
- (S(195),S(205),None),
- (S(205),999,None)]
+ (S(149),S(164),None),
+ (S(164),S(170),'v','px16580831.mp4',1.0,0.5),
+ (S(170),S(178),'v','px17551136.mp4',1.0,0.5),
+ (S(178),S(185),'v','px13107027.mp4',1.0,0.5),
+ (S(185),S(198),'p',FOTO+'montecitorio.jpg',0.5,0.3),
+ (S(198),S(208),None),
+ (S(208),999,None)]
 BOUND=[s[0] for s in SHOTS[1:]]+[VEND]
-IMPACT=[S(5),S(11),S(15),S(19)+0.1,S(29),S(30),S(31),S(38),S(59),S(71),S(78),S(86),S(104),S(105),S(107),S(114),S(128),S(137),S(141),S(148),S(166),S(172),S(177),S(188),S(192),S(200),S(205)]
+IMPACT=[S(5),S(11),S(15),S(19)+0.1,S(29),S(30),S(31),S(38),S(59),S(71),S(78),S(86),S(104),S(105),S(107),S(114),S(128),S(137),S(141),S(148),S(169),S(175),S(180),S(191),S(195),S(203),S(208)]
 TINT={i:(30,40,90) for i in range(len(BOUND)+2)}
 TINT.update({1:(110,25,25),2:(60,48,18),7:(60,48,18),8:(110,40,20),13:(60,48,18),15:(110,25,25)})
 GZ=1.12  # margine per lo zoom lento
@@ -368,48 +368,48 @@ def scene(c,t):
         chip(c,1070,"MOVIMENTO 5 STELLE",t,S(144),NEU,out=o,fs=46)
         text(c,"FRENA",BLK,90,RED,W/2,1190,t,S(148),0.25,"pop",out=o)
         source(c,"AGI, Alanews, 18 novembre",t,S(133)+0.3,o)
-    elif t<S(161):
-        o=S(161)-0.08
+    elif t<S(164):
+        o=S(164)-0.08
         chip(c,480,"GIORGIA MELONI",t,S(149),NEU,out=o,fs=56)
-        text(c,"«NOI LAVORIAMO",BLK,92,CREAM,W/2,650,t,S(153),0.25,"up",out=o)
-        text(c,"AFFINCHÉ GLI ITALIANI",BLK,74,CREAM,W/2,780,t,S(155),0.25,"up",out=o)
-        text(c,"ABBIANO",BLK,92,CREAM,W/2,900,t,S(158),0.25,"up",out=o)
-        text(c,"UN PATRIMONIO»",BLK,110,AMBER,W/2,1040,t,S(159),0.25,"zoom",out=o)
-        source(c,"Giorgia Meloni, giugno 2026 · Euronews, Today",t,S(149)+0.3,o)
-    elif t<S(167):
-        o=S(167)-0.08
-        rrect(c,(90,600,990,1100),36,(20,90,55,215),t,S(161),0.3,out=o)
-        text(c,"A FAVORE",BLK,96,CREAM,W/2,700,t,S(161)+0.1,0.25,"pop",out=o)
-        text(c,"è una questione di",SB,58,CREAM,W/2,850,t,S(164),0.25,"up",out=o)
-        text(c,"EQUITÀ",BLK,140,AMBER,W/2,980,t,S(166),0.25,"zoom",out=o)
-    elif t<S(182):
-        o=S(182)-0.08
-        rrect(c,(90,560,990,1220),36,(120,30,35,215),t,S(167),0.3,out=o)
-        text(c,"CONTRO",BLK,96,CREAM,W/2,660,t,S(167)+0.1,0.25,"pop",out=o)
-        text(c,"FUGA",BLK,130,AMBER,W/2,820,t,S(172),0.25,"zoom",out=o)
-        text(c,"DEI CAPITALI",BLK,80,CREAM,W/2,940,t,S(173),0.25,"up",out=o)
-        text(c,"un colpo a chi",SB,58,CREAM,W/2,1060,t,S(176),0.25,"up",out=o)
-        text(c,"HA RISPARMIATO",BLK,80,AMBER,W/2,1150,t,S(179),0.25,"pop",out=o)
-    elif t<S(195):
-        o=S(195)-0.08
-        text(c,"NELLA MANOVRA",BLK,96,CREAM,W/2,520,t,S(182),0.22,"up",out=o)
-        text(c,"DEL GOVERNO",XB,64,CREAM,W/2,640,t,S(184),0.22,"up",out=o)
-        stamp(c,"NON C'È",RED,W/2,820,t,S(188),size=130,angle=-7,out=o)
-        chip(c,1040,"MAGGIORANZA",t,S(191),NEU,out=o,fs=56)
-        text(c,"CONTRARIA",BLK,110,AMBER,W/2,1180,t,S(193),0.25,"zoom",out=o)
-        source(c,"ANSA, Il Giornale d'Italia, Alanews",t,S(182)+0.3,o)
-    elif t<S(205):
-        o=S(205)-0.08
-        text(c,"LA SFIDA SI SPOSTA SUL",XB,58,CREAM,W/2,560,t,S(195),0.22,"up",out=o)
-        text(c,"PROGRAMMA",BLK,150,AMBER,W/2,720,t,S(200),0.25,"zoom",out=o)
-        text(c,"PER LE PROSSIME",BLK,84,CREAM,W/2,880,t,S(201),0.25,"up",out=o)
-        text(c,"ELEZIONI",BLK,130,AMBER,W/2,1020,t,S(204),0.25,"zoom",out=o)
-        source(c,"Proposta AVS per il programma · Il Fatto Quotidiano, Fanpage",t,S(195)+0.3,o)
+        text(c,"«NOI LAVORIAMO",BLK,92,CREAM,W/2,640,t,S(153),0.25,"up",out=o)
+        text(c,"PER ABBASSARE LE TASSE,",BLK,70,AMBER,W/2,760,t,S(155),0.25,"up",out=o)
+        text(c,"LA SINISTRA LITIGA",BLK,84,CREAM,W/2,900,t,S(159),0.25,"up",out=o)
+        text(c,"SULLA PATRIMONIALE»",BLK,80,AMBER,W/2,1020,t,S(162),0.25,"zoom",out=o)
+        source(c,"Giorgia Meloni, 18 novembre · ANSA, Italpress",t,S(149)+0.3,o)
+    elif t<S(170):
+        o=S(170)-0.08
+        rrect(c,(90,600,990,1100),36,(20,90,55,215),t,S(164),0.3,out=o)
+        text(c,"A FAVORE",BLK,96,CREAM,W/2,700,t,S(164)+0.1,0.25,"pop",out=o)
+        text(c,"è una questione di",SB,58,CREAM,W/2,850,t,S(167),0.25,"up",out=o)
+        text(c,"EQUITÀ",BLK,140,AMBER,W/2,980,t,S(169),0.25,"zoom",out=o)
+    elif t<S(185):
+        o=S(185)-0.08
+        rrect(c,(90,560,990,1220),36,(120,30,35,215),t,S(170),0.3,out=o)
+        text(c,"CONTRO",BLK,96,CREAM,W/2,660,t,S(170)+0.1,0.25,"pop",out=o)
+        text(c,"FUGA",BLK,130,AMBER,W/2,820,t,S(175),0.25,"zoom",out=o)
+        text(c,"DEI CAPITALI",BLK,80,CREAM,W/2,940,t,S(176),0.25,"up",out=o)
+        text(c,"un colpo a chi",SB,58,CREAM,W/2,1060,t,S(179),0.25,"up",out=o)
+        text(c,"HA RISPARMIATO",BLK,80,AMBER,W/2,1150,t,S(182),0.25,"pop",out=o)
+    elif t<S(198):
+        o=S(198)-0.08
+        text(c,"NELLA MANOVRA",BLK,96,CREAM,W/2,520,t,S(185),0.22,"up",out=o)
+        text(c,"DEL GOVERNO",XB,64,CREAM,W/2,640,t,S(187),0.22,"up",out=o)
+        stamp(c,"NON C'È",RED,W/2,820,t,S(191),size=130,angle=-7,out=o)
+        chip(c,1040,"MAGGIORANZA",t,S(194),NEU,out=o,fs=56)
+        text(c,"CONTRARIA",BLK,110,AMBER,W/2,1180,t,S(196),0.25,"zoom",out=o)
+        source(c,"ANSA, Il Giornale d'Italia, Alanews",t,S(185)+0.3,o)
+    elif t<S(208):
+        o=S(208)-0.08
+        text(c,"LA SFIDA SI SPOSTA SUL",XB,58,CREAM,W/2,560,t,S(198),0.22,"up",out=o)
+        text(c,"PROGRAMMA",BLK,128,AMBER,W/2,720,t,S(203),0.25,"zoom",out=o)
+        text(c,"PER LE PROSSIME",BLK,84,CREAM,W/2,880,t,S(204),0.25,"up",out=o)
+        text(c,"ELEZIONI",BLK,130,AMBER,W/2,1020,t,S(207),0.25,"zoom",out=o)
+        source(c,"Proposta AVS per il programma · Il Fatto Quotidiano, Fanpage",t,S(198)+0.3,o)
     elif t<VEND:
-        text(c,"TU COSA",BLK,130,CREAM,W/2,600,t,S(205),0.22,"pop")
-        text(c,"NE PENSI?",BLK,130,AMBER,W/2,750,t,S(207),0.22,"pop")
-        text(c,"SCRIVILO NEI COMMENTI",XB,54,CREAM,W/2,960,t,S(209),0.3,"up")
-        p=prog(t,S(209)+0.2,0.3)
+        text(c,"TU COSA",BLK,130,CREAM,W/2,600,t,S(208),0.22,"pop")
+        text(c,"NE PENSI?",BLK,130,AMBER,W/2,750,t,S(210),0.22,"pop")
+        text(c,"SCRIVILO NEI COMMENTI",XB,54,CREAM,W/2,960,t,S(212),0.3,"up")
+        p=prog(t,S(212)+0.2,0.3)
         if p>0:
             yb=1060+12*math.sin(t*9); a=int(255*eo(p))
             with OV(c) as d: d.polygon([(W/2-50,yb),(W/2+50,yb),(W/2,yb+60)],fill=AMBER+(a,))
