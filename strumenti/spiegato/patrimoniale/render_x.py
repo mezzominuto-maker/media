@@ -68,10 +68,11 @@ SHOTS=[
  (S(161),S(167),'v','px16580831.mp4',1.0,0.5),
  (S(167),S(175),'v','px17551136.mp4',1.0,0.5),
  (S(175),S(182),'v','px13107027.mp4',1.0,0.5),
- (S(182),S(189),'p',FOTO+'montecitorio.jpg',0.5,0.3),
- (S(189),999,None)]
+ (S(182),S(195),'p',FOTO+'montecitorio.jpg',0.5,0.3),
+ (S(195),S(205),None),
+ (S(205),999,None)]
 BOUND=[s[0] for s in SHOTS[1:]]+[VEND]
-IMPACT=[S(5),S(11),S(15),S(19)+0.1,S(29),S(30),S(31),S(38),S(59),S(71),S(78),S(86),S(104),S(105),S(107),S(114),S(128),S(137),S(141),S(148),S(166),S(172),S(177),S(187),S(189)]
+IMPACT=[S(5),S(11),S(15),S(19)+0.1,S(29),S(30),S(31),S(38),S(59),S(71),S(78),S(86),S(104),S(105),S(107),S(114),S(128),S(137),S(141),S(148),S(166),S(172),S(177),S(188),S(192),S(200),S(205)]
 TINT={i:(30,40,90) for i in range(len(BOUND)+2)}
 TINT.update({1:(110,25,25),2:(60,48,18),7:(60,48,18),8:(110,40,20),13:(60,48,18),15:(110,25,25)})
 GZ=1.12  # margine per lo zoom lento
@@ -389,18 +390,26 @@ def scene(c,t):
         text(c,"DEI CAPITALI",BLK,80,CREAM,W/2,940,t,S(173),0.25,"up",out=o)
         text(c,"un colpo a chi",SB,58,CREAM,W/2,1060,t,S(176),0.25,"up",out=o)
         text(c,"HA RISPARMIATO",BLK,80,AMBER,W/2,1150,t,S(179),0.25,"pop",out=o)
-    elif t<S(189):
-        o=S(189)-0.08
-        text(c,"LA MANOVRA",BLK,110,CREAM,W/2,560,t,S(182),0.22,"up",out=o)
-        text(c,"VA APPROVATA",XB,70,CREAM,W/2,700,t,S(184),0.22,"up",out=o)
-        text(c,"ENTRO",BLK,100,CREAM,W/2,840,t,S(186),0.22,"up",out=o)
-        text(c,"FINE ANNO",BLK,150,AMBER,W/2,1000,t,S(187),0.25,"zoom",out=o)
-        source(c,"Voto modifiche a dicembre · Orizzonte Scuola, Confronto Scuola",t,S(182)+0.3,o)
+    elif t<S(195):
+        o=S(195)-0.08
+        text(c,"NELLA MANOVRA",BLK,96,CREAM,W/2,520,t,S(182),0.22,"up",out=o)
+        text(c,"DEL GOVERNO",XB,64,CREAM,W/2,640,t,S(184),0.22,"up",out=o)
+        stamp(c,"NON C'È",RED,W/2,820,t,S(188),size=130,angle=-7,out=o)
+        chip(c,1040,"MAGGIORANZA",t,S(191),NEU,out=o,fs=56)
+        text(c,"CONTRARIA",BLK,110,AMBER,W/2,1180,t,S(193),0.25,"zoom",out=o)
+        source(c,"ANSA, Il Giornale d'Italia, Alanews",t,S(182)+0.3,o)
+    elif t<S(205):
+        o=S(205)-0.08
+        text(c,"LA SFIDA SI SPOSTA SUL",XB,58,CREAM,W/2,560,t,S(195),0.22,"up",out=o)
+        text(c,"PROGRAMMA",BLK,150,AMBER,W/2,720,t,S(200),0.25,"zoom",out=o)
+        text(c,"PER LE PROSSIME",BLK,84,CREAM,W/2,880,t,S(201),0.25,"up",out=o)
+        text(c,"ELEZIONI",BLK,130,AMBER,W/2,1020,t,S(204),0.25,"zoom",out=o)
+        source(c,"Proposta AVS per il programma · Il Fatto Quotidiano, Fanpage",t,S(195)+0.3,o)
     elif t<VEND:
-        text(c,"TU COSA",BLK,130,CREAM,W/2,600,t,S(189),0.22,"pop")
-        text(c,"NE PENSI?",BLK,130,AMBER,W/2,750,t,S(191),0.22,"pop")
-        text(c,"SCRIVILO NEI COMMENTI",XB,54,CREAM,W/2,960,t,S(193),0.3,"up")
-        p=prog(t,S(193)+0.2,0.3)
+        text(c,"TU COSA",BLK,130,CREAM,W/2,600,t,S(205),0.22,"pop")
+        text(c,"NE PENSI?",BLK,130,AMBER,W/2,750,t,S(207),0.22,"pop")
+        text(c,"SCRIVILO NEI COMMENTI",XB,54,CREAM,W/2,960,t,S(209),0.3,"up")
+        p=prog(t,S(209)+0.2,0.3)
         if p>0:
             yb=1060+12*math.sin(t*9); a=int(255*eo(p))
             with OV(c) as d: d.polygon([(W/2-50,yb),(W/2+50,yb),(W/2,yb+60)],fill=AMBER+(a,))
