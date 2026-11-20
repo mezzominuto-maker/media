@@ -1,0 +1,40 @@
+{
+ "citazione": "Chi lavora paga *36 miliardi* in più che non dovrebbe pagare",
+ "chi": "Maurizio Landini, Cgil",
+ "dove": "Sciopero generale, Roma · 20 novembre 2026",
+ "fatti": [
+  {
+   "titolo": "Il drenaggio fiscale *esiste*",
+   "testo": "Se lo stipendio sale solo per stare dietro ai prezzi, puoi finire in uno scaglione Irpef più alto. Paghi più tasse anche se non sei più ricco."
+  },
+  {
+   "titolo": "36 miliardi: è una stima *della Cgil*",
+   "testo": "Il sindacato somma quattro anni: circa 30 miliardi negli ultimi tre e altri 6 il prossimo anno. Non è un dato ufficiale."
+  }
+ ],
+ "barre": {
+  "titolo": "Quanto vale, *secondo le stime*",
+  "unita": "mld",
+  "voci": [
+   [
+    "Cgil, solo il prossimo anno",
+    6,
+    "stima del sindacato"
+   ],
+   [
+    "Leonardi e Rizzo, 2026 e 2027",
+    8.1,
+    "economisti, scenario centrale (fino a 12,7)"
+   ]
+  ]
+ },
+ "verdetto": "IN PARTE VERO",
+ "verdetto_colore": [
+  255,
+  196,
+  61
+ ],
+ "spiegazione": "Il drenaggio c'è e vale miliardi ogni anno. Ma il totale di *36 miliardi* è un calcolo della Cgil, non un dato ufficiale.",
+ "domanda": "Il governo dovrebbe *restituire* il drenaggio fiscale?",
+ "fonti": "Il Sole 24 Ore, PerugiaToday, Leonardi e Rizzo (via QuiFinanza)"
+}
