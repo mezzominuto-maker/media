@@ -1,5 +1,5 @@
 {
- "updated": "20 novembre, 23:05",
+ "updated": "21 novembre, 21:05",
  "note": "Giornata tipo da venerdì 13: reel alle 12:00, notizie del giorno alle 19:30 (verifica alle 19:00; video su IG/FB/TikTok/YouTube + storie), carosello delle notizie alle 20:00 (Instagram e Facebook), secondo reel alle 21:00. Mai due reel della stessa fonte nello stesso giorno. Per modificare o annullare un post: tasto «Apri in Metricool» dentro ogni reel.",
  "days": [
   {
@@ -1232,11 +1232,205 @@
     {
      "time": "21:00",
      "kind": "reel",
-     "status": "free",
-     "title": "Libero — in attesa delle tue clip"
+     "status": "ok",
+     "title": "Di Battista: «Si sono svuotati gli arsenali»",
+     "meta": "Forza: B+ · Fonte: diMartedì · La7 · Facebook: invito a seguire la pagina + domanda nel primo commento · Apertura con la frase forte · Schermo intero con sfumatura, volto centrato, 5 hashtag",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "clip": "clips/std_dibattista_arsenali.mp4",
+     "when": "Domenica 22 novembre · 21:00",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-2611958291593738642"
+      },
+      {
+       "label": "Facebook",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-7557424374559584611"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-6900106614538614545"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-9055786059879529534"
+      }
+     ]
     }
    ],
    "date": "2026-11-22"
+  },
+  {
+   "label": "Lunedì 23",
+   "sub": "novembre",
+   "date": "2026-11-23",
+   "slots": [
+    {
+     "time": "12:00",
+     "kind": "reel",
+     "status": "ok",
+     "title": "Libri gratis, Licheri: «O dentro o fuori»",
+     "meta": "Forza: B · Fonte: Senato della Repubblica · Facebook: invito a seguire la pagina + domanda nel primo commento · Apertura con la frase forte · Schermo intero con sfumatura, volto centrato, 5 hashtag",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "clip": "clips/std_licheri_libri.mp4",
+     "when": "Lunedì 23 novembre · 12:00",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=172635709145501470"
+      },
+      {
+       "label": "Facebook",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-2994960301102707537"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=4031132726644393668"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=1279216317825699485"
+      }
+     ]
+    },
+    {
+     "time": "19:30",
+     "kind": "news",
+     "status": "auto",
+     "title": "Le notizie del giorno (video + storie)",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ]
+    },
+    {
+     "time": "20:00",
+     "kind": "news",
+     "status": "auto",
+     "title": "Carosello notizie del giorno",
+     "where": [
+      "Instagram",
+      "Facebook"
+     ]
+    },
+    {
+     "time": "21:00",
+     "kind": "reel",
+     "status": "ok",
+     "title": "Mieli: «Non sembra che siamo pronti»",
+     "meta": "Forza: B− · Fonte: Accordi e disaccordi · Nove · Facebook: invito a seguire la pagina + domanda nel primo commento · Apertura con la frase forte · Schermo intero con sfumatura, volto centrato, 5 hashtag",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "clip": "clips/std_mieli_cyber.mp4",
+     "when": "Lunedì 23 novembre · 21:00",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-6632353519536748066"
+      },
+      {
+       "label": "Facebook",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-4187986676467283256"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-7645360740416926228"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-3640999770623750864"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Martedì 24",
+   "sub": "novembre",
+   "date": "2026-11-24",
+   "slots": [
+    {
+     "time": "12:00",
+     "kind": "reel",
+     "status": "ok",
+     "title": "Di Battista: «È difficile sopravvivere»",
+     "meta": "Forza: B · Fonte: diMartedì · La7 · Facebook: invito a seguire la pagina + domanda nel primo commento · Apertura con la frase forte · Schermo intero con sfumatura, volto centrato, 5 hashtag",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "clip": "clips/std_dibattista_vivere.mp4",
+     "when": "Martedì 24 novembre · 12:00",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=5808696799135352366"
+      },
+      {
+       "label": "Facebook",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=4858648018540578562"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-72812483994760875"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-3330211699089388725"
+      }
+     ]
+    },
+    {
+     "time": "19:30",
+     "kind": "news",
+     "status": "auto",
+     "title": "Le notizie del giorno (video + storie)",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ]
+    },
+    {
+     "time": "20:00",
+     "kind": "news",
+     "status": "auto",
+     "title": "Carosello notizie del giorno",
+     "where": [
+      "Instagram",
+      "Facebook"
+     ]
+    },
+    {
+     "time": "21:00",
+     "kind": "reel",
+     "status": "free",
+     "title": "Libero — in attesa delle tue clip"
+    }
+   ]
   }
  ]
 }
