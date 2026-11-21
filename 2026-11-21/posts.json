@@ -1,0 +1,341 @@
+[
+ {
+  "etichetta": "a",
+  "orario": "20:00",
+  "id": 436860960,
+  "uuid": "1765467843020079176",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=1765467843020079176",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "providers": [
+    {
+     "network": "instagram"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/slide_01.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/slide_02.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/slide_03.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/slide_04.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/slide_05.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/slide_06.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/slide_07.jpg"
+   ],
+   "text": "📌 Le notizie di sabato 21 novembre in 7 slide: scorri e salva.\n\n✈️ Un emendamento cambia la tassa per chi sposta la residenza fiscale all’estero\n🇺🇦 Attacco nella notte sulla città natale di Zelensky: ci sono morti e feriti\n🇪🇺 Costa propone nuovi tagli e un prelievo sui servizi digitali\n☢️ Trump punta a un accordo “permanente”, Teheran ribadisce le sue linee rosse\n📊 Nella Supermedia Youtrend/Agi FdI resta primo partito\n\nUna tassa europea sui servizi digitali: tu cosa ne pensi?\n\nOgni sera alle 19:30 le notizie in 30 secondi 👉 @mezzo.minuto\n\n#mezzominuto #notizie #politica #bilancioue #sondaggi #europa #ucraina",
+   "instagramData": {
+    "type": "POST"
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-21T20:00:00",
+    "timezone": "Europe/Rome"
+   }
+  }
+ },
+ {
+  "etichetta": "b",
+  "orario": "19:30",
+  "id": 436860973,
+  "uuid": "2715543155025723866",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=2715543155025723866",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/video.mp4"
+   ],
+   "instagramData": {
+    "type": "STORY"
+   },
+   "facebookData": {
+    "type": "STORY"
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-21T19:30:00",
+    "timezone": "Europe/Rome"
+   }
+  }
+ },
+ {
+  "etichetta": "c",
+  "orario": "19:30",
+  "id": 436860988,
+  "uuid": "1500636895851661168",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=1500636895851661168",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "providers": [
+    {
+     "network": "tiktok"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/video.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/cover.jpg",
+   "text": "Manovra, FdI riscrive l’exit tax. Poi Kryvyi Rih, tassa digitale Ue, Iran e sondaggi: le 5 notizie di oggi in 30 secondi. 📷 Pexels, Wikimedia Commons\n#mezzominuto #notizie #politica #manovra #exittax #ucraina #iran",
+   "tiktokData": {
+    "title": "Exit tax, Ucraina e tassa digitale Ue: le notizie di oggi in 30 secondi",
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "disableComment": false,
+    "disableDuet": false,
+    "disableStitch": false,
+    "commercialContentThirdParty": false,
+    "commercialContentOwnBrand": false,
+    "autoAddMusic": false
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-21T19:30:00",
+    "timezone": "Europe/Rome"
+   }
+  }
+ },
+ {
+  "etichetta": "d",
+  "orario": "19:30",
+  "id": 436860999,
+  "uuid": "-5398867128893619778",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-5398867128893619778",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "providers": [
+    {
+     "network": "tiktok"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/slide_01.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/slide_02.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/slide_03.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/slide_04.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/slide_05.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/slide_06.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/slide_07.jpg"
+   ],
+   "text": "Exit tax, Kryvyi Rih, tassa digitale Ue, Iran e sondaggi: le notizie di sabato 21 novembre in 7 slide.\n#mezzominuto #notizie #politica #manovra #exittax #ucraina #iran",
+   "tiktokData": {
+    "title": "Exit tax, Ucraina e tassa digitale Ue: le notizie di oggi in 30 secondi",
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "disableComment": false,
+    "disableDuet": false,
+    "disableStitch": false,
+    "commercialContentThirdParty": false,
+    "commercialContentOwnBrand": false,
+    "autoAddMusic": false,
+    "photoCoverIndex": 0
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-21T19:30:00",
+    "timezone": "Europe/Rome"
+   }
+  }
+ },
+ {
+  "etichetta": "e",
+  "orario": "19:30",
+  "id": 436861009,
+  "uuid": "2672159932364571999",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=2672159932364571999",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "providers": [
+    {
+     "network": "youtube"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/video.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/cover.jpg",
+   "text": "Un emendamento di FdI alla manovra riscrive l’exit tax per chi trasferisce la residenza fiscale all’estero.\n\n1. Manovra, FdI riscrive l’exit tax (Fonti: ANSA, Milano Finanza)\n2. Missile russo su Kryvyi Rih: morti e feriti (Fonti: Euronews, Italpress)\n3. Bilancio Ue, Costa propone tagli e un prelievo sui servizi digitali (Fonti: ANSA, Euronews)\n4. Iran, Trump insiste sul nucleare; Teheran ribadisce le linee rosse (Fonti: Adnkronos, Sky TG24)\n5. Supermedia Youtrend/Agi: campo largo avanti di due punti, FdI primo partito (Fonti: Agi, Lettera43)\n\n📷 Foto: Pexels, Wikimedia Commons\n\n#shorts #notizie #politica",
+   "youtubeData": {
+    "title": "Exit tax, Ucraina e tassa digitale Ue: le notizie di oggi in 30 secondi",
+    "type": "short",
+    "privacy": "public",
+    "tags": [
+     "exit tax",
+     "manovra",
+     "ucraina",
+     "iran",
+     "bilancio ue",
+     "notizie",
+     "politica",
+     "attualità",
+     "mezzo minuto"
+    ],
+    "category": "NEWS_POLITICS",
+    "madeForKids": false
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-21T19:30:00",
+    "timezone": "Europe/Rome"
+   }
+  }
+ },
+ {
+  "etichetta": "f",
+  "orario": "19:30",
+  "id": 436861021,
+  "uuid": "4939214177781761042",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=4939214177781761042",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "providers": [
+    {
+     "network": "instagram"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/video.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/cover.jpg",
+   "text": "⏱️ Le 5 notizie di sabato 21 novembre in mezzo minuto.\n\n1. Manovra, FdI riscrive l’exit tax\n2. Missile russo su Kryvyi Rih\n3. Bilancio Ue, spunta la tassa digitale\n4. Iran, Trump insiste sul nucleare\n5. Sondaggi: campo largo avanti di due punti\n\nSecondo te è giusto tassare chi trasferisce la residenza fiscale all’estero?\n\nSegui per le notizie di domani 👉 @mezzo.minuto\n\n📷 Foto: Pexels, Wikimedia Commons\n\n#mezzominuto #notizie #politica #manovra #exittax #ucraina #iran",
+   "instagramData": {
+    "type": "REEL",
+    "showReelOnFeed": true
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-21T19:30:00",
+    "timezone": "Europe/Rome"
+   }
+  }
+ },
+ {
+  "etichetta": "g",
+  "orario": "20:00",
+  "id": 436861029,
+  "uuid": "8302855515699366528",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=8302855515699366528",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "Secondo te è giusto tassare chi trasferisce la residenza fiscale all’estero? Scrivilo qui sotto 👇",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "providers": [
+    {
+     "network": "facebook"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/slide_01.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/slide_02.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/slide_03.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/slide_04.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/slide_05.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/slide_06.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/slide_07.jpg"
+   ],
+   "text": "⏱️ Le notizie di oggi in mezzo minuto:\n\n1. Manovra, FdI riscrive l’exit tax\n2. Missile russo su Kryvyi Rih\n3. Ue, spunta la tassa digitale\n4. Iran, Trump insiste sul nucleare\n5. Campo largo avanti di due punti\n\n👉 Segui Mezzo Minuto per le notizie di domani.\n\n#mezzominuto #notizie #politica #manovra #ucraina #iran #europa",
+   "facebookData": {
+    "type": "POST"
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-21T20:00:00",
+    "timezone": "Europe/Rome"
+   }
+  }
+ },
+ {
+  "etichetta": "h",
+  "orario": "19:30",
+  "id": 436861052,
+  "uuid": "-6807026213480873829",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-6807026213480873829",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "Secondo te è giusto tassare chi trasferisce la residenza fiscale all’estero? Scrivilo qui sotto 👇",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "providers": [
+    {
+     "network": "facebook"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/video.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-21/cover.jpg",
+   "text": "⏱️ Le notizie di oggi in mezzo minuto:\n\n1. Manovra, FdI riscrive l’exit tax\n2. Missile russo su Kryvyi Rih\n3. Ue, spunta la tassa digitale\n4. Iran, Trump insiste sul nucleare\n5. Campo largo avanti di due punti\n\n👉 Segui Mezzo Minuto per le notizie di domani.\n\n#mezzominuto #notizie #politica #manovra #ucraina #iran #europa",
+   "facebookData": {
+    "type": "REEL",
+    "title": "Exit tax, Ucraina e tassa digitale Ue: le notizie di oggi in 30 secondi"
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-21T19:30:00",
+    "timezone": "Europe/Rome"
+   }
+  }
+ }
+]
