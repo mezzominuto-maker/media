@@ -1,0 +1,115 @@
+{
+ "date_label": "Sabato 21 novembre",
+ "news": [
+  [
+   "ITALIA",
+   "Manovra, FdI riscrive l’exit tax",
+   "Un emendamento cambia la tassa per chi trasferisce la residenza fiscale all’estero.",
+   "Fonti: ANSA, Milano Finanza"
+  ],
+  [
+   "MONDO",
+   "Missile russo su Kryvyi Rih",
+   "Attacco nella notte sulla città natale di Zelensky: ci sono morti e feriti.",
+   "Fonti: Euronews, Italpress"
+  ],
+  [
+   "ECONOMIA",
+   "Bilancio Ue, spunta la tassa digitale",
+   "Costa propone nuovi tagli e un prelievo sui servizi digitali per sbloccare l’accordo.",
+   "Fonti: ANSA, Euronews"
+  ],
+  [
+   "USA",
+   "Iran, Trump insiste sul nucleare",
+   "Trump punta a un accordo “permanente”; Teheran ribadisce le sue linee rosse.",
+   "Fonti: Adnkronos, Sky TG24"
+  ],
+  [
+   "SONDAGGI",
+   "Campo largo avanti di due punti",
+   "Nella Supermedia Youtrend/Agi il campo largo resta davanti al centrodestra. FdI primo partito.",
+   "Fonti: Agi, Lettera43"
+  ]
+ ],
+ "evidenza": [
+  "l’exit tax",
+  "Kryvyi Rih",
+  "tassa digitale",
+  "nucleare",
+  "Campo largo"
+ ],
+ "clip_dir": "/tmp/mm/clip",
+ "shots": [
+  [
+   [
+    "pxf7009465.jpg",
+    0,
+    0.45,
+    0.6
+   ],
+   [
+    "px855388.mp4",
+    1.0,
+    0.5,
+    0.5
+   ]
+  ],
+  [
+   [
+    "pxf30473231.jpg",
+    0,
+    0.6,
+    0.4
+   ],
+   [
+    "pxf17629924.jpg",
+    0,
+    0.5,
+    0.5
+   ]
+  ],
+  [
+   [
+    "pxf6791897.jpg",
+    0,
+    0.5,
+    0.6
+   ],
+   [
+    "px10956356.mp4",
+    1.0,
+    0.4,
+    0.4
+   ]
+  ],
+  [
+   [
+    "pxf30724356.jpg",
+    0,
+    0.5,
+    0.4
+   ],
+   [
+    "pxf12618161.jpg",
+    0,
+    0.5,
+    0.5
+   ]
+  ],
+  [
+   [
+    "repo:spiegato/condono/foto/montecitorio.jpg",
+    0,
+    0.5,
+    0.5
+   ],
+   [
+    "repo:spiegato/condono/foto/aula.jpg",
+    0,
+    0.5,
+    0.5
+   ]
+  ]
+ ]
+}

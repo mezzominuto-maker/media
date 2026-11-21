@@ -1,0 +1,68 @@
+[
+ {
+  "titolo": "Manovra, FdI riscrive l’exit tax",
+  "fatti_chiave": [
+   "Emendamento di Fratelli d’Italia alla manovra modifica l’exit tax per chi trasferisce la residenza fiscale all’estero (ANSA 21/11, DayItaliaNews, Milano Finanza sul dibattito)",
+   "Scartati: dettagli su soglie e aliquote (non verificati su due fonti); posizioni di Forza Italia/Tajani (ItaliaOggi parla di scontro nella maggioranza, non usato)"
+  ],
+  "link": [
+   "https://www.ansa.it/sito/notizie/politica/2026/11/21/manovra-emendamento-di-fdi-riscrive-lexit-tax-per-chi-trasferisce-la-residenza_eaa34634-ed55-4417-82fe-031e30349e39.html",
+   "https://www.dayitalianews.com/manovra-2027-fdi-modifica-exit-tax-nuove-regole-trasferisce-residenza-fiscale-estero/",
+   "https://www.milanofinanza.it/news/manovra-2027-ecco-come-cambiera-l-exit-tax-si-fa-strada-l-ipotesi-di-tassare-solo-chi-ha-scelto-l-italia-202611101933587231"
+  ],
+  "trend": "non disponibile (Google Trends non accessibile in questa esecuzione)"
+ },
+ {
+  "titolo": "Missile russo su Kryvyi Rih",
+  "fatti_chiave": [
+   "Attacco russo nella notte su Kryvyi Rih, città natale di Zelensky, con morti e feriti (Euronews: missile balistico; Italpress: notte di attacchi, morti e feriti)",
+   "Scartato: numero esatto delle vittime (Euronews: due morti; non confermato da una seconda fonte nelle ricerche)"
+  ],
+  "link": [
+   "https://it.euronews.com/2026/11/21/attacco-russo-con-missile-balistico-a-kryvyi-rih-citta-natale-di-zelensky-due-morti",
+   "https://www.italpress.com/guerra-ucraina-russia-notizie-aggiornamenti-oggi-21-novembre-2026/",
+   "https://tg24.sky.it/mondo/2026/11/21/guerra-ucraina-russia-ultime-notizie-diretta"
+  ],
+  "trend": "non disponibile"
+ },
+ {
+  "titolo": "Bilancio Ue, spunta la tassa digitale",
+  "fatti_chiave": [
+   "Il presidente del Consiglio europeo António Costa propone nuovi tagli al bilancio Ue e un prelievo sui servizi digitali per sbloccare l’accordo (Euronews, ANSA, Alanews)",
+   "Scartati: 5,2 miliardi (solo ANSA e ripresa), aliquota 3% (solo Alanews), taglio di 204 miliardi e no della Francia (solo Notizie Geopolitiche)"
+  ],
+  "link": [
+   "https://ansa.it/sito/notizie/economia/2026/11/21/tagli-al-bilancio-ue-ce-una-digital-tax-da-52-miliardi_0e90b338-3f27-4ac8-83c2-5f3ac96954ff.html",
+   "https://it.euronews.com/2026/11/21/bilancio-ue-costa-propone-nuovi-tagli-e-tassa-digitale-per-sbloccare-laccordo",
+   "https://www.alanews.it/2026/11/21/esteri/costa-prelievo-servizi-digitali-ue"
+  ],
+  "trend": "non disponibile"
+ },
+ {
+  "titolo": "Iran, Trump insiste sul nucleare",
+  "fatti_chiave": [
+   "Trump: «Farò accordo permanente» (Adnkronos, ripresa da molte testate) – nel testo solo la parola “permanente” tra virgolette",
+   "Teheran ribadisce le linee rosse (Adnkronos); diretta Sky TG24 sulle mosse di Trump e Hormuz"
+  ],
+  "link": [
+   "https://www.adnkronos.com/internazionale/esteri/guerra-iran-usa-news-oggi-21-novembre-2026_65bg0b9pjDQCm26cxlqhqE",
+   "https://tg24.sky.it/mondo/2026/11/21/guerra-iran-usa-trump-news-diretta",
+   "https://canaledieci.it/2026/11/21/iran-trump-faro-accordo-permanente-nessuno-potra-permettere-a-teheran-di-avere-armi-atomiche/"
+  ],
+  "trend": "non disponibile"
+ },
+ {
+  "titolo": "Campo largo avanti di due punti",
+  "fatti_chiave": [
+   "Supermedia Youtrend/Agi del 19/11: campo largo avanti di circa due punti sul centrodestra (Lettera43); stesso segno nella Supermedia del 12/11 (Agi)",
+   "FdI primo partito in tutte le rilevazioni",
+   "Scartati: percentuali dei singoli partiti (i sondaggi del 21/11 riportano valori diversi: FdI 27,8% secondo Napoli ZON/Fanpage, 26,5% Ixè; alcuni parlano di testa a testa)"
+  ],
+  "link": [
+   "https://www.lettera43.it/sondaggi-politici-supermedia-19-novembre-campo-largo-avanti-due-punti-centrodestra/",
+   "https://www.agi.it/politica/news/2026-11-12/supermedia-sondaggi-campo-largo-centrodestra-40000549/",
+   "https://quifinanza.it/politica/sondaggi-politici-21-novembre-2026/1025214/"
+  ],
+  "trend": "non disponibile"
+ }
+]
