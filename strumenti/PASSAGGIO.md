@@ -107,3 +107,5 @@ Didascalie dei reel 18-22: strumenti/caps_reel_18-22.json. Gli id aggiornati si 
 - **Da ricordare:**
   - la copertina YouTube del notiziario a volte va impostata a mano;
   - le clip di Otto e mezzo hanno un rischio di Content ID.
+
+- **Instagram Trial Reel:** non usarli. Il 21/11 il reel Kamala (tipo TRIAL_REEL) è andato in errore: l'account non ha abbastanza follower per i reel di prova. Ripubblicato come REEL normale alle 21:35.
