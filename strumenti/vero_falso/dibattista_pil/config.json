@@ -1,0 +1,38 @@
+{
+ "sorgente": "sorgente.mp4",
+ "clip_fine": 5.35,
+ "voce_t0": 5.55,
+ "voce_taglio": 2.75,
+ "durata": 36.3,
+ "citazione": "Nel secondo trimestre la crescita è stata *negativa*",
+ "chi": "Alessandro Di Battista · diMartedì, La7",
+ "fonti": "Istat (conti trimestrali, prezzi al consumo) · Clip: diMartedì, La7",
+ "frasi": [
+  [2.83, 3.74, "Vero o falso?"],
+  [4.06, 5.92, "Lo dice Alessandro Di Battista a diMartedì."],
+  [6.33, 11.79, "Ma per l'Istat, nel secondo trimestre del 2026, il Pil è cresciuto dello 0,2%."],
+  [12.09, 13.41, "Nel terzo è rimasto fermo:"],
+  [13.60, 15.36, "crescita zero, ma non negativa."],
+  [15.73, 16.99, "Su altro invece ha ragione:"],
+  [17.19, 20.52, "il potere d'acquisto delle famiglie è sceso dello 0,9%,"],
+  [20.77, 23.04, "e a ottobre l'inflazione è arrivata al 5,5%."],
+  [23.46, 23.97, "Verdetto:"],
+  [24.18, 24.63, "falso."],
+  [24.94, 27.11, "L'economia è ferma, ma non è andata indietro."],
+  [27.49, 30.53, "Secondo te pesa di più un'economia ferma o i prezzi che salgono?"],
+  [30.84, 31.69, "Scrivilo nei commenti."]
+ ],
+ "scene": [
+  {"tipo": "domanda_iniziale", "da": 2.75},
+  {"tipo": "barre", "da": 6.2, "titolo": "Pil italiano", "sotto": "variazione sul trimestre precedente · Istat",
+   "voci": [["1° trim.", 0.3, 6.6, false], ["2° trim.", 0.2, 9.2, true], ["3° trim.", 0.0, 12.1, true]],
+   "timbro": [13.6, "CRESCITA ZERO, NON NEGATIVA"]},
+  {"tipo": "ragione", "da": 15.6, "titolo": "Su questo ha ragione",
+   "voci": [["−0,9%", "potere d'acquisto delle famiglie, 2° trim.", 17.6], ["5,5%", "inflazione a ottobre 2026", 21.4]]},
+  {"tipo": "verdetto", "da": 23.3, "timbro": 24.18, "testo": "L'economia è *ferma*, ma non è andata indietro.", "testo_da": 24.94},
+  {"tipo": "fine", "da": 27.4}
+ ],
+ "verdetto": "FALSO",
+ "verdetto_colore": [232, 64, 64],
+ "domanda": "Pesa di più un'economia *ferma* o i *prezzi* che salgono?"
+}
