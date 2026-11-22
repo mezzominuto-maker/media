@@ -1,0 +1,341 @@
+[
+ {
+  "etichetta": "a",
+  "orario": "20:00",
+  "id": 437757616,
+  "uuid": "-1857537464143099576",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-1857537464143099576",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "providers": [
+    {
+     "network": "instagram"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/slide_01.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/slide_02.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/slide_03.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/slide_04.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/slide_05.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/slide_06.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/slide_07.jpg"
+   ],
+   "text": "📌 Le notizie di domenica 22 novembre in 7 slide: scorri e salva.\n\n🚔 Emendamento alla manovra: strumenti sperimentali alla polizia per marcare chi commette violenze\n🏠 Vecchie domande di condono: dopo 180 giorni senza risposta del Comune scatterebbe il silenzio-assenso\n🇺🇦 Colpito un edificio residenziale nella regione di Kiev\n🇺🇸 Trump prevede difficoltà a collaborare se Schumer guiderà il Senato\n📊 Nel fine settimana il campo largo supera il centrodestra\n\nSilenzio-assenso sulle vecchie domande di condono: sei d’accordo?\n\nOgni sera alle 19:30 le notizie in 30 secondi 👉 @mezzo.minuto\n\n📷 Foto: Pexels, Wikimedia Commons\n\n#mezzominuto #notizie #politica #cortei #lega #kiev #trump",
+   "instagramData": {
+    "type": "POST"
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-22T20:00:00",
+    "timezone": "Europe/Rome"
+   }
+  }
+ },
+ {
+  "etichetta": "b",
+  "orario": "19:30",
+  "id": 437757533,
+  "uuid": "4498071497007254152",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=4498071497007254152",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/video.mp4"
+   ],
+   "instagramData": {
+    "type": "STORY"
+   },
+   "facebookData": {
+    "type": "STORY"
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-22T19:30:00",
+    "timezone": "Europe/Rome"
+   }
+  }
+ },
+ {
+  "etichetta": "c",
+  "orario": "19:30",
+  "id": 437757551,
+  "uuid": "-5437907815944338949",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-5437907815944338949",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "providers": [
+    {
+     "network": "tiktok"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/video.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/cover.jpg",
+   "text": "FdI propone marcatori colorati per i violenti ai cortei. Poi condono, Ucraina, Trump e sondaggi in 30 secondi.\n📷 Foto: Pexels, Wikimedia Commons\n#mezzominuto #notizie #politica #manovra #condono #ucraina #trump",
+   "tiktokData": {
+    "title": "Cortei, condono e Ucraina: le notizie di oggi in 30 secondi",
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "disableComment": false,
+    "disableDuet": false,
+    "disableStitch": false,
+    "commercialContentThirdParty": false,
+    "commercialContentOwnBrand": false,
+    "autoAddMusic": false
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-22T19:30:00",
+    "timezone": "Europe/Rome"
+   }
+  }
+ },
+ {
+  "etichetta": "d",
+  "orario": "19:30",
+  "id": 437757571,
+  "uuid": "-4636328154438089718",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-4636328154438089718",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "providers": [
+    {
+     "network": "tiktok"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/slide_01.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/slide_02.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/slide_03.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/slide_04.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/slide_05.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/slide_06.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/slide_07.jpg"
+   ],
+   "text": "Le 5 notizie di domenica 22 novembre in 7 slide: cortei, condono, Ucraina, Trump e sondaggi.\n#mezzominuto #notizie #politica #manovra #condono #ucraina #trump",
+   "tiktokData": {
+    "title": "Cortei, condono e Ucraina: le notizie di oggi in 30 secondi",
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "disableComment": false,
+    "disableDuet": false,
+    "disableStitch": false,
+    "commercialContentThirdParty": false,
+    "commercialContentOwnBrand": false,
+    "autoAddMusic": false,
+    "photoCoverIndex": 0
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-22T19:30:00",
+    "timezone": "Europe/Rome"
+   }
+  }
+ },
+ {
+  "etichetta": "e",
+  "orario": "19:30",
+  "id": 437757587,
+  "uuid": "7085498010270911726",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=7085498010270911726",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "providers": [
+    {
+     "network": "youtube"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/video.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/cover.jpg",
+   "text": "FdI propone di dare alla polizia marcatori colorati per identificare chi commette violenze nei cortei.\n\n1. FdI: marcatori sui violenti ai cortei (Sky TG24, Adnkronos, Il Sole 24 Ore)\n2. Condono, la Lega: 6 mesi ai Comuni (ANSA, Tgcom24, QN)\n3. Droni russi su Dymer, vicino a Kiev (Euronews, Tgcom24, Sky TG24)\n4. Trump: con Schumer difficoltà al Senato (Reuters, Sky TG24)\n5. FdI sfiora il 28%, campo largo avanti (QuiFinanza, Fanpage)\n\n📷 Foto: Pexels, Wikimedia Commons\n\n#shorts #notizie #politica",
+   "youtubeData": {
+    "title": "Cortei, condono e Ucraina: le notizie di oggi in 30 secondi",
+    "type": "short",
+    "privacy": "public",
+    "tags": [
+     "cortei",
+     "condono",
+     "ucraina",
+     "trump",
+     "sondaggi",
+     "notizie",
+     "politica",
+     "attualità",
+     "mezzo minuto"
+    ],
+    "category": "NEWS_POLITICS",
+    "madeForKids": false
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-22T19:30:00",
+    "timezone": "Europe/Rome"
+   }
+  }
+ },
+ {
+  "etichetta": "f",
+  "orario": "19:30",
+  "id": 437756964,
+  "uuid": "5555260385408272643",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=5555260385408272643",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "providers": [
+    {
+     "network": "instagram"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/video.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/cover.jpg",
+   "text": "⏱️ Le 5 notizie di domenica 22 novembre in mezzo minuto.\n\n1. FdI propone marcatori colorati per i violenti ai cortei\n2. Condono, la Lega: 6 mesi ai Comuni per le vecchie domande\n3. Droni russi su Dymer, vicino a Kiev: si cercano dispersi\n4. Trump prevede difficoltà con Schumer alla guida del Senato\n5. Sondaggi: campo largo avanti, FdI sfiora il 28%\n\nMarcatori colorati alla polizia nei cortei: tu cosa ne pensi?\n\nSegui per le notizie di domani 👉 @mezzo.minuto\n\n📷 Foto: Pexels, Wikimedia Commons\n\n#mezzominuto #notizie #politica #manovra #condono #ucraina #sondaggi",
+   "instagramData": {
+    "type": "REEL",
+    "showReelOnFeed": true
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-22T19:30:00",
+    "timezone": "Europe/Rome"
+   }
+  }
+ },
+ {
+  "etichetta": "g",
+  "orario": "20:00",
+  "id": 437757638,
+  "uuid": "-2671295577425885844",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-2671295577425885844",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "Marcatori colorati alla polizia nei cortei: tu cosa ne pensi? Scrivilo qui sotto 👇",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "providers": [
+    {
+     "network": "facebook"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/slide_01.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/slide_02.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/slide_03.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/slide_04.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/slide_05.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/slide_06.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/slide_07.jpg"
+   ],
+   "text": "⏱️ Le notizie di oggi in mezzo minuto:\n\n1. FdI: marcatori sui violenti ai cortei\n2. Condono, la Lega: 6 mesi ai Comuni\n3. Droni russi vicino a Kiev\n4. Trump: difficoltà con Schumer\n5. Sondaggi: campo largo avanti\n\n👉 Segui Mezzo Minuto per le notizie di domani.\n\n#mezzominuto #notizie #politica #manovra #condono #ucraina #sondaggi",
+   "facebookData": {
+    "type": "POST"
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-22T20:00:00",
+    "timezone": "Europe/Rome"
+   }
+  }
+ },
+ {
+  "etichetta": "h",
+  "orario": "19:30",
+  "id": 437757606,
+  "uuid": "-2108816332580698642",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-2108816332580698642",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "Marcatori colorati alla polizia nei cortei: tu cosa ne pensi? Scrivilo qui sotto 👇",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "providers": [
+    {
+     "network": "facebook"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/video.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-22/cover.jpg",
+   "text": "⏱️ Le notizie di oggi in mezzo minuto:\n\n1. FdI: marcatori sui violenti ai cortei\n2. Condono, la Lega: 6 mesi ai Comuni\n3. Droni russi vicino a Kiev\n4. Trump: difficoltà con Schumer\n5. Sondaggi: campo largo avanti\n\n👉 Segui Mezzo Minuto per le notizie di domani.\n\n#mezzominuto #notizie #politica #manovra #condono #ucraina #sondaggi",
+   "facebookData": {
+    "type": "REEL",
+    "title": "Cortei, condono e Ucraina: le notizie di oggi in 30 secondi"
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-22T19:30:00",
+    "timezone": "Europe/Rome"
+   }
+  }
+ }
+]
