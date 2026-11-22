@@ -89,6 +89,12 @@ Didascalie dei reel 18-22: strumenti/caps_reel_18-22.json. Gli id aggiornati si 
 - Regola dell'utente: le domande critiche («ma oggi ha detto qualcosa?», «si può fare davvero lì?») le deve fare l'autore da solo, prima di consegnare testo e bozza, e scriverle con le risposte nel file delle proposte.
 - Le regole sono state aggiunte al prompt dell'attività «Il Contesto – proposte del giorno» e alla skill «mezzo-minuto-il-contesto» (SKILL.md aggiornato mandato all'utente il 20/11 da salvare).
 
+### Il Contesto – quarto video: gioco d'azzardo (22/11 sera)
+- «Più giochi, più incassa lo Stato?»: PROGRAMMATO lunedì 23/11 alle 17:30 su IG, FB, TikTok, YouTube (uuid IG 8344680464334212423, FB -8174516436804222727, TikTok -1662318506148016923, YouTube -954564663356865610), copertina su IG/FB/TikTok, etichetta AI, musica Winery (citata). Durata 61 s. Aggiunto al calendario (clips/contesto_gioco.mp4).
+- File in strumenti/spiegato/gioco/: render_z.py (modello giovani/render_g.py, nuove grafiche: settimana del Lotto con il mercoledì, frecce in su), align.py, voce.mp3, CREDITI.md, copertina.jpg, gioco_ilcontesto.mp4. Testo v2 «più preciso possibile» chiesto dall'utente: dati ufficiali ADM, misure elencate una per una al condizionale, cifre incerte tolte (vedi proposte/2026-11-22.md).
+- Nota: il 22/11 alle 20:00 il carosello Instagram è uscito con l'avviso «Instagram restricted activity on the account».
+- faster-whisper non utilizzabile qui (huggingface bloccato dal proxy): allineamento con silencedetect come sempre.
+
 ### Il Contesto – terzo video: patrimoniale (20/11 sera)
 - «Chi ha più soldi deve pagare di più?»: PROGRAMMATO sabato 21/11 alle 17:30 su IG, FB, TikTok, YouTube (uuid IG -5494171512366608698, FB 1337628520539048794, TikTok -8692843028317845548, YouTube -6139121205942925617), copertina su IG/FB/TikTok, etichetta AI, musica Epic Classical Strings short (Pixabay, non citata). Durata 75 s. Aggiunto al calendario (clips/contesto_patrimoniale.mp4).
 - File in strumenti/spiegato/patrimoniale/: render_x.py, align.py, build_voce.py (voce_v1.mp3 + frasi corrette voce_landini/voce_meloni/voce_finale → voce.mp3), CREDITI.md, copertina.jpg, patrimoniale_ilcontesto.mp4.

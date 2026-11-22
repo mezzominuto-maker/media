@@ -1306,6 +1306,40 @@
      ]
     },
     {
+     "time": "17:30",
+     "kind": "reel",
+     "status": "ok",
+     "title": "🔎 Il Contesto: «Più giochi, più incassa lo Stato?»",
+     "meta": "Rubrica Il Contesto · gioco d'azzardo in manovra · video spiegato di 61 s con copertina della rubrica · musica Winery",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "when": "Lunedì 23 novembre · 17:30",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=8344680464334212423"
+      },
+      {
+       "label": "Facebook",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-8174516436804222727"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-1662318506148016923"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-954564663356865610"
+      }
+     ],
+     "clip": "clips/contesto_gioco.mp4"
+    },
+    {
      "time": "19:30",
      "kind": "news",
      "status": "auto",
