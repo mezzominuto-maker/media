@@ -1,0 +1,72 @@
+[
+ [
+  {
+   "file": "pxf19142991.jpg",
+   "id": "foto:19142991",
+   "link": "https://www.pexels.com/photo/19142991/",
+   "soggetto": "auto della Polizia di Stato"
+  },
+  {
+   "file": "px7714430.mp4",
+   "id": "video:7714430:30",
+   "link": "https://www.pexels.com/video/7714430/",
+   "soggetto": "lampeggiante blu di un'auto della polizia"
+  }
+ ],
+ [
+  {
+   "file": "pxf36917092.jpg",
+   "id": "foto:36917092",
+   "link": "https://www.pexels.com/photo/36917092/",
+   "soggetto": "tetti e case di Bologna al tramonto"
+  },
+  {
+   "file": "px1197802.mp4",
+   "id": "video:1197802:25",
+   "link": "https://www.pexels.com/video/1197802/",
+   "soggetto": "cantiere edile con gru"
+  }
+ ],
+ [
+  {
+   "file": "pxf9955064.jpg",
+   "id": "foto:9955064",
+   "link": "https://www.pexels.com/photo/9955064/",
+   "soggetto": "Kiev dall'alto con il monumento alla Madre Patria"
+  },
+  {
+   "file": "pxf30473231.jpg",
+   "id": "foto:30473231",
+   "link": "https://www.pexels.com/photo/30473231/",
+   "soggetto": "bandiera ucraina nel cielo blu"
+  }
+ ],
+ [
+  {
+   "file": "px6854091.mp4",
+   "id": "video:6854091:30",
+   "link": "https://www.pexels.com/video/6854091/",
+   "soggetto": "cupola del Campidoglio di Washington con bandiera Usa"
+  },
+  {
+   "file": "px6133588.mp4",
+   "id": "video:6133588:30",
+   "link": "https://www.pexels.com/video/6133588/",
+   "soggetto": "Campidoglio di Washington all'alba"
+  }
+ ],
+ [
+  {
+   "file": "repo:spiegato/condono/foto/montecitorio.jpg",
+   "id": "repo:spiegato/condono/foto/montecitorio.jpg",
+   "link": "Wikimedia Commons",
+   "soggetto": "Montecitorio di notte"
+  },
+  {
+   "file": "repo:spiegato/condono/foto/aula.jpg",
+   "id": "repo:spiegato/condono/foto/aula.jpg",
+   "link": "Wikimedia Commons",
+   "soggetto": "Aula della Camera"
+  }
+ ]
+]

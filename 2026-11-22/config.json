@@ -1,0 +1,115 @@
+{
+ "date_label": "Domenica 22 novembre",
+ "news": [
+  [
+   "ITALIA",
+   "FdI: marcatori sui violenti ai cortei",
+   "Emendamento alla manovra: strumenti sperimentali alla polizia per marcare chi commette violenze. Critiche da Avs.",
+   "Fonti: Sky TG24, Adnkronos, Il Sole 24 Ore"
+  ],
+  [
+   "ITALIA",
+   "Condono, la Lega: 6 mesi ai Comuni",
+   "Proposta sulle vecchie domande: se il Comune non risponde entro 180 giorni scatta il silenzio-assenso.",
+   "Fonti: ANSA, Tgcom24, QN"
+  ],
+  [
+   "MONDO",
+   "Droni russi su Dymer, vicino a Kiev",
+   "Colpito un edificio residenziale nella regione di Kiev: si cercano i dispersi.",
+   "Fonti: Euronews, Tgcom24, Sky TG24"
+  ],
+  [
+   "USA",
+   "Trump: con Schumer difficoltà al Senato",
+   "Il presidente prevede difficoltà a collaborare se il democratico Schumer guiderà il Senato.",
+   "Fonti: Reuters, Sky TG24"
+  ],
+  [
+   "SONDAGGI",
+   "FdI sfiora il 28%, campo largo avanti",
+   "Nei sondaggi del fine settimana il campo largo supera il centrodestra. FdI resta primo partito.",
+   "Fonti: QuiFinanza, Fanpage"
+  ]
+ ],
+ "evidenza": [
+  "marcatori",
+  "Condono",
+  "Dymer",
+  "Schumer",
+  "campo largo"
+ ],
+ "clip_dir": "/tmp/mm/clip",
+ "shots": [
+  [
+   [
+    "pxf19142991.jpg",
+    0,
+    0.5,
+    0.75
+   ],
+   [
+    "px7714430.mp4",
+    1.0,
+    0.6,
+    0.4
+   ]
+  ],
+  [
+   [
+    "pxf36917092.jpg",
+    0,
+    0.5,
+    0.7
+   ],
+   [
+    "px1197802.mp4",
+    1.0,
+    0.5,
+    0.5
+   ]
+  ],
+  [
+   [
+    "pxf9955064.jpg",
+    0,
+    0.5,
+    0.5
+   ],
+   [
+    "pxf30473231.jpg",
+    0,
+    0.6,
+    0.5
+   ]
+  ],
+  [
+   [
+    "px6854091.mp4",
+    1.0,
+    0.5,
+    0.4
+   ],
+   [
+    "px6133588.mp4",
+    1.0,
+    0.5,
+    0.4
+   ]
+  ],
+  [
+   [
+    "repo:spiegato/condono/foto/montecitorio.jpg",
+    0,
+    0.5,
+    0.5
+   ],
+   [
+    "repo:spiegato/condono/foto/aula.jpg",
+    0,
+    0.5,
+    0.5
+   ]
+  ]
+ ]
+}
