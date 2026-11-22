@@ -115,3 +115,5 @@ Didascalie dei reel 18-22: strumenti/caps_reel_18-22.json. Gli id aggiornati si 
   - le clip di Otto e mezzo hanno un rischio di Content ID.
 
 - **Instagram Trial Reel:** non usarli. Il 21/11 il reel Kamala (tipo TRIAL_REEL) è andato in errore: l'account non ha abbastanza follower per i reel di prova. Ripubblicato come REEL normale alle 21:35.
+
+- **Carosello Instagram tolto (dal 23/11/2026, richiesta dell'utente):** Instagram limitava l'account sui caroselli delle 20:00 ("restricted activity"). Su Instagram il notiziario esce solo come reel + storia; il carosello resta su Facebook (20:00) e TikTok. Aggiornate le attività delle 18:07 e delle 19:00.

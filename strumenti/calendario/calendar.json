@@ -1355,9 +1355,8 @@
      "time": "20:00",
      "kind": "news",
      "status": "auto",
-     "title": "Carosello notizie del giorno",
+     "title": "Carosello notizie del giorno (solo Facebook)",
      "where": [
-      "Instagram",
       "Facebook"
      ]
     },
@@ -1452,9 +1451,8 @@
      "time": "20:00",
      "kind": "news",
      "status": "auto",
-     "title": "Carosello notizie del giorno",
+     "title": "Carosello notizie del giorno (solo Facebook)",
      "where": [
-      "Instagram",
       "Facebook"
      ]
     },
