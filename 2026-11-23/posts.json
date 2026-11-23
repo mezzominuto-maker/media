@@ -1,0 +1,300 @@
+[
+ {
+  "etichetta": "b",
+  "orario": "19:30",
+  "id": 439137796,
+  "uuid": "-2737068020418392106",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-2737068020418392106",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-23/video.mp4"
+   ],
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "instagramData": {
+    "type": "STORY"
+   },
+   "facebookData": {
+    "type": "STORY"
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-23T19:30:00",
+    "timezone": "Europe/Rome"
+   }
+  }
+ },
+ {
+  "etichetta": "c",
+  "orario": "19:30",
+  "id": 439138521,
+  "uuid": "-992032318817025868",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-992032318817025868",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-23/video.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-23/cover.jpg",
+   "providers": [
+    {
+     "network": "tiktok"
+    }
+   ],
+   "text": "Nvidia, Jensen Huang torna Ceo e il titolo vola in Borsa. Poi Grillo e il simbolo M5S, Ucraina, Irpef e oro: le 5 notizie di oggi in mezzo minuto ⏱️\n\n#mezzominuto #notizie #politica #nvidia #grillo #ucraina #fisco",
+   "tiktokData": {
+    "title": "Nvidia, Grillo e Ucraina: le notizie di oggi in 30 secondi",
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "disableComment": false,
+    "disableDuet": false,
+    "disableStitch": false,
+    "commercialContentThirdParty": false,
+    "commercialContentOwnBrand": false,
+    "autoAddMusic": false
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-23T19:30:00",
+    "timezone": "Europe/Rome"
+   }
+  }
+ },
+ {
+  "etichetta": "d",
+  "orario": "19:30",
+  "id": 439138567,
+  "uuid": "7417921547378377695",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=7417921547378377695",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-23/slide_01.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-23/slide_02.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-23/slide_03.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-23/slide_04.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-23/slide_05.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-23/slide_06.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-23/slide_07.jpg"
+   ],
+   "providers": [
+    {
+     "network": "tiktok"
+    }
+   ],
+   "text": "Scorri le 5 notizie di oggi 👉 dal ritorno di Huang alla guida di Nvidia al rimbalzo dell’oro, passando per il M5S e il fisco.\n\n#mezzominuto #notizie #politica #nvidia #grillo #ucraina #fisco",
+   "tiktokData": {
+    "title": "Nvidia, Grillo e Ucraina: le notizie di oggi in 30 secondi",
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "disableComment": false,
+    "disableDuet": false,
+    "disableStitch": false,
+    "commercialContentThirdParty": false,
+    "commercialContentOwnBrand": false,
+    "autoAddMusic": false,
+    "photoCoverIndex": 0
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-23T19:30:00",
+    "timezone": "Europe/Rome"
+   }
+  }
+ },
+ {
+  "etichetta": "e",
+  "orario": "19:30",
+  "id": 439138591,
+  "uuid": "-6419398288854660101",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-6419398288854660101",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-23/video.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-23/cover.jpg",
+   "providers": [
+    {
+     "network": "youtube"
+    }
+   ],
+   "text": "Il cda di Nvidia reintegra Jensen Huang come Ceo, 11 giorni dopo le dimissioni: il titolo vola in Borsa.\n\nLe 5 notizie di lunedì 23 novembre:\n1. Nvidia, Huang torna Ceo: il titolo vola (Fonti: Reuters, QuiFinanza)\n2. Grillo sfida Conte sul simbolo M5S (Fonti: ANSA, Sky TG24)\n3. Ucraina, Zelensky: gli Usa puntano a un trilaterale entro Natale (Fonti: Adnkronos, LaPresse)\n4. Fisco: il 30% dei contribuenti paga quasi l’80% dell’Irpef (Fonti: ANSA, Il Sole 24 Ore)\n5. Oro, rimbalzo dopo il crollo della scorsa settimana (Fonti: Sky TG24, Il Fatto Quotidiano)\n\n📷 Foto: Pexels, Wikimedia Commons\n\n#shorts #notizie #politica",
+   "youtubeData": {
+    "title": "Nvidia, Grillo e Ucraina: le notizie di oggi in 30 secondi",
+    "type": "short",
+    "privacy": "public",
+    "tags": [
+     "nvidia",
+     "grillo",
+     "ucraina",
+     "irpef",
+     "oro",
+     "notizie",
+     "politica",
+     "attualità",
+     "mezzo minuto"
+    ],
+    "category": "NEWS_POLITICS",
+    "madeForKids": false
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-23T19:30:00",
+    "timezone": "Europe/Rome"
+   }
+  }
+ },
+ {
+  "etichetta": "f",
+  "orario": "19:30",
+  "id": 439138626,
+  "uuid": "-8804578184054881446",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-8804578184054881446",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-23/video.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-23/cover.jpg",
+   "providers": [
+    {
+     "network": "instagram"
+    }
+   ],
+   "text": "⏱️ Le 5 notizie di lunedì 23 novembre in mezzo minuto.\n\n1. Nvidia, Jensen Huang torna Ceo: il titolo vola in Borsa\n2. Grillo sfida Conte sul simbolo del M5S\n3. Ucraina, Zelensky: gli Usa puntano a un trilaterale entro Natale\n4. Fisco: il 30% dei contribuenti paga quasi l’80% dell’Irpef\n5. Oro, rimbalzo dopo il crollo della scorsa settimana\n\nTi aspettavi il ritorno di Huang alla guida di Nvidia?\n\nSegui per le notizie di domani 👉 @mezzo.minuto\n\n📷 Foto: Pexels, Wikimedia Commons\n\n#mezzominuto #notizie #politica #nvidia #grillo #ucraina #fisco",
+   "instagramData": {
+    "type": "REEL",
+    "showReelOnFeed": true
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-23T19:30:00",
+    "timezone": "Europe/Rome"
+   }
+  }
+ },
+ {
+  "etichetta": "g",
+  "orario": "20:00",
+  "id": 439138710,
+  "uuid": "-7265790185777838622",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-7265790185777838622",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "Ti aspettavi il ritorno di Huang alla guida di Nvidia? Scrivilo qui sotto 👇",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-23/slide_01.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-23/slide_02.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-23/slide_03.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-23/slide_04.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-23/slide_05.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-23/slide_06.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-23/slide_07.jpg"
+   ],
+   "providers": [
+    {
+     "network": "facebook"
+    }
+   ],
+   "text": "⏱️ Le notizie di oggi in mezzo minuto:\n\n1. Nvidia, Huang torna Ceo\n2. Grillo sfida Conte sul simbolo M5S\n3. Ucraina, trilaterale entro Natale?\n4. Fisco: il 30% paga quasi l’80% dell’Irpef\n5. Oro, rimbalzo dopo il crollo\n\n👉 Segui Mezzo Minuto per le notizie di domani.\n\n#mezzominuto #notizie #politica #nvidia #grillo #ucraina #fisco",
+   "facebookData": {
+    "type": "POST"
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-23T20:00:00",
+    "timezone": "Europe/Rome"
+   }
+  }
+ },
+ {
+  "etichetta": "h",
+  "orario": "19:30",
+  "id": 439138938,
+  "uuid": "3686665048761517538",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=3686665048761517538",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "Ti aspettavi il ritorno di Huang alla guida di Nvidia? Scrivilo qui sotto 👇",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-23/video.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-23/cover.jpg",
+   "providers": [
+    {
+     "network": "facebook"
+    }
+   ],
+   "text": "⏱️ Le notizie di oggi in mezzo minuto:\n\n1. Nvidia, Huang torna Ceo\n2. Grillo sfida Conte sul simbolo M5S\n3. Ucraina, trilaterale entro Natale?\n4. Fisco: il 30% paga quasi l’80% dell’Irpef\n5. Oro, rimbalzo dopo il crollo\n\n👉 Segui Mezzo Minuto per le notizie di domani.\n\n#mezzominuto #notizie #politica #nvidia #grillo #ucraina #fisco",
+   "facebookData": {
+    "type": "REEL",
+    "title": "Nvidia, Grillo e Ucraina: le notizie di oggi in 30 secondi"
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-23T19:30:00",
+    "timezone": "Europe/Rome"
+   }
+  }
+ }
+]
