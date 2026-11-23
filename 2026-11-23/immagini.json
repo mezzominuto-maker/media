@@ -1,0 +1,87 @@
+[
+ {
+  "notizia": "Nvidia, Huang torna Ceo: il titolo vola",
+  "immagini": [
+   {
+    "file": "pxf2105927.jpg",
+    "id": "foto:2105927",
+    "link": "https://www.pexels.com/photo/chipset-computer-cyber-hardware-2105927/",
+    "soggetto": "processore/chip in primo piano"
+   },
+   {
+    "file": "px18743334.mp4",
+    "id": "video:18743334:60",
+    "link": "https://www.pexels.com/video/finance-chart-stock-18743334/",
+    "soggetto": "grafico di borsa animato"
+   }
+  ]
+ },
+ {
+  "notizia": "Grillo sfida Conte sul simbolo M5S",
+  "immagini": [
+   {
+    "file": "repo:spiegato/condono/foto/montecitorio.jpg",
+    "id": "repo:spiegato/condono/foto/montecitorio.jpg",
+    "link": "Wikimedia Commons",
+    "soggetto": "Montecitorio di notte"
+   },
+   {
+    "file": "pxf6077326.jpg",
+    "id": "foto:6077326",
+    "link": "https://www.pexels.com/photo/brown-wooden-gavel-on-brown-wooden-table-6077326/",
+    "soggetto": "martelletto del giudice (giudice chiamato a decidere sul simbolo)"
+   }
+  ]
+ },
+ {
+  "notizia": "Ucraina, trilaterale entro Natale?",
+  "immagini": [
+   {
+    "file": "px13414118.mp4",
+    "id": "video:13414118:30",
+    "link": "https://www.pexels.com/video/drone-footage-of-the-city-of-kiev-ukraine-13414118/",
+    "soggetto": "Kiev dall'alto (drone)"
+   },
+   {
+    "file": "px12170078.mp4",
+    "id": "video:12170078:25",
+    "link": "https://www.pexels.com/video/the-city-of-kyiv-during-sunset-12170078/",
+    "soggetto": "Kiev al tramonto"
+   }
+  ]
+ },
+ {
+  "notizia": "Fisco: il 30% paga quasi l’80% dell’Irpef",
+  "immagini": [
+   {
+    "file": "pxf7352057.jpg",
+    "id": "foto:7352057",
+    "link": "https://www.pexels.com/photo/close-up-photo-of-money-7352057/",
+    "soggetto": "banconote da 50 euro"
+   },
+   {
+    "file": "pxf15965061.jpg",
+    "id": "foto:15965061",
+    "link": "https://www.pexels.com/photo/close-up-of-euro-money-15965061/",
+    "soggetto": "mazzette di banconote in euro"
+   }
+  ]
+ },
+ {
+  "notizia": "Oro, rimbalzo dopo il crollo",
+  "immagini": [
+   {
+    "file": "pxf8442325.jpg",
+    "id": "foto:8442325",
+    "link": "https://www.pexels.com/photo/close-up-photo-of-gold-bars-8442325/",
+    "soggetto": "lingotti d'oro e d'argento"
+   },
+   {
+    "file": "px8733007.mp4",
+    "id": "video:8733007:30",
+    "link": "https://www.pexels.com/video/digital-animation-of-gold-bars-8733007/",
+    "soggetto": "animazione di lingotti d'oro"
+   }
+  ]
+ }
+]

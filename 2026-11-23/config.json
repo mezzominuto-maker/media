@@ -1,0 +1,115 @@
+{
+ "date_label": "Lunedì 23 novembre",
+ "news": [
+  [
+   "USA",
+   "Nvidia, Huang torna Ceo: il titolo vola",
+   "Il cda lo reintegra 11 giorni dopo le dimissioni. Le azioni balzano a Wall Street.",
+   "Fonti: Reuters, QuiFinanza"
+  ],
+  [
+   "ITALIA",
+   "Grillo sfida Conte sul simbolo M5S",
+   "Da Fazio: “Se il giudice dice che il Movimento è mio, me lo riprendo”. E apre a Di Battista.",
+   "Fonti: ANSA, Sky TG24"
+  ],
+  [
+   "MONDO",
+   "Ucraina, trilaterale entro Natale?",
+   "Zelensky: gli Usa puntano a un nuovo incontro con la Russia prima di Natale, “noi siamo disponibili”.",
+   "Fonti: Adnkronos, LaPresse"
+  ],
+  [
+   "ECONOMIA",
+   "Fisco: il 30% paga quasi l’80% dell’Irpef",
+   "Oltre 24 milioni di italiani non dichiarano redditi, secondo l’Osservatorio Itinerari Previdenziali.",
+   "Fonti: ANSA, Il Sole 24 Ore"
+  ],
+  [
+   "ECONOMIA",
+   "Oro, rimbalzo dopo il crollo",
+   "Dopo il calo di circa il 9% della scorsa settimana, oggi le quotazioni tornano a salire.",
+   "Fonti: Sky TG24, Il Fatto Quotidiano"
+  ]
+ ],
+ "evidenza": [
+  "Huang torna Ceo",
+  "simbolo M5S",
+  "trilaterale",
+  "quasi l’80%",
+  "Oro"
+ ],
+ "clip_dir": "/tmp/mm/clip",
+ "shots": [
+  [
+   [
+    "pxf2105927.jpg",
+    0,
+    0.5,
+    0.5
+   ],
+   [
+    "px18743334.mp4",
+    6.5,
+    0.5,
+    0.5
+   ]
+  ],
+  [
+   [
+    "repo:spiegato/condono/foto/montecitorio.jpg",
+    0,
+    0.5,
+    0.5
+   ],
+   [
+    "pxf6077326.jpg",
+    0,
+    0.6,
+    0.6
+   ]
+  ],
+  [
+   [
+    "px13414118.mp4",
+    1.0,
+    0.5,
+    0.5
+   ],
+   [
+    "px12170078.mp4",
+    1.0,
+    0.5,
+    0.5
+   ]
+  ],
+  [
+   [
+    "pxf7352057.jpg",
+    0,
+    0.5,
+    0.5
+   ],
+   [
+    "pxf15965061.jpg",
+    0,
+    0.5,
+    0.5
+   ]
+  ],
+  [
+   [
+    "pxf8442325.jpg",
+    0,
+    0.45,
+    0.5
+   ],
+   [
+    "px8733007.mp4",
+    1.0,
+    0.5,
+    0.5
+   ]
+  ]
+ ]
+}
