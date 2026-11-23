@@ -1,5 +1,5 @@
 {
- "updated": "21 novembre, 21:05",
+ "updated": "23 novembre, 23:55",
  "note": "Giornata tipo da venerdì 13: reel alle 12:00, notizie del giorno alle 19:30 (verifica alle 19:00; video su IG/FB/TikTok/YouTube + storie), carosello delle notizie alle 20:00 (Instagram e Facebook), secondo reel alle 21:00. Mai due reel della stessa fonte nello stesso giorno. Per modificare o annullare un post: tasto «Apri in Metricool» dentro ogni reel.",
  "days": [
   {
@@ -1493,8 +1493,228 @@
     {
      "time": "21:00",
      "kind": "reel",
-     "status": "free",
-     "title": "Libero — in attesa delle tue clip"
+     "status": "ok",
+     "title": "Grillo: «È mio, me lo prendo»",
+     "meta": "Forza: A− · Fonte: Che tempo che fa · Nove · Facebook: invito a seguire la pagina + domanda nel primo commento · Apertura con la frase forte · Schermo intero con sfumatura, volto centrato, 5 hashtag",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "clip": "clips/std_grillo_simbolo.mp4",
+     "when": "Martedì 24 novembre · 21:00",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-8567589251503865073"
+      },
+      {
+       "label": "Facebook",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=563203078638882208"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=4759275496451621119"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-4358050083460657935"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Mercoledì 25",
+   "sub": "novembre",
+   "date": "2026-11-25",
+   "slots": [
+    {
+     "time": "12:00",
+     "kind": "reel",
+     "status": "ok",
+     "title": "Salvini: «Ci sono condoni aperti del 1985»",
+     "meta": "Forza: B+ · Fonte: Conferenza stampa · Camera dei deputati · Facebook: invito a seguire la pagina + domanda nel primo commento · Apertura con la frase forte · Schermo intero con sfumatura, volto centrato, 5 hashtag",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "clip": "clips/std_salvini_condono.mp4",
+     "when": "Mercoledì 25 novembre · 12:00",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-3184603695986161493"
+      },
+      {
+       "label": "Facebook",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=7627975824188591769"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=5778495977602107883"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=2535555645686500782"
+      }
+     ]
+    },
+    {
+     "time": "19:30",
+     "kind": "news",
+     "status": "auto",
+     "title": "Le notizie del giorno (video + storie)",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ]
+    },
+    {
+     "time": "20:00",
+     "kind": "news",
+     "status": "auto",
+     "title": "Carosello notizie del giorno (solo Facebook)",
+     "where": [
+      "Facebook"
+     ]
+    },
+    {
+     "time": "21:00",
+     "kind": "reel",
+     "status": "ok",
+     "title": "Floridia: «Comprate i carrarmati e non costruite gli asili»",
+     "meta": "Forza: B · Fonte: Senato della Repubblica · Facebook: invito a seguire la pagina + domanda nel primo commento · Apertura con la frase forte · Schermo intero con sfumatura, volto centrato, 5 hashtag",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "clip": "clips/std_floridia_asili.mp4",
+     "when": "Mercoledì 25 novembre · 21:00",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-4498179247424125840"
+      },
+      {
+       "label": "Facebook",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=5025506343029131772"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-2269031102773113408"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-8827189924035343646"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Giovedì 26",
+   "sub": "novembre",
+   "date": "2026-11-26",
+   "slots": [
+    {
+     "time": "12:00",
+     "kind": "reel",
+     "status": "ok",
+     "title": "Grillo: «Stiamo medicando un cadavere»",
+     "meta": "Forza: B · Fonte: Che tempo che fa · Nove · Facebook: invito a seguire la pagina + domanda nel primo commento · Apertura con la frase forte · Schermo intero con sfumatura, volto centrato, 5 hashtag",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "clip": "clips/std_grillo_democrazia.mp4",
+     "when": "Giovedì 26 novembre · 12:00",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=7255794185236008231"
+      },
+      {
+       "label": "Facebook",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=3117932709022352770"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-5064777805584054808"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-1899151873287568307"
+      }
+     ]
+    },
+    {
+     "time": "19:30",
+     "kind": "news",
+     "status": "auto",
+     "title": "Le notizie del giorno (video + storie)",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ]
+    },
+    {
+     "time": "20:00",
+     "kind": "news",
+     "status": "auto",
+     "title": "Carosello notizie del giorno (solo Facebook)",
+     "where": [
+      "Facebook"
+     ]
+    },
+    {
+     "time": "21:00",
+     "kind": "reel",
+     "status": "ok",
+     "title": "Floridia: «Cinquanta milioni dalla scuola pubblica»",
+     "meta": "Forza: B− · Fonte: Senato della Repubblica · Facebook: invito a seguire la pagina + domanda nel primo commento · Apertura con la frase forte · Schermo intero con sfumatura, volto centrato, 5 hashtag",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "clip": "clips/std_floridia_accise.mp4",
+     "when": "Giovedì 26 novembre · 21:00",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=8193839404963546132"
+      },
+      {
+       "label": "Facebook",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-2125129957315557864"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=3369893815380889047"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-519197631480311816"
+      }
+     ]
     }
    ]
   }
