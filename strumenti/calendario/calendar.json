@@ -1436,6 +1436,40 @@
      ]
     },
     {
+     "time": "17:30",
+     "kind": "reel",
+     "status": "ok",
+     "title": "🔎 Il Contesto: «Gasolio, da oggi più tasse»",
+     "meta": "Rubrica Il Contesto · scade lo sconto sulle accise del gasolio · video spiegato di 62 s con copertina della rubrica · musica Epic Classical Strings short",
+     "where": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "YouTube"
+     ],
+     "when": "Martedì 24 novembre · 17:30",
+     "caption": "",
+     "planner": [
+      {
+       "label": "Instagram",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-3547837755177154621"
+      },
+      {
+       "label": "Facebook",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=2128191073489800553"
+      },
+      {
+       "label": "TikTok",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-4217827581591009535"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-6080303975938701510"
+      }
+     ],
+     "clip": "clips/contesto_gasolio.mp4"
+    },
+    {
      "time": "19:30",
      "kind": "news",
      "status": "auto",

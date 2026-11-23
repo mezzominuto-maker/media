@@ -89,6 +89,12 @@ Didascalie dei reel 18-22: strumenti/caps_reel_18-22.json. Gli id aggiornati si 
 - Regola dell'utente: le domande critiche («ma oggi ha detto qualcosa?», «si può fare davvero lì?») le deve fare l'autore da solo, prima di consegnare testo e bozza, e scriverle con le risposte nel file delle proposte.
 - Le regole sono state aggiunte al prompt dell'attività «Il Contesto – proposte del giorno» e alla skill «mezzo-minuto-il-contesto» (SKILL.md aggiornato mandato all'utente il 20/11 da salvare).
 
+### Il Contesto – quinto video: gasolio (23/11 sera)
+- «Gasolio, da oggi più tasse»: PROGRAMMATO martedì 24/11 alle 17:30 su IG, FB, TikTok, YouTube (uuid IG -3547837755177154621, FB 2128191073489800553, TikTok -4217827581591009535, YouTube -6080303975938701510), copertina su IG/FB/TikTok, etichetta AI, musica Epic Classical Strings short (Pixabay, non citata). Durata 62 s. Aggiunto al calendario (clips/contesto_gasolio.mp4).
+- File in strumenti/spiegato/gasolio/: render_q.py (modello gioco/render_z.py; nuove grafiche: contatore decimale, barre gasolio/benzina, freccia giù, cronologia STOP/sconto), align.py, voce.mp3, CREDITI.md, copertina.jpg, gasolio_ilcontesto.mp4 (72 MB). Testo e fonti in proposte/2026-11-23.md (articoli letti per intero con WebFetch).
+- Da controllare il 24/11 prima delle 17:30: se il governo proroga lo sconto, il testo («Da oggi paghi più tasse», «Per ora, nessuna proroga») va cambiato o il post spostato.
+- Regola dell'utente del 23/11: l'attività serale prova sempre a leggere gli articoli interi con WebFetch; se l'accesso non viene autorizzato, va avanti con i soli titoli (prompt dell'attività aggiornato).
+
 ### Il Contesto – quarto video: gioco d'azzardo (22/11 sera)
 - «Più giochi, più incassa lo Stato?»: PROGRAMMATO lunedì 23/11 alle 17:30 su IG, FB, TikTok, YouTube (uuid IG 8344680464334212423, FB -8174516436804222727, TikTok -1662318506148016923, YouTube -954564663356865610), copertina su IG/FB/TikTok, etichetta AI, musica Winery (citata). Durata 61 s. Aggiunto al calendario (clips/contesto_gioco.mp4).
 - File in strumenti/spiegato/gioco/: render_z.py (modello giovani/render_g.py, nuove grafiche: settimana del Lotto con il mercoledì, frecce in su), align.py, voce.mp3, CREDITI.md, copertina.jpg, gioco_ilcontesto.mp4. Testo v2 «più preciso possibile» chiesto dall'utente: dati ufficiali ADM, misure elencate una per una al condizionale, cifre incerte tolte (vedi proposte/2026-11-22.md).
