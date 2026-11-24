@@ -92,7 +92,7 @@ Didascalie dei reel 18-22: strumenti/caps_reel_18-22.json. Gli id aggiornati si 
 ### Il Contesto – quinto video: gasolio (23/11 sera)
 - «Gasolio, da oggi più tasse»: PROGRAMMATO martedì 24/11 alle 17:30 su IG, FB, TikTok, YouTube (uuid IG -3547837755177154621, FB 2128191073489800553, TikTok -4217827581591009535, YouTube -6080303975938701510), copertina su IG/FB/TikTok, etichetta AI, musica Epic Classical Strings short (Pixabay, non citata). Durata 62 s. Aggiunto al calendario (clips/contesto_gasolio.mp4).
 - File in strumenti/spiegato/gasolio/: render_q.py (modello gioco/render_z.py; nuove grafiche: contatore decimale, barre gasolio/benzina, freccia giù, cronologia STOP/sconto), align.py, voce.mp3, CREDITI.md, copertina.jpg, gasolio_ilcontesto.mp4 (72 MB). Testo e fonti in proposte/2026-11-23.md (articoli letti per intero con WebFetch).
-- Da controllare il 24/11 prima delle 17:30: se il governo proroga lo sconto, il testo («Da oggi paghi più tasse», «Per ora, nessuna proroga») va cambiato o il post spostato.
+- Controllo del 24/11 alle 13:30: NESSUNA proroga (ANSA 24/11 «gasolio stabile a 2,196 dopo scadenza taglio accise»; QuiFinanza, Il Sole 24 Ore: sconto terminato). Mimit 24/11: benzina 1,939, gasolio 2,196. Il video resta corretto, post confermati. (Regola precedente: se il governo proroga lo sconto, il testo («Da oggi paghi più tasse», «Per ora, nessuna proroga») va cambiato o il post spostato.
 - Regola dell'utente del 23/11: l'attività serale prova sempre a leggere gli articoli interi con WebFetch; se l'accesso non viene autorizzato, va avanti con i soli titoli (prompt dell'attività aggiornato).
 
 ### Il Contesto – quarto video: gioco d'azzardo (22/11 sera)
