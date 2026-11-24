@@ -1,0 +1,87 @@
+[
+ {
+  "notizia": "Wsj: Trump pronto a nuovi dazi a Ue e Cina",
+  "immagini": [
+   {
+    "file": "pxf129112.jpg",
+    "id": "foto:129112",
+    "link": "https://www.pexels.com/photo/129112/",
+    "soggetto": "Casa Bianca"
+   },
+   {
+    "file": "px6618031.mp4",
+    "id": "video:6618031:24",
+    "link": "https://www.pexels.com/video/drone-footage-of-cargo-containers-in-a-port-6618031/",
+    "soggetto": "porto container con gru, dall'alto"
+   }
+  ]
+ },
+ {
+  "notizia": "Deficit, Ue verso chiusura procedura",
+  "immagini": [
+   {
+    "file": "pxf6791897.jpg",
+    "id": "foto:6791897",
+    "link": "https://www.pexels.com/photo/modern-high-glass-building-with-a-european-union-flag-6791897/",
+    "soggetto": "edificio istituzionale Ue con bandiera europea"
+   },
+   {
+    "file": "px855388.mp4",
+    "id": "video:855388:25",
+    "link": "https://www.pexels.com/video/855388/",
+    "soggetto": "banconote da 50 euro"
+   }
+  ]
+ },
+ {
+  "notizia": "Manovra, 1.700 emendamenti inammissibili",
+  "immagini": [
+   {
+    "file": "repo:spiegato/condono/foto/montecitorio.jpg",
+    "id": "repo:spiegato/condono/foto/montecitorio.jpg",
+    "link": "Wikimedia Commons",
+    "soggetto": "Montecitorio di notte"
+   },
+   {
+    "file": "repo:spiegato/condono/foto/aula.jpg",
+    "id": "repo:spiegato/condono/foto/aula.jpg",
+    "link": "Wikimedia Commons",
+    "soggetto": "Aula della Camera"
+   }
+  ]
+ },
+ {
+  "notizia": "Kiev, droni: danni all’ambasciata olandese",
+  "immagini": [
+   {
+    "file": "px13414118.mp4",
+    "id": "video:13414118:30",
+    "link": "https://www.pexels.com/video/drone-footage-of-the-city-of-kiev-ukraine-13414118/",
+    "soggetto": "Kiev dall'alto"
+   },
+   {
+    "file": "px12170078.mp4",
+    "id": "video:12170078:25",
+    "link": "https://www.pexels.com/video/the-city-of-kyiv-during-sunset-12170078/",
+    "soggetto": "Kiev al tramonto"
+   }
+  ]
+ },
+ {
+  "notizia": "Swg: FdI scende al 28,4%",
+  "immagini": [
+   {
+    "file": "pxf16133374.jpg",
+    "id": "foto:16133374",
+    "link": "https://www.pexels.com/photo/victor-emmanuel-ii-monument-and-the-italian-flag-rome-italy-16133374/",
+    "soggetto": "Vittoriano con bandiera italiana, Roma"
+   },
+   {
+    "file": "pxf4736435.jpg",
+    "id": "foto:4736435",
+    "link": "https://www.pexels.com/photo/italian-flag-on-clear-sky-4736435/",
+    "soggetto": "bandiera italiana"
+   }
+  ]
+ }
+]
