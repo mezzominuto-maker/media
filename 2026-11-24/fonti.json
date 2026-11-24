@@ -1,0 +1,81 @@
+[
+ {
+  "titolo": "Wsj: Trump pronto a nuovi dazi a Ue e Cina",
+  "fatti_chiave": [
+   "Secondo il Wall Street Journal l'amministrazione Trump prepara aumenti dei dazi verso Ue e Cina (ANSA, AGI, Sky TG24, Il Fatto Quotidiano)",
+   "Strumento: Section 301 (Agenparl, Scenari Economici)",
+   "Bloomberg: dazi mirati che non supereranno i livelli degli accordi commerciali",
+   "SCARTATO: numero delle altre economie coinvolte (14 secondo alcune fonti, 15 secondo altre); effetto sulle borse (una sola fonte)"
+  ],
+  "link": [
+   "https://www.ansa.it/sito/notizie/mondo/2026/11/24/wsj-trump-pronto-a-nuovi-dazi-contro-la-cina-e-lue_7ec78494-a461-41b7-8db7-63d73f2560aa.html",
+   "https://tg24.sky.it/mondo/2026/11/24/trump-dazi-ue-cina",
+   "https://www.agi.it/estero/news/2026-11-24/trump-aumenta-dazi-ue-cina-40171529/",
+   "https://agenparl.eu/2026/11/24/nuovi-dazi-usa-trump-cina-ue-section-301/",
+   "https://www.bloomberg.com/news/articles/2026-11-24/new-trump-tariffs-won-t-top-trade-deal-levels-will-be-targeted"
+  ],
+  "trend": "nessun termine specifico nella prima pagina di Google Trends"
+ },
+ {
+  "titolo": "Deficit, Ue verso chiusura procedura",
+  "fatti_chiave": [
+   "Dombrovskis: Italia 'conforme' alle raccomandazioni Ue (ANSA, Teleborsa)",
+   "Correzione del deficit eccessivo nel 2026 (askanews, ANSA, Alanews)",
+   "Ue verso la chiusura della procedura per deficit eccessivo (Sky TG24, AGI, Euronews)"
+  ],
+  "link": [
+   "https://ansa.it/sito/notizie/economia/2026/11/24/dombrovskis-italia-conforme-alle-raccomandazioni-ue-bene-correzione-deficit_2e3d1b80-5c76-4474-af33-e274f621afa9.html",
+   "https://tg24.sky.it/economia/2026/11/24/ue-chiusura-procedura-deficit-italia",
+   "https://www.agi.it/estero/news/2026-11-24/ue-promuove-italia-deficit-40173243/",
+   "https://askanews.it/2026/11/24/dombrovskis-italia-correggera-deficit-eccessivo-in-2026-buona-notizia/"
+  ],
+  "trend": ""
+ },
+ {
+  "titolo": "Manovra, 1.700 emendamenti inammissibili",
+  "fatti_chiave": [
+   "Oltre 1.700 emendamenti dichiarati inammissibili (Sky TG24, Il Messaggero, ANSA, QuiFinanza)",
+   "Tra gli esclusi i marcatori colorati per i manifestanti ai cortei (Il Messaggero, Blitz, Virgilio, Today)",
+   "Verso un nuovo vertice di maggioranza (Sky TG24)",
+   "SCARTATO: proposta Lega sull'Ires alle banche (una sola fonte letta); esito del nodo condono"
+  ],
+  "link": [
+   "https://tg24.sky.it/politica/2026/11/23/manovra-2027-emendamenti-inammissibili",
+   "https://tg24.sky.it/economia/2026/11/24/manovra-2027-emendamenti-vertice-maggioranza-news",
+   "https://www.ilmessaggero.it/politica/manovra_emendamenti_bocciati_quali_sono_vernice_cortei_ultime_notizie-9908576.html",
+   "https://www.ansa.it/sito/notizie/politica/2026/11/24/manovra-tagliola-su-oltre-1.700-emendamenti-anche-la-proposta-della-lega-di-alzare_6fda15fa-62be-4fc8-9ee0-e23897a4997a.html"
+  ],
+  "trend": ""
+ },
+ {
+  "titolo": "Kiev, droni: danni all’ambasciata olandese",
+  "fatti_chiave": [
+   "Attacco di droni russi su Kiev, danni all'ambasciata dei Paesi Bassi (Il Sole 24 Ore: danni lievi; QN; Ottopagine; tvsvizzera)",
+   "SCARTATO: danni all'ambasciata austriaca (una sola fonte); alcune fonti dicono 'vicino' all'ambasciata"
+  ],
+  "link": [
+   "https://www.ilsole24ore.com/art/guerra-ucraina-ultime-notizie-drone-russo-cade-all-ambasciata-olandese-kiev-danni-lievi-AJfUn6LC",
+   "https://www.quotidiano.net/esteri/droni-kiev-v2hrcahe",
+   "https://www.tvsvizzera.it/tvs/ucraina:-drone-russo-danneggia-ministero-esteri-e-ambasciate/92409560"
+  ],
+  "trend": ""
+ },
+ {
+  "titolo": "Swg: FdI scende al 28,4%",
+  "fatti_chiave": [
+   "Sondaggio Swg per Tg La7 del 23 novembre",
+   "FdI 28,4%, -0,2 (Il Messaggero, Il Politico Web)",
+   "Centrodestra 43,4% (Diario del Web, Fanpage)",
+   "Centrosinistra in vantaggio (Il Messaggero, Diario del Web)",
+   "Crescono M5S e Lega (Il Messaggero, Open)",
+   "SCARTATO: valore esatto del centrosinistra (45% vs 45,1%)"
+  ],
+  "link": [
+   "https://ilmessaggero.it/politica/sondaggi_politici_oggi_centrosinistra_vantaggio_vannacci_non_cala_piu_m5s_meloni_lega-9910091.html",
+   "https://open.online/2026/11/23/sondaggio-swg-tgla7-23-nov-26",
+   "https://diariodelweb.it/politica/sondaggi/sondaggio-swg-coalizioni-23-novembre",
+   "https://www.fanpage.it/politica/sondaggi-politici-il-centrodestra-arretra-al-434-e-cresce-solo-la-lega-cosi-vannacci-resta-decisivo-per-meloni/"
+  ],
+  "trend": ""
+ }
+]
