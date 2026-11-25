@@ -1,0 +1,132 @@
+{
+ "date_label": "Mercoledì 25 novembre",
+ "news": [
+  [
+   "MONDO",
+   "Bengasi, Haftar promette vendetta a Kiev",
+   "Morti due militari libici feriti nell’attacco ucraino alle navi russe. Cremlino: “La Libia ha il diritto di rispondere”.",
+   "Fonti: ANSA, agenzia Dire"
+  ],
+  [
+   "USA",
+   "Dazi, Trump propone nuovi aumenti",
+   "Nel mirino Cina, Unione europea e altre economie, per l’eccesso di capacità produttiva.",
+   "Fonti: AGI, Euronews"
+  ],
+  [
+   "SONDAGGI",
+   "Youtrend: campo largo avanti di 4,7 punti",
+   "Campo largo al 45,6%, centrodestra al 40,9% nel sondaggio per Sky TG24.",
+   "Fonti: ANSA, Adnkronos"
+  ],
+  [
+   "ECONOMIA",
+   "Pensioni, rivalutazione 2027 al 3,2%",
+   "Fissato l’adeguamento all’inflazione degli assegni che scatterà da gennaio 2027.",
+   "Fonti: Il Mattino, Il Giornale, Sky TG24"
+  ],
+  [
+   "ITALIA",
+   "25 novembre, Meloni: “Lo Stato c’è”",
+   "Giornata contro la violenza sulle donne. Mattarella: “Uscire dalla violenza è possibile”.",
+   "Fonti: ANSA, Leggo"
+  ]
+ ],
+ "evidenza": [
+  "Bengasi",
+  "Dazi",
+  "Youtrend",
+  "Pensioni",
+  "25 novembre"
+ ],
+ "clip_dir": "/tmp/mm/clip",
+ "shots": [
+  [
+   [
+    "pxf29359072.jpg",
+    0,
+    0.5,
+    0.6
+   ],
+   [
+    "px6618037.mp4",
+    1.0,
+    0.5,
+    0.5
+   ]
+  ],
+  [
+   [
+    "px17907934.mp4",
+    1.0,
+    0.5,
+    0.5
+   ],
+   [
+    "px6618031.mp4",
+    1.0,
+    0.5,
+    0.5
+   ]
+  ],
+  [
+   [
+    "repo:spiegato/condono/foto/montecitorio.jpg",
+    0,
+    0.5,
+    0.5
+   ],
+   [
+    "repo:spiegato/condono/foto/aula.jpg",
+    0,
+    0.5,
+    0.5
+   ]
+  ],
+  [
+   [
+    "pxf20407406.jpg",
+    0,
+    0.5,
+    0.5
+   ],
+   [
+    "pxf3943746.jpg",
+    0,
+    0.5,
+    0.5
+   ]
+  ],
+  [
+   [
+    "px20785561.mp4",
+    1.0,
+    0.5,
+    0.5
+   ],
+   [
+    "px3110550.mp4",
+    1.0,
+    0.5,
+    0.5,
+    {
+     "luce": 1.3
+    }
+   ]
+  ]
+ ],
+ "sondaggio": {
+  "notizia": 2,
+  "titolo": "SONDAGGIO YOUTREND PER SKY TG24 · 25 NOVEMBRE",
+  "barre": [
+   [
+    "Campo largo",
+    45.6
+   ],
+   [
+    "Centrodestra",
+    40.9
+   ]
+  ]
+ }
+}
