@@ -1,0 +1,300 @@
+[
+ {
+  "etichetta": "b",
+  "orario": "19:30",
+  "id": 442064351,
+  "uuid": "-4324266943053346450",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-4324266943053346450",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-25/video.mp4"
+   ],
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-25T19:30:00",
+    "timezone": "Europe/Rome"
+   },
+   "instagramData": {
+    "type": "STORY"
+   },
+   "facebookData": {
+    "type": "STORY"
+   }
+  }
+ },
+ {
+  "etichetta": "c",
+  "orario": "19:30",
+  "id": 442064376,
+  "uuid": "6486988313567972625",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=6486988313567972625",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-25/video.mp4"
+   ],
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "providers": [
+    {
+     "network": "tiktok"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-25T19:30:00",
+    "timezone": "Europe/Rome"
+   },
+   "text": "Bengasi: morti due militari libici dopo l’attacco ucraino alle navi russe, Haftar promette vendetta. Poi dazi, sondaggi, pensioni e 25 novembre ⏱️ 📷 Foto: Pexels, Wikimedia Commons\n#mezzominuto #notizie #politica #libia #dazi #pensioni #sondaggi",
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-25/cover.jpg",
+   "tiktokData": {
+    "title": "Bengasi, dazi di Trump e pensioni: le notizie di oggi in 30 secondi",
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "disableComment": false,
+    "disableDuet": false,
+    "disableStitch": false,
+    "commercialContentThirdParty": false,
+    "commercialContentOwnBrand": false,
+    "autoAddMusic": false
+   }
+  }
+ },
+ {
+  "etichetta": "d",
+  "orario": "19:30",
+  "id": 442064399,
+  "uuid": "-578549028815354849",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-578549028815354849",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-25/slide_01.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-25/slide_02.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-25/slide_03.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-25/slide_04.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-25/slide_05.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-25/slide_06.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-25/slide_07.jpg"
+   ],
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "providers": [
+    {
+     "network": "tiktok"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-25T19:30:00",
+    "timezone": "Europe/Rome"
+   },
+   "text": "Le 5 notizie di oggi in 7 slide: Libia, dazi USA, sondaggio Youtrend, pensioni 2027 e 25 novembre 👉 Scorri! 📷 Foto: Pexels, Wikimedia Commons\n#mezzominuto #notizie #politica #libia #dazi #pensioni #sondaggi",
+   "tiktokData": {
+    "title": "Bengasi, dazi di Trump e pensioni: le notizie di oggi in 30 secondi",
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "disableComment": false,
+    "disableDuet": false,
+    "disableStitch": false,
+    "commercialContentThirdParty": false,
+    "commercialContentOwnBrand": false,
+    "autoAddMusic": false,
+    "photoCoverIndex": 0
+   }
+  }
+ },
+ {
+  "etichetta": "e",
+  "orario": "19:30",
+  "id": 442064421,
+  "uuid": "-8143634433366078859",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-8143634433366078859",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-25/video.mp4"
+   ],
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "providers": [
+    {
+     "network": "youtube"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-25T19:30:00",
+    "timezone": "Europe/Rome"
+   },
+   "text": "Bengasi: morti due militari libici feriti nell’attacco ucraino alle navi russe, Haftar promette vendetta.\n\n1. Bengasi, Haftar promette vendetta a Kiev. Cremlino: “La Libia ha il diritto di rispondere” (Fonti: ANSA, agenzia Dire)\n2. Dazi, Trump propone nuovi aumenti contro Cina, Ue e altre economie (Fonti: AGI, Euronews)\n3. Youtrend per Sky TG24: campo largo 45,6%, centrodestra 40,9% (Fonti: ANSA, Adnkronos)\n4. Pensioni, rivalutazione 2027 al 3,2% (Fonti: Il Mattino, Il Giornale, Sky TG24)\n5. 25 novembre, Meloni: “Lo Stato c’è”. Mattarella: “Uscire dalla violenza è possibile” (Fonti: ANSA, Leggo)\n\n📷 Foto: Pexels, Wikimedia Commons\n#shorts #notizie #politica",
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-25/cover.jpg",
+   "youtubeData": {
+    "title": "Bengasi, dazi di Trump e pensioni: le notizie di oggi in 30 secondi",
+    "type": "short",
+    "privacy": "public",
+    "tags": [
+     "Bengasi",
+     "Libia",
+     "dazi",
+     "pensioni",
+     "sondaggi",
+     "notizie",
+     "politica",
+     "attualità",
+     "mezzo minuto"
+    ],
+    "category": "NEWS_POLITICS",
+    "madeForKids": false
+   }
+  }
+ },
+ {
+  "etichetta": "f",
+  "orario": "19:30",
+  "id": 442064445,
+  "uuid": "7780238517084438605",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=7780238517084438605",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-25/video.mp4"
+   ],
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "providers": [
+    {
+     "network": "instagram"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-25T19:30:00",
+    "timezone": "Europe/Rome"
+   },
+   "text": "⏱️ Le 5 notizie di mercoledì 25 novembre in mezzo minuto.\n\n1. Bengasi: morti due militari libici feriti nell’attacco ucraino alle navi russe. Haftar promette vendetta\n2. Dazi: Trump propone nuovi aumenti contro Cina, Ue e altre economie\n3. Sondaggio Youtrend per Sky TG24: campo largo 45,6%, centrodestra 40,9%\n4. Pensioni: rivalutazione 2027 fissata al 3,2%\n5. 25 novembre, Meloni: “Lo Stato c’è”. Mattarella: “Uscire dalla violenza è possibile”\n\nSecondo te l’Italia rischia conseguenze dalla tensione in Libia?\n\nSegui per le notizie di domani 👉 @mezzo.minuto\n\n#mezzominuto #notizie #politica #libia #dazi #pensioni #sondaggi\n\n📷 Foto: Pexels, Wikimedia Commons",
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-25/cover.jpg",
+   "instagramData": {
+    "type": "REEL",
+    "showReelOnFeed": true
+   }
+  }
+ },
+ {
+  "etichetta": "g",
+  "orario": "20:00",
+  "id": 442064469,
+  "uuid": "4681308713528413744",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=4681308713528413744",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "Secondo te l’Italia rischia conseguenze dalla tensione in Libia? Scrivilo qui sotto 👇",
+   "hasNotReadNotes": false,
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-25/slide_01.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-25/slide_02.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-25/slide_03.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-25/slide_04.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-25/slide_05.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-25/slide_06.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-25/slide_07.jpg"
+   ],
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "providers": [
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-25T20:00:00",
+    "timezone": "Europe/Rome"
+   },
+   "text": "⏱️ Le notizie di oggi in mezzo minuto:\n\n1. Bengasi, Haftar promette vendetta\n2. Trump propone nuovi dazi\n3. Youtrend: campo largo avanti\n4. Pensioni 2027, rivalutazione 3,2%\n5. 25 novembre, Meloni: “Lo Stato c’è”\n\n👉 Segui Mezzo Minuto per le notizie di domani.\n\n#mezzominuto #notizie #politica #libia #dazi #pensioni #sondaggi",
+   "facebookData": {
+    "type": "POST"
+   }
+  }
+ },
+ {
+  "etichetta": "h",
+  "orario": "19:30",
+  "id": 442064498,
+  "uuid": "-4056346656369064297",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-4056346656369064297",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "Secondo te l’Italia rischia conseguenze dalla tensione in Libia? Scrivilo qui sotto 👇",
+   "hasNotReadNotes": false,
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-25/video.mp4"
+   ],
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "providers": [
+    {
+     "network": "facebook"
+    }
+   ],
+   "publicationDate": {
+    "dateTime": "2026-11-25T19:30:00",
+    "timezone": "Europe/Rome"
+   },
+   "text": "⏱️ Le notizie di oggi in mezzo minuto:\n\n1. Bengasi, Haftar promette vendetta\n2. Trump propone nuovi dazi\n3. Youtrend: campo largo avanti\n4. Pensioni 2027, rivalutazione 3,2%\n5. 25 novembre, Meloni: “Lo Stato c’è”\n\n👉 Segui Mezzo Minuto per le notizie di domani.\n\n#mezzominuto #notizie #politica #libia #dazi #pensioni #sondaggi",
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-25/cover.jpg",
+   "facebookData": {
+    "type": "REEL",
+    "title": "Bengasi, dazi di Trump e pensioni: le notizie di oggi in 30 secondi"
+   }
+  }
+ }
+]
