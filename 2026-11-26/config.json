@@ -1,0 +1,115 @@
+{
+ "date_label": "Giovedì 26 novembre",
+ "news": [
+  [
+   "MONDO",
+   "Londra allerta 100mila riservisti",
+   "Il Regno Unito ha scritto a 100mila riservisti: tenersi pronti in caso di guerra.",
+   "Fonti: Adnkronos, Quotidiano Nazionale"
+  ],
+  [
+   "ITALIA",
+   "Giudici, Meloni: “Non torno indietro”",
+   "Il Consiglio di Stato le chiede di firmare gli aumenti entro il 31 gennaio. Non andrà al congresso Anm.",
+   "Fonti: ANSA, Open, Avvenire"
+  ],
+  [
+   "MONDO",
+   "Bilancio Ue, Meloni: intesa lontana",
+   "Al vertice di Bruxelles la premier chiede niente tagli ad agricoltura (Pac) e Coesione.",
+   "Fonti: ANSA, Sky TG24"
+  ],
+  [
+   "USA",
+   "Trump e Rutte, appello a Putin",
+   "Chiedono a Mosca di fermare l’aggressione. Il Cremlino: von der Leyen “non può dettare condizioni”.",
+   "Fonti: Adnkronos, Il Sole 24 Ore"
+  ],
+  [
+   "ECONOMIA",
+   "Manovra, Salvini: norma sul condono",
+   "“In manovra una norma sul condono, la stiamo costruendo con i comuni”, dice il vicepremier.",
+   "Fonti: ANSA, Il Mattino, Sky TG24"
+  ]
+ ],
+ "evidenza": [
+  "100mila riservisti",
+  "Giudici",
+  "Bilancio Ue",
+  "Putin",
+  "condono"
+ ],
+ "clip_dir": "/tmp/mm/clip",
+ "shots": [
+  [
+   [
+    "pxf32408364.jpg",
+    0,
+    0.4,
+    0.5
+   ],
+   [
+    "px6866696.mp4",
+    1.0,
+    0.6,
+    0.5
+   ]
+  ],
+  [
+   [
+    "pxf8693379.jpg",
+    0,
+    0.33,
+    0.6
+   ],
+   [
+    "pxf3943746.jpg",
+    0,
+    0.5,
+    0.5
+   ]
+  ],
+  [
+   [
+    "px10956356.mp4",
+    1.0,
+    0.45,
+    0.4
+   ],
+   [
+    "pxf15871438.jpg",
+    0,
+    0.5,
+    0.4
+   ]
+  ],
+  [
+   [
+    "px11356691.mp4",
+    1.0,
+    0.6,
+    0.4
+   ],
+   [
+    "px17907934.mp4",
+    1.0,
+    0.5,
+    0.4
+   ]
+  ],
+  [
+   [
+    "pxf12530475.jpg",
+    0,
+    0.5,
+    0.6
+   ],
+   [
+    "pxf12530460.jpg",
+    0,
+    0.5,
+    0.5
+   ]
+  ]
+ ]
+}

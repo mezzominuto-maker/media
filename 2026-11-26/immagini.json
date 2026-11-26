@@ -1,0 +1,87 @@
+[
+ {
+  "notizia": 1,
+  "immagini": [
+   {
+    "file": "pxf32408364.jpg",
+    "id": "foto:32408364",
+    "link": "https://www.pexels.com/photo/union-jack-flag-with-big-ben-in-background-32408364/",
+    "soggetto": "bandiera britannica con il Big Ben"
+   },
+   {
+    "file": "px6866696.mp4",
+    "id": "video:6866696:25",
+    "link": "https://www.pexels.com/video/big-ben-in-london-6866696/",
+    "soggetto": "Big Ben e Westminster, Londra"
+   }
+  ]
+ },
+ {
+  "notizia": 2,
+  "immagini": [
+   {
+    "file": "pxf8693379.jpg",
+    "id": "foto:8693379",
+    "link": "https://www.pexels.com/photo/brown-gavel-8693379/",
+    "soggetto": "martelletto da giudice (persona senza volto)"
+   },
+   {
+    "file": "pxf3943746.jpg",
+    "id": "foto:3943746",
+    "link": "https://www.pexels.com/photo/person-holding-10-and-10-euro-banknotes-3943746/",
+    "soggetto": "banconote in euro (stipendi)"
+   }
+  ]
+ },
+ {
+  "notizia": 3,
+  "immagini": [
+   {
+    "file": "px10956356.mp4",
+    "id": "video:10956356:30",
+    "link": "https://www.pexels.com/video/the-european-union-flag-waving-on-a-pole-10956356/",
+    "soggetto": "bandiera Ue al vento"
+   },
+   {
+    "file": "pxf15871438.jpg",
+    "id": "foto:15871438",
+    "link": "https://www.pexels.com/photo/the-flag-of-the-european-union-15871438/",
+    "soggetto": "bandiera Ue su cielo blu"
+   }
+  ]
+ },
+ {
+  "notizia": 4,
+  "immagini": [
+   {
+    "file": "px11356691.mp4",
+    "id": "video:11356691:25",
+    "link": "https://www.pexels.com/video/kremlin-entrance-in-winter-11356691/",
+    "soggetto": "mura e torri del Cremlino in inverno"
+   },
+   {
+    "file": "px17907934.mp4",
+    "id": "video:17907934:30",
+    "link": "https://www.pexels.com/video/the-white-house-is-surrounded-by-flowers-and-people-17907934/",
+    "soggetto": "Casa Bianca, Washington"
+   }
+  ]
+ },
+ {
+  "notizia": 5,
+  "immagini": [
+   {
+    "file": "pxf12530475.jpg",
+    "id": "foto:12530475",
+    "link": "https://www.pexels.com/photo/aerial-view-of-the-city-of-naples-italy-12530475/",
+    "soggetto": "Napoli dall'alto (Salvini cita le pratiche di Napoli)"
+   },
+   {
+    "file": "pxf12530460.jpg",
+    "id": "foto:12530460",
+    "link": "https://www.pexels.com/photo/bird-s-eye-view-of-buildings-rooftops-12530460/",
+    "soggetto": "tetti di edifici dall'alto"
+   }
+  ]
+ }
+]
