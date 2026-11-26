@@ -1,0 +1,300 @@
+[
+ {
+  "etichetta": "b",
+  "orario": "2026-11-26T19:30:00",
+  "id": 443415608,
+  "uuid": "-1942935297235402319",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-1942935297235402319",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-26T19:30:00",
+    "timezone": "Europe/Rome"
+   },
+   "providers": [
+    {
+     "network": "instagram"
+    },
+    {
+     "network": "facebook"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-26/video.mp4"
+   ],
+   "instagramData": {
+    "type": "STORY"
+   },
+   "facebookData": {
+    "type": "STORY"
+   }
+  }
+ },
+ {
+  "etichetta": "c",
+  "orario": "2026-11-26T19:30:00",
+  "id": 443415629,
+  "uuid": "-4079559309619082793",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-4079559309619082793",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-26T19:30:00",
+    "timezone": "Europe/Rome"
+   },
+   "providers": [
+    {
+     "network": "tiktok"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-26/video.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-26/cover.jpg",
+   "text": "Il Regno Unito scrive a 100mila riservisti: tenersi pronti in caso di guerra. E poi stipendi dei giudici, bilancio Ue, appello a Putin e condono in manovra. Le notizie di oggi in 30 secondi.\n\n#mezzominuto #notizie #politica #regnounito #meloni #bilancioue #manovra",
+   "tiktokData": {
+    "title": "Riservisti a Londra, Meloni e giudici: le notizie di oggi in 30 secondi",
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "disableComment": false,
+    "disableDuet": false,
+    "disableStitch": false,
+    "commercialContentThirdParty": false,
+    "commercialContentOwnBrand": false,
+    "autoAddMusic": false
+   }
+  }
+ },
+ {
+  "etichetta": "d",
+  "orario": "2026-11-26T19:30:00",
+  "id": 443415644,
+  "uuid": "-6833578914937223107",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-6833578914937223107",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-26T19:30:00",
+    "timezone": "Europe/Rome"
+   },
+   "providers": [
+    {
+     "network": "tiktok"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-26/slide_01.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-26/slide_02.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-26/slide_03.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-26/slide_04.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-26/slide_05.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-26/slide_06.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-26/slide_07.jpg"
+   ],
+   "text": "Le 5 notizie di giovedì 26 novembre, una slide alla volta: Londra e i riservisti, Meloni e i giudici, bilancio Ue, Trump e Putin, condono. Scorri 👉\n\n#mezzominuto #notizie #politica #regnounito #meloni #bilancioue #manovra",
+   "tiktokData": {
+    "title": "Riservisti a Londra, Meloni e giudici: le notizie di oggi in 30 secondi",
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "disableComment": false,
+    "disableDuet": false,
+    "disableStitch": false,
+    "commercialContentThirdParty": false,
+    "commercialContentOwnBrand": false,
+    "autoAddMusic": false,
+    "photoCoverIndex": 0
+   }
+  }
+ },
+ {
+  "etichetta": "e",
+  "orario": "2026-11-26T19:30:00",
+  "id": 443415661,
+  "uuid": "-178708279947933003",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-178708279947933003",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-26T19:30:00",
+    "timezone": "Europe/Rome"
+   },
+   "providers": [
+    {
+     "network": "youtube"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-26/video.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-26/cover.jpg",
+   "text": "Il Regno Unito ha scritto a 100mila riservisti: tenersi pronti in caso di guerra.\n\n1. Londra allerta 100mila riservisti (Fonti: Adnkronos, Quotidiano Nazionale)\n2. Stipendi dei magistrati, Meloni: “Non torno indietro”; il Consiglio di Stato chiede la firma entro il 31 gennaio (Fonti: ANSA, Open, Avvenire)\n3. Bilancio Ue, Meloni: “Anni luce da una soluzione” (Fonti: ANSA, Sky TG24)\n4. Trump e Rutte, appello a Putin; il Cremlino: von der Leyen “non può dettare condizioni” (Fonti: Adnkronos, Il Sole 24 Ore)\n5. Manovra, Salvini: norma sul condono “la stiamo costruendo con i comuni” (Fonti: ANSA, Il Mattino, Sky TG24)\n\n📷 Foto e video: Pexels\n\n#shorts #notizie #politica",
+   "youtubeData": {
+    "title": "Riservisti a Londra, Meloni e giudici: le notizie di oggi in 30 secondi",
+    "type": "short",
+    "privacy": "public",
+    "tags": [
+     "regno unito",
+     "riservisti",
+     "meloni",
+     "bilancio ue",
+     "condono",
+     "notizie",
+     "politica",
+     "attualità",
+     "mezzo minuto"
+    ],
+    "category": "NEWS_POLITICS",
+    "madeForKids": false
+   }
+  }
+ },
+ {
+  "etichetta": "f",
+  "orario": "2026-11-26T19:30:00",
+  "id": 443415683,
+  "uuid": "4514899613148069925",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=4514899613148069925",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-26T19:30:00",
+    "timezone": "Europe/Rome"
+   },
+   "providers": [
+    {
+     "network": "instagram"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-26/video.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-26/cover.jpg",
+   "text": "⏱️ Le 5 notizie di giovedì 26 novembre in mezzo minuto.\n\n1. Il Regno Unito scrive a 100mila riservisti: tenersi pronti in caso di guerra\n2. Stipendi dei magistrati, Meloni: “Non torno indietro”. Il Consiglio di Stato chiede la firma entro il 31 gennaio\n3. Bilancio Ue 2028-2034, Meloni: “Anni luce da una soluzione”\n4. Trump e Rutte, appello a Putin. Il Cremlino: von der Leyen “non può dettare condizioni”\n5. Manovra, Salvini: “Una norma sul condono, la stiamo costruendo con i comuni”\n\nSecondo te il Regno Unito fa bene a preparare i riservisti?\n\nSegui per le notizie di domani 👉 @mezzo.minuto\n\n#mezzominuto #notizie #politica #regnounito #meloni #bilancioue #manovra",
+   "instagramData": {
+    "type": "REEL",
+    "showReelOnFeed": true
+   }
+  }
+ },
+ {
+  "etichetta": "g",
+  "orario": "2026-11-26T20:00:00",
+  "id": 443415706,
+  "uuid": "-6008167393456862686",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-6008167393456862686",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "Secondo te il Regno Unito fa bene a preparare i riservisti? Scrivilo qui sotto 👇",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-26T20:00:00",
+    "timezone": "Europe/Rome"
+   },
+   "providers": [
+    {
+     "network": "facebook"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-26/slide_01.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-26/slide_02.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-26/slide_03.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-26/slide_04.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-26/slide_05.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-26/slide_06.jpg",
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-26/slide_07.jpg"
+   ],
+   "text": "⏱️ Le notizie di oggi in mezzo minuto:\n\n1. Londra: 100mila riservisti\n2. Giudici, Meloni: “Non torno indietro”\n3. Bilancio Ue, intesa lontana\n4. Trump e Rutte a Putin\n5. Salvini: norma sul condono\n\n👉 Segui Mezzo Minuto per le notizie di domani.\n\n#mezzominuto #notizie #politica #regnounito #meloni #bilancioue #manovra",
+   "facebookData": {
+    "type": "POST"
+   }
+  }
+ },
+ {
+  "etichetta": "h",
+  "orario": "2026-11-26T19:30:00",
+  "id": 443415740,
+  "uuid": "-8161250238719442858",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7995542&openWithPostUuid=-8161250238719442858",
+  "info": {
+   "autoPublish": true,
+   "draft": false,
+   "descendants": [],
+   "firstCommentText": "Secondo te il Regno Unito fa bene a preparare i riservisti? Scrivilo qui sotto 👇",
+   "hasNotReadNotes": false,
+   "mediaAltText": [],
+   "shortener": false,
+   "smartLinkData": {
+    "ids": []
+   },
+   "publicationDate": {
+    "dateTime": "2026-11-26T19:30:00",
+    "timezone": "Europe/Rome"
+   },
+   "providers": [
+    {
+     "network": "facebook"
+    }
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-26/video.mp4"
+   ],
+   "videoThumbnailUrl": "https://raw.githubusercontent.com/mezzominuto-maker/media/main/2026-11-26/cover.jpg",
+   "text": "⏱️ Le notizie di oggi in mezzo minuto:\n\n1. Londra: 100mila riservisti\n2. Giudici, Meloni: “Non torno indietro”\n3. Bilancio Ue, intesa lontana\n4. Trump e Rutte a Putin\n5. Salvini: norma sul condono\n\n👉 Segui Mezzo Minuto per le notizie di domani.\n\n#mezzominuto #notizie #politica #regnounito #meloni #bilancioue #manovra",
+   "facebookData": {
+    "type": "REEL",
+    "title": "Riservisti a Londra, Meloni e giudici: le notizie di oggi in 30 secondi"
+   }
+  }
+ }
+]
