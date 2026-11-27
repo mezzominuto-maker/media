@@ -1,0 +1,87 @@
+[
+ {
+  "notizia": 1,
+  "immagini": [
+   {
+    "file": "pxf15885795.jpg",
+    "id": "foto:15885795",
+    "link": "https://www.pexels.com/photo/kuwait-city-office-skyscrapers-15885795/",
+    "soggetto": "grattacieli di Kuwait City"
+   },
+   {
+    "file": "px18338777.mp4",
+    "id": "video:18338777:30",
+    "link": "https://www.pexels.com/video/kuwait-liberation-tower-kuwait-city-18338777/",
+    "soggetto": "Kuwait City con la Liberation Tower"
+   }
+  ]
+ },
+ {
+  "notizia": 2,
+  "immagini": [
+   {
+    "file": "pxf29359072.jpg",
+    "id": "foto:29359072",
+    "link": "https://www.pexels.com/photo/29359072/",
+    "soggetto": "rimorchiatore nel porto di Bengasi (Libia)"
+   },
+   {
+    "file": "px4911815.mp4",
+    "id": "video:4911815:24",
+    "link": "https://www.pexels.com/video/an-oil-tanker-in-the-sea-4911815/",
+    "soggetto": "nave in mare al tramonto (generica)"
+   }
+  ]
+ },
+ {
+  "notizia": 3,
+  "immagini": [
+   {
+    "file": "pxf8693379.jpg",
+    "id": "foto:8693379",
+    "link": "https://www.pexels.com/photo/8693379/",
+    "soggetto": "martelletto da giudice (persona senza volto)"
+   },
+   {
+    "file": "pxf3943746.jpg",
+    "id": "foto:3943746",
+    "link": "https://www.pexels.com/photo/3943746/",
+    "soggetto": "banconote in euro (stipendi)"
+   }
+  ]
+ },
+ {
+  "notizia": 4,
+  "immagini": [
+   {
+    "file": "px1197802.mp4",
+    "id": "video:1197802:25",
+    "link": "https://www.pexels.com/video/1197802/",
+    "soggetto": "cantiere edile con gru (condono edilizio)"
+   },
+   {
+    "file": "pxf20407406.jpg",
+    "id": "foto:20407406",
+    "link": "https://www.pexels.com/photo/20407406/",
+    "soggetto": "mani di anziano con monete (pensioni)"
+   }
+  ]
+ },
+ {
+  "notizia": 5,
+  "immagini": [
+   {
+    "file": "px6854091.mp4",
+    "id": "video:6854091:30",
+    "link": "https://www.pexels.com/video/6854091/",
+    "soggetto": "cupola del Campidoglio di Washington con bandiera Usa"
+   },
+   {
+    "file": "pxf129112.jpg",
+    "id": "foto:129112",
+    "link": "https://www.pexels.com/photo/129112/",
+    "soggetto": "Casa Bianca"
+   }
+  ]
+ }
+]

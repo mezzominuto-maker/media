@@ -1,0 +1,81 @@
+[
+ {
+  "titolo": "Kuwait, uccisi due tecnici italiani",
+  "fatti_chiave": [
+   "Due tecnici italiani di Rheinmetall morti in un attacco con droni in Kuwait (26/11)",
+   "Tajani: drone costruito/fabbricato in Iran, ci saranno indagini",
+   "L'Iran nega il coinvolgimento",
+   "Scartato: virgolettato di Tajani (le testate riportano 'costruito' e 'fabbricato': parafrasato senza virgolette)",
+   "Scartato: accusa iraniana di 'false flag ucraina' (una sola testata)"
+  ],
+  "link": [
+   "https://www.ansa.it/sito/notizie/mondo/2026/11/26/due-tecnici-italiani-della-rheinmetall-morti-in-un-attacco-in-kuwait_060489c8-4e35-4f04-9c6a-ade4a80acda4.html",
+   "https://tg24.sky.it/mondo/2026/11/27/kuwait-attacco-droni-morti-due-italiani-cosa-e-successo",
+   "https://www.adnkronos.com/internazionale/esteri/italiani-morti-kuwait_33AiisvTqEV9MLduBiVvhp",
+   "https://www.quotidiano.net/esteri/due-tecnici-italiani-uccisi-da-attacco-con-droni-in-kuwait-lavoravano-per-rheinmetall-vile-aggressione-delliran-cfilszbj",
+   "https://www.today.it/attualita/antonio-saccoccio-emanuele-lo-russo-italiani-morti-kuwait-droni-iran-rheinmetall-tajani.html"
+  ],
+  "trend": "nessun termine specifico visibile; in apertura su più testate"
+ },
+ {
+  "titolo": "Raid in Libia, Tajani: Italia non informata",
+  "fatti_chiave": [
+   "Zelensky: attacco alle navi russe in Libia coordinato con i partner",
+   "Tajani: l'Italia/gli alleati non erano stati informati",
+   "Scartato: virgolettato di Tajani (formulazioni diverse tra le testate)"
+  ],
+  "link": [
+   "https://www.ilmessaggero.it/mondo/guerra_ucraina_attacchi_oggi_diretta_cosa_succede-9916414.html",
+   "https://www.quotidiano.net/esteri/zelensky-in-libia-abbiamo-agito-coordinandoci-con-i-nostri-partner-reazioni-nf1au4mo",
+   "https://www.fanpage.it/politica/tajani-smentisce-zelensky-sullattacco-alle-navi-russe-coordinato-con-i-partner-le-opposizioni-chi-mente/",
+   "https://gazzettadelsud.it/articoli/mondo/2026/11/27/zelensky-attacchi-alle-navi-russe-in-libia-concordati-con-i-partner-kiev-si-prepara-a-un-inverno-difficile-dc204fa6-a663-4ff6-95bd-b678ff23b3cf/"
+  ],
+  "trend": ""
+ },
+ {
+  "titolo": "Stipendi magistrati, Meloni: “Non firmo”",
+  "fatti_chiave": [
+   "Meloni: 'Non firmo' il decreto sugli arretrati dei magistrati",
+   "Il Consiglio di Stato ha fissato una scadenza (decreto entro gennaio 2027)",
+   "Meloni non partecipa al congresso Anm a Napoli",
+   "Scartato: importo degli arretrati ('quasi un miliardo', una sola fonte)"
+  ],
+  "link": [
+   "https://www.adnkronos.com/politica/aumenti-stipendi-magistrati-meloni_5e3wXT5quiabfaFYsERhE4",
+   "https://www.ilfattoquotidiano.it/2026/11/26/stipendi-magistrati-meloni-insiste-e-sfida-lultimatum-del-consiglio-di-stato-non-firmero-il-decreto-per-pagare-gli-arretrati/8584174/",
+   "https://www.quotidiano.net/politica/meloni-non-firmo-il-decreto-sugli-arretrati-dei-magistrati-e-non-vado-al-congresso-anm-xpnd5cf2",
+   "https://tg24.sky.it/economia/2026/11/27/stipendi-magistrati-arretrati-aumenti-decreto-gennaio-2027"
+  ],
+  "trend": ""
+ },
+ {
+  "titolo": "Manovra, si tratta su condono e pensioni",
+  "fatti_chiave": [
+   "Manovra 2027 in commissione Bilancio al Senato: i partiti hanno indicato gli emendamenti segnalati/prioritari",
+   "Tra i temi: condono edilizio e pensioni",
+   "Scartato: numero degli emendamenti segnalati (729 / 350, dati discordanti)",
+   "Scartato: rivalutazione pensioni a 3.000 euro (proposta, una sola fonte)"
+  ],
+  "link": [
+   "https://www.agi.it/economia/news/2026-11-26/manovra-emendamenti-segnalati-40208038/",
+   "https://www.milanofinanza.it/news/manovra-2027-il-piano-della-maggioranza-tregua-sul-superbonus-pacchetto-condoni-e-una-nuova-exit-tax-202611261953024617",
+   "https://www.tag24.it/1410548-manovra-2027-emendamenti-segnalati-priorita-partiti-pensioni",
+   "https://www.juorno.it/condono-edilizio-in-manovra-nove-emendamenti-dividono-la-maggioranza/"
+  ],
+  "trend": ""
+ },
+ {
+  "titolo": "Trump si presenta come “Veto Corleone”",
+  "fatti_chiave": [
+   "Trump pubblica un meme in cui si definisce 'Veto Corleone' e minaccia veti",
+   "I democratici hanno conquistato entrambe le camere alle elezioni di metà mandato del 3/11; nuovo Congresso da gennaio"
+  ],
+  "link": [
+   "https://www.nbc26.com/politics/the-president/trump-dubs-himself-veto-corleone-as-democrats-prepare-to-take-power",
+   "https://www.ibtimes.co.uk/trump-veto-corleone-democratic-agenda-1835239",
+   "https://www.kut.org/politics/2026-11-04/democrats-win-full-control-of-congress-ushering-in-a-new-era-of-divided-government",
+   "https://www.wsbtv.com/news/trending/election-2026-democrats-capture-both-houses-congress/5ILOWTVABVDPZFYP7VBBCX4EWE/"
+  ],
+  "trend": ""
+ }
+]
