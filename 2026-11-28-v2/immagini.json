@@ -1,0 +1,97 @@
+[
+ {
+  "notizia": 1,
+  "immagini": [
+   {
+    "file": "pxf7744325.jpg",
+    "tipo": "foto",
+    "id": "foto:7744325",
+    "link": "https://www.pexels.com/photo/aerial-view-of-city-of-jerusalem-7744325/",
+    "soggetto": "Gerusalemme dall'alto con la Cupola della Roccia"
+   },
+   {
+    "file": "pxf27358635.jpg",
+    "tipo": "foto",
+    "id": "foto:27358635",
+    "link": "https://www.pexels.com/photo/the-city-of-jerusalem-is-seen-from-above-27358635/",
+    "soggetto": "mura e città vecchia di Gerusalemme"
+   }
+  ]
+ },
+ {
+  "notizia": 2,
+  "immagini": [
+   {
+    "file": "repo:spiegato/condono/foto/montecitorio.jpg",
+    "tipo": "repo",
+    "id": "repo:spiegato/condono/foto/montecitorio.jpg",
+    "link": "Wikimedia Commons",
+    "soggetto": "Montecitorio di notte"
+   },
+   {
+    "file": "pxf16133374.jpg",
+    "tipo": "foto",
+    "id": "foto:16133374",
+    "link": "https://www.pexels.com/photo/16133374/",
+    "soggetto": "Vittoriano con bandiera italiana, Roma"
+   }
+  ]
+ },
+ {
+  "notizia": 3,
+  "immagini": [
+   {
+    "file": "pxf8693379.jpg",
+    "tipo": "foto",
+    "id": "foto:8693379",
+    "link": "https://www.pexels.com/photo/8693379/",
+    "soggetto": "martelletto da giudice (persona senza volto)"
+   },
+   {
+    "file": "pxf12530475.jpg",
+    "tipo": "foto",
+    "id": "foto:12530475",
+    "link": "https://www.pexels.com/photo/12530475/",
+    "soggetto": "Napoli dall'alto (sede del congresso Anm)"
+   }
+  ]
+ },
+ {
+  "notizia": 4,
+  "immagini": [
+   {
+    "file": "pxf9955064.jpg",
+    "tipo": "foto",
+    "id": "foto:9955064",
+    "link": "https://www.pexels.com/photo/9955064/",
+    "soggetto": "Kiev dall'alto con il monumento alla Madre Patria"
+   },
+   {
+    "file": "px11356691.mp4",
+    "tipo": "video",
+    "id": "video:11356691:25",
+    "link": "https://www.pexels.com/video/11356691/",
+    "soggetto": "torre del Cremlino in inverno"
+   }
+  ]
+ },
+ {
+  "notizia": 5,
+  "immagini": [
+   {
+    "file": "px1197802.mp4",
+    "tipo": "video",
+    "id": "video:1197802:25",
+    "link": "https://www.pexels.com/video/1197802/",
+    "soggetto": "cantiere edile con gru (condono edilizio)"
+   },
+   {
+    "file": "pxf20407406.jpg",
+    "tipo": "foto",
+    "id": "foto:20407406",
+    "link": "https://www.pexels.com/photo/20407406/",
+    "soggetto": "mani di anziano con monete (pensioni)"
+   }
+  ]
+ }
+]

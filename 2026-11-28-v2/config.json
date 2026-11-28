@@ -1,0 +1,129 @@
+{
+ "date_label": "Sabato 28 novembre",
+ "news": [
+  [
+   "MONDO",
+   "Israele, Eisenkot premier a rotazione?",
+   "Netanyahu si dice pronto a un governo di unità a rotazione con Gadi Eisenkot primo premier.",
+   "Fonti: Il Messaggero, Times of Israel"
+  ],
+  [
+   "SONDAGGI",
+   "Ipsos: FdI al 26%, M5S sale",
+   "Per Ipsos Fratelli d’Italia scende al 26%, il M5S sale al 15,9%. Centrosinistra in vantaggio.",
+   "Fonti: ANSA, Il Fatto Quotidiano"
+  ],
+  [
+   "ITALIA",
+   "Nordio all’Anm: “Lavoriamo insieme”",
+   "Il ministro al congresso dei magistrati: “Superato il conflitto sul referendum della giustizia”.",
+   "Fonti: ANSA, LaPresse"
+  ],
+  [
+   "MONDO",
+   "Zelensky: “Putin non può essere suo amico”",
+   "Il presidente ucraino critica Trump sui rapporti con il leader del Cremlino.",
+   "Fonti: La Voce di New York, Primo Piano 24"
+  ],
+  [
+   "ECONOMIA",
+   "Manovra, nodi condono e pensioni",
+   "Il governo lavora alle modifiche alla manovra: restano aperti condono edilizio e pensioni.",
+   "Fonti: agenzia AGI, Il Giornale"
+  ]
+ ],
+ "evidenza": [
+  "Eisenkot premier",
+  "FdI al 26%",
+  "“Lavoriamo insieme”",
+  "“Putin non può essere suo amico”",
+  "condono e pensioni"
+ ],
+ "clip_dir": "/tmp/mm/clip",
+ "shots": [
+  [
+   [
+    "pxf7744325.jpg",
+    0,
+    0.5,
+    0.55
+   ],
+   [
+    "pxf27358635.jpg",
+    0,
+    0.45,
+    0.6
+   ]
+  ],
+  [
+   [
+    "repo:spiegato/condono/foto/montecitorio.jpg",
+    0,
+    0.5,
+    0.5
+   ],
+   [
+    "pxf16133374.jpg",
+    0,
+    0.5,
+    0.5
+   ]
+  ],
+  [
+   [
+    "pxf8693379.jpg",
+    0,
+    0.4,
+    0.6
+   ],
+   [
+    "pxf12530475.jpg",
+    0,
+    0.5,
+    0.5
+   ]
+  ],
+  [
+   [
+    "pxf9955064.jpg",
+    0,
+    0.5,
+    0.5
+   ],
+   [
+    "px11356691.mp4",
+    1.0,
+    0.5,
+    0.5
+   ]
+  ],
+  [
+   [
+    "px1197802.mp4",
+    1.0,
+    0.5,
+    0.5
+   ],
+   [
+    "pxf20407406.jpg",
+    0,
+    0.5,
+    0.5
+   ]
+  ]
+ ],
+ "sondaggio": {
+  "notizia": 1,
+  "titolo": "SONDAGGIO IPSOS · 28 NOVEMBRE",
+  "barre": [
+   [
+    "Fratelli d’Italia",
+    26.0
+   ],
+   [
+    "M5S",
+    15.9
+   ]
+  ]
+ }
+}
